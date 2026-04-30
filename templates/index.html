@@ -13,6 +13,14 @@
             --border: #e5e5e5;
             --accent: #2563eb;
             --accent-light: #dbeafe;
+            --tag-ai: #dcfce7;
+            --tag-ai-text: #166534;
+            --tag-cn: #fef3c7;
+            --tag-cn-text: #92400e;
+            --tag-intl: #dbeafe;
+            --tag-intl-text: #1e40af;
+            --tag-data: #fce7f3;
+            --tag-data-text: #9d174d;
         }
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -33,6 +41,56 @@
         header h1 { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.02em; }
         header p { color: var(--text-secondary); margin-top: 0.25rem; font-size: 0.875rem; }
         .container { max-width: 800px; margin: 0 auto; padding: 2rem 1rem; }
+        
+        /* Tag Cloud */
+        .tag-cloud {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 1rem;
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        .tag-cloud-title {
+            font-size: 0.8125rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.75rem;
+        }
+        .tag-cloud-items {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+        .tag-cloud-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.375rem;
+            padding: 0.375rem 0.875rem;
+            border-radius: 9999px;
+            font-size: 0.875rem;
+            font-weight: 500;
+            cursor: pointer;
+            border: 2px solid transparent;
+            transition: all 0.2s;
+        }
+        .tag-cloud-item:hover { transform: translateY(-1px); }
+        .tag-cloud-item.active {
+            border-color: var(--text);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        .tag-cloud-item .count {
+            font-size: 0.75rem;
+            font-weight: 600;
+            opacity: 0.7;
+        }
+        .tag-all { background: var(--text); color: white; }
+        .tag-ai { background: var(--tag-ai); color: var(--tag-ai-text); }
+        .tag-cn { background: var(--tag-cn); color: var(--tag-cn-text); }
+        .tag-intl { background: var(--tag-intl); color: var(--tag-intl-text); }
+        .tag-data { background: var(--tag-data); color: var(--tag-data-text); }
+        
         .day-section { margin-bottom: 2.5rem; }
         .day-header {
             display: flex;
@@ -60,6 +118,7 @@
             transition: box-shadow 0.2s;
         }
         .news-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
+        .news-card.hidden { display: none; }
         .news-title {
             font-size: 1rem;
             font-weight: 600;
@@ -74,11 +133,10 @@
             font-size: 0.625rem;
             padding: 0.125rem 0.375rem;
             border-radius: 0.25rem;
-            background: #f3f4f6;
-            color: var(--text-secondary);
             white-space: nowrap;
             font-weight: 500;
             margin-top: 0.2rem;
+            flex-shrink: 0;
         }
         .news-meta {
             font-size: 0.8125rem;
@@ -111,6 +169,7 @@
         @media (max-width: 480px) {
             header h1 { font-size: 1.25rem; }
             .container { padding: 1rem; }
+            .tag-cloud { padding: 1rem; }
         }
     </style>
 </head>
@@ -121,6 +180,21 @@
     </header>
 
     <main class="container">
+        <!-- Tag Cloud -->
+        <div class="tag-cloud">
+            <div class="tag-cloud-title">按分类筛选</div>
+            <div class="tag-cloud-items" id="tagCloud">
+                <span class="tag-cloud-item tag-all active" data-tag="all">
+                    全部 <span class="count">{{ tag_stats.total }}</span>
+                </span>
+                {% for tag, count in tag_stats.tags.items() %}
+                <span class="tag-cloud-item tag-{{ tag|lower|replace('前沿', 'ai')|replace('国内', 'cn')|replace('国际', 'intl')|replace('数据', 'data') }}" data-tag="{{ tag }}">
+                    {{ tag }} <span class="count">{{ count }}</span>
+                </span>
+                {% endfor %}
+            </div>
+        </div>
+
         {% if not news_by_date %}
         <div class="empty">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
@@ -132,7 +206,7 @@
         {% endif %}
 
         {% for date, items in news_by_date.items() %}
-        <section class="day-section">
+        <section class="day-section" data-date="{{ date }}">
             <div class="day-header">
                 <h2>{{ date }}</h2>
                 {% if items %}
@@ -141,9 +215,11 @@
             </div>
 
             {% for item in items %}
-            <article class="news-card">
+            <article class="news-card" data-tag="{{ item.tag or '其他' }}">
                 <div class="news-title">
-                    {% if item.tag %}<span class="tag">{{ item.tag }}</span>{% endif %}
+                    {% if item.tag %}
+                    <span class="tag tag-{{ item.tag|lower|replace('前沿', 'ai')|replace('国内', 'cn')|replace('国际', 'intl')|replace('数据', 'data') }}">{{ item.tag }}</span>
+                    {% endif %}
                     <a href="./{{ item._date }}/{{ item._id }}.html">{{ item.title }}</a>
                 </div>
                 <div class="news-meta">
@@ -163,5 +239,34 @@
     <footer>
         <p>最后构建于 {{ build_time }} · 由 GitHub Actions 自动部署</p>
     </footer>
+
+    <script>
+        // Tag filter
+        document.getElementById('tagCloud').addEventListener('click', function(e) {
+            const item = e.target.closest('.tag-cloud-item');
+            if (!item) return;
+            
+            const tag = item.dataset.tag;
+            
+            // Update active state
+            document.querySelectorAll('.tag-cloud-item').forEach(el => el.classList.remove('active'));
+            item.classList.add('active');
+            
+            // Filter cards
+            document.querySelectorAll('.news-card').forEach(card => {
+                if (tag === 'all' || card.dataset.tag === tag) {
+                    card.classList.remove('hidden');
+                } else {
+                    card.classList.add('hidden');
+                }
+            });
+            
+            // Hide empty day sections
+            document.querySelectorAll('.day-section').forEach(section => {
+                const visibleCards = section.querySelectorAll('.news-card:not(.hidden)');
+                section.style.display = visibleCards.length > 0 ? '' : 'none';
+            });
+        });
+    </script>
 </body>
 </html>

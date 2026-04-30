@@ -78,6 +78,20 @@ def generate_site(news_by_date):
         for item in news_by_date[date_str]:
             all_news_flat.append(item)
 
+    # 统计标签分布
+    tag_counts = {}
+    total_count = 0
+    for date_str, items in news_by_date.items():
+        for item in items:
+            total_count += 1
+            tag = item.get("tag", "其他")
+            tag_counts[tag] = tag_counts.get(tag, 0) + 1
+
+    tag_stats = {
+        "total": total_count,
+        "tags": dict(sorted(tag_counts.items(), key=lambda x: -x[1]))
+    }
+
     # 生成首页
     template = env.get_template("index.html")
     recent_dates = sorted(news_by_date.keys(), reverse=True)[:30]
@@ -85,6 +99,7 @@ def generate_site(news_by_date):
 
     html = template.render(
         news_by_date=recent_news,
+        tag_stats=tag_stats,
         build_time=datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         total_days=len(news_by_date),
     )
