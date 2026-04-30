@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Anthropic扩租伦敦新办公室，计划容纳800名员工",
+    "url": "https://www.cdomagazine.tech/aiml/anthropic-expands-london-presence-with-new-office-for-800-employees",
+    "source": "CDO Magazine",
+    "tag": "AI前沿",
+    "time": "18:32",
+    "summary": "Anthropic在伦敦知识区扩租新办公室，可容纳800人，现有200多名员工，紧随OpenAI之后布局英国AI人才中心。"
+  },
+  {
+    "title": "Big Tech Q1砸1300亿美元AI资本支出，谷歌算力告急",
+    "url": "https://www.theneuron.ai/explainer-articles/big-tech-just-spent-130b-on-ai-in-q1-google-literally-ran-out-of-capacity/",
+    "source": "The Neuron",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "四大科技巨头Q1合计投入1300亿美元AI基础设施，谷歌因需求过盛出现算力短缺，微软未开票承诺达6270亿美元。"
+  },
+  {
+    "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
+    "url": "https://blog.mean.ceo/venture-capital-news-april-2026/",
+    "source": "Mean CEO",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "OpenAI创纪录融资1220亿美元，估值8520亿美元，并通过ARK Invest ETF向散户投资者开放，标志私募科技资产准入机制革新。"
+  },
+  {
+    "title": "Q1 2026全球风险投资破3000亿美元，AI基础设施成主旋律",
+    "url": "https://sergeytereshkin.com/publications/startup-and-venture-capital-news-april-24-2026",
+    "source": "Sergey Tereshkin",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "2026年Q1全球风投总额超3300亿美元，OpenAI、Anthropic、xAI、Waymo四大交易重塑晚期投资基准，市场深度增加但广度收窄。"
+  },
+  {
+    "title": "Anthropic年化收入190亿美元，12个月增长14倍",
+    "url": "https://lumichats.com/blog/openai-vs-anthropic-vs-google-deepmind-2026-who-is-actually-winning-the-ai-race",
+    "source": "LumiChats",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic年化收入达190亿美元，同比增长14倍，Claude登顶美区App Store，编码基准领先，企业预算正从竞品向Claude转移。"
+  },
+  {
+    "title": "OpenAI市场份额一年内暴跌19个百分点至68%",
+    "url": "https://lumichats.com/blog/openai-vs-anthropic-vs-google-deepmind-2026-who-is-actually-winning-the-ai-race",
+    "source": "LumiChats",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "OpenAI市场份额从2025年初的87%降至2026年4月的68%，首次面临真正的用户留存压力，AI市场进入真正竞争时代。"
+  },
+  {
+    "title": "2026年被预测为AI「持续学习」元年",
+    "url": "https://www.ithome.com/0/909/939.htm",
+    "source": "IT之家",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "谷歌DeepMind和Anthropic CEO均预测2026年AI将实现持续学习能力，无需重新训练即可持续吸收新知识，被视为AGI关键里程碑。"
+  },
+  {
+    "title": "智谱AI发布GLM-5V-Turbo多模态编程模型，视觉即代码",
+    "url": "https://gitcode.csdn.net/69ec5ccd54b52172bc6ff423.html",
+    "source": "CSDN/Gitcode",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "智谱AI发布GLM-5V-Turbo多模态编程基座模型，可直接将设计稿转为可运行前端代码，Design2Code基准测试达94.8分。"
+  },
+  {
+    "title": "智元机器人第10000台远征A3下线，具身智能进入万台量产阶段",
+    "url": "https://gitcode.csdn.net/69ec5ccd54b52172bc6ff423.html",
+    "source": "CSDN/Gitcode",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "智元机器人宣布第10000台通用具身机器人远征A3下线，15个月内量产规模十倍级跨越，已在汽车制造、3C装配等场景24小时作业。"
+  },
+  {
+    "title": "工信部推进「人工智能+」行动，开展AI+软件专项行动",
+    "url": "https://www.stcn.com/article/detail/3869481.html",
+    "source": "证券时报",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "工信部副部长柯吉欣表示将推进「人工智能+软件」专项行动，加快智能编程研发应用，培育模型即服务、智能体即服务等新业态。"
+  },
+  {
+    "title": "QClaw海外版正式开启内测，5天打造消费级AI智能体",
+    "url": "https://m.36kr.com/p/3777227930224900",
+    "source": "36Kr",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "QClaw团队宣布海外版内测，仅用5天打造完成，99%代码由AI自生产，定位为非技术用户的消费级AI智能体。"
+  },
+  {
+    "title": "小米上线PC/Mac版Miclaw，基于MiMo大模型",
+    "url": "https://m.36kr.com/p/3777227930224900",
+    "source": "36Kr",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "小米宣布上线PC、Mac和有屏音箱版Xiaomi Miclaw，基于MiMo大模型，是国内首款手机端AI智能体应用的多终端延伸。"
+  },
+  {
+    "title": "Netflix Q1营收122.5亿美元，订阅用户达3.25亿",
+    "url": "https://tech-insider.org/netflix-q1-2026-earnings-revenue-subscribers-wbd-termination-fee/",
+    "source": "Tech Insider",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Netflix Q1 2026营收122.5亿美元，EPS 1.23美元超预期62%，订阅用户达3.25亿，广告支持套餐月活1.9亿，市值约4487亿美元。"
+  },
+  {
+    "title": "全球金融科技Q1融资120亿美元，交易数量减少但单笔金额增大",
+    "url": "https://news.crunchbase.com/fintech/global-startup-venture-funding-up-deals-down-q1-2026/",
+    "source": "Crunchbase",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "2026年Q1全球金融科技融资120亿美元，仅751笔交易，比2025年同期减少31.5%，但总额增长5%， late-stage融资占比上升。"
+  },
+  {
+    "title": "Google DeepMind 2026薪酬曝光：工程师总包30-50万美元",
+    "url": "https://jobsbyculture.com/blog/deepmind-compensation-2026",
+    "source": "JobsByCulture",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Google DeepMind工程师L5-L7总薪酬30-50万美元，含公开流通的谷歌股票，在AI实验室中与Anthropic相当，OpenAI中位数更高但股权流动性差。"
+  }
+]
