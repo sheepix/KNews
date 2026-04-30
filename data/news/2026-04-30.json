@@ -1,0 +1,18 @@
+[
+  {
+    "title": "示例新闻：OpenAI 发布 GPT-5 预览版",
+    "url": "https://openai.com/blog",
+    "source": "OpenAI Blog",
+    "tag": "AI前沿",
+    "time": "09:30",
+    "summary": "OpenAI 今日凌晨放出 GPT-5 技术预览，上下文窗口扩展至 256k，代码能力显著提升。"
+  },
+  {
+    "title": "示例新闻：Google I/O 大会定档 5 月 14 日",
+    "url": "https://blog.google",
+    "source": "Google Blog",
+    "tag": "国际科技",
+    "time": "11:15",
+    "summary": "Google 宣布年度开发者大会将于山景城 Shoreline 剧场举行，预计重点展示 Gemini 多模态进展。"
+  }
+]

@@ -1,0 +1,11 @@
+# 忽略生成产物
+dist/
+*.tar.gz
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
