@@ -49,6 +49,12 @@ def generate_index(news_by_date):
     with open(DIST_DIR / "index.html", "w", encoding="utf-8") as f:
         f.write(html)
 
+    # 复制 CNAME 文件（自定义域名需要）
+    cname_file = ROOT / "CNAME"
+    if cname_file.exists():
+        import shutil
+        shutil.copy2(cname_file, DIST_DIR / "CNAME")
+
     # 复制静态资源（如果有）
     static_dir = ROOT / "static"
     if static_dir.exists():
