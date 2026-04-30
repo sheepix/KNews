@@ -144,12 +144,12 @@
             <article class="news-card">
                 <div class="news-title">
                     {% if item.tag %}<span class="tag">{{ item.tag }}</span>{% endif %}
-                    <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+                    <a href="./{{ item._date }}/{{ item._id }}.html">{{ item.title }}</a>
                 </div>
                 <div class="news-meta">
                     {% if item.source %}<span>{{ item.source }}</span>{% endif %}
                     {% if item.time %}<span>{{ item.time }}</span>{% endif %}
-                    {% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">阅读原文 →</a>{% endif %}
+                    <a href="./{{ item._date }}/{{ item._id }}.html">查看详情 →</a>
                 </div>
                 {% if item.summary %}
                 <div class="news-summary">{{ item.summary }}</div>
