@@ -1,0 +1,106 @@
+[
+  {
+    "title": "《时代》杂志公布2026全球十大最具影响力AI公司，字节阿里智谱入选",
+    "url": "https://finance.sina.com.cn/stock/t/2026-04-30/doc-inhwhzrz1175184.shtml",
+    "source": "新浪财经/时代杂志",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "《时代》杂志评选2026年全球十大最具影响力AI公司，字节跳动、阿里巴巴、智谱三家中国公司入选，与OpenAI、Anthropic、Google等共同上榜。"
+  },
+  {
+    "title": "GitHub Copilot将开始根据用户实际AI使用量收费",
+    "url": "https://juejin.cn/post/7634048878762590223",
+    "source": "Ars Technica",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "GitHub宣布Copilot将改变定价模式，从固定订阅转向按实际AI使用量计费，标志着AI编程工具商业化进入精细化阶段。"
+  },
+  {
+    "title": "Google计划向Anthropic投资高达400亿美元",
+    "url": "https://juejin.cn/post/7632479254719496243",
+    "source": "Ars Technica",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Google拟向AI初创公司Anthropic投资400亿美元，若达成将成为AI领域最大单笔投资之一，进一步加剧云计算巨头间的AI军备竞赛。"
+  },
+  {
+    "title": "Scout AI融资1亿美元训练用于军事的AI智能体",
+    "url": "https://juejin.cn/post/7634048878762590223",
+    "source": "TechCrunch",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "国防AI公司Scout AI获1亿美元融资，专门训练用于战争场景的AI智能体，引发军事AI伦理与监管讨论。"
+  },
+  {
+    "title": "特斯拉计划2026年批量交付Semi电动卡车，价格或低于30万美元",
+    "url": "https://www.36kr.com/newsflashes/3730960890052611",
+    "source": "36氪/新浪财经",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "特斯拉计划从2026年夏季开始批量交付Semi电动卡车，预计年内交付5000至15000辆，最终年产量目标5万辆。"
+  },
+  {
+    "title": "F5中国推出本地化基于Token的负载均衡解决方案",
+    "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904v9u2.html",
+    "source": "TechWeb/新浪",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "F5中国推出面向AI智能推理网关的Token Based Load Balancing方案，帮助中国企业应对大模型生产环境的算力过载与高并发挑战。"
+  },
+  {
+    "title": "SpaceX启动IPO路演，目标估值约1.75万亿美元",
+    "url": "https://www.36kr.com/p/3760773247156995",
+    "source": "36氪/The Information",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "SpaceX已向SEC秘密递交上市申请并启动投资者路演，目标估值约1.75万亿美元，募资将用于星舰高频发射、太空AI数据中心及月球基地建设。"
+  },
+  {
+    "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
+    "url": "https://ai6s.net/69f2de4f54b52172bc70edff.html",
+    "source": "人工智能6S服务平台",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "OpenAI官宣完成1220亿美元私募融资，投后估值8520亿美元，由亚马逊、英伟达、软银领衔，月营收已达20亿美元。"
+  },
+  {
+    "title": "Anthropic年化收入增至约300亿美元，企业客户超1000家年支出过百万",
+    "url": "https://m.ofweek.com/ai/2026-04/ART-201712-8420-30686418.html",
+    "source": "OFweek",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "Anthropic年化收入从2025年底的90亿美元增至2026年4月的约300亿美元，Claude Code在AI编程工具市场占有率约54%。"
+  },
+  {
+    "title": "中国五部门联合发布《人工智能拟人化互动服务管理暂行办法》",
+    "url": "https://xingyun3d.csdn.net/69f2de4f54b52172bc70ee02.html",
+    "source": "CSDN",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "国家网信办等五部门联合公布全球首部AI拟人化互动服务专项管理法规，自2026年7月15日起施行，规范AI伴侣、虚拟主播等新业态。"
+  },
+  {
+    "title": "英伟达发布全球首个量子计算校准开源AI模型家族NVIDIA Ising",
+    "url": "https://ai6s.net/69f2de4f54b52172bc70edff.html",
+    "source": "人工智能6S服务平台",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "英伟达在'世界量子日'发布开源AI模型家族NVIDIA Ising，专门用于量子计算校准和纠错，量子概念股应声集体大涨。"
+  },
+  {
+    "title": "亚马逊AWS宣布上线OpenAI产品组合",
+    "url": "https://juejin.cn/post/7634048878762590223",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "AWS正式上线OpenAI产品，标志着微软与OpenAI的独家云合作关系正式终结，云计算AI竞争格局进一步开放。"
+  },
+  {
+    "title": "Google发布TurboQuant算法，大模型内存占用可降至六分之一",
+    "url": "https://5toy.com/page/15",
+    "source": "Ars Technica",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Google披露TurboQuant无损AI内存压缩算法，可在不明显牺牲输出质量的前提下将LLM内存使用量降至原来的六分之一。"
+  }
+]
