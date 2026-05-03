@@ -1,0 +1,106 @@
+[
+  {
+    "title": "六大科技巨头2026年AI资本支出突破7000亿美元",
+    "url": "https://juejin.cn/post/7635264373469626403",
+    "source": "掘金/IT之家",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "谷歌、微软、亚马逊、Meta、苹果、特斯拉六巨头2026年AI基础设施资本支出合计突破7000亿美元，较2024年增长近三倍，AI军备竞赛进入新量级。"
+  },
+  {
+    "title": "五角大楼签约SpaceX/OpenAI/谷歌等7家AI公司",
+    "url": "https://juejin.cn/post/7635264373469626403",
+    "source": "掘金",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "美国国防部与7家AI巨头签署军事AI合作协议，Anthropic因拒绝解除军事应用限制被列\"供应链风险\"，谷歌员工联名抗议军事合作。"
+  },
+  {
+    "title": "DeepSeek V4正式发布并开源：1.6T参数+百万上下文",
+    "url": "https://juejin.cn/post/7635264373469626403",
+    "source": "掘金/华尔街见闻",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "DeepSeek发布V4系列预览版并开源，V4-Pro总参数1.6T、激活参数49B，支持100万Token超长上下文，API定价仅1元/百万Token，成内部默认编码模型。"
+  },
+  {
+    "title": "Kimi K3计划Q3发布，参数量直达2.5万亿",
+    "url": "https://juejin.cn/post/7635264373469626403",
+    "source": "掘金/财新",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "月之暗面Kimi K3计划2026年三季度发布，参数量预计达2.5万亿，上下文长度提升至1M+；K2.6已支持300子Agent并行，可自主运行5天。"
+  },
+  {
+    "title": "谷歌最高400亿美元加注Anthropic，AI两强格局成型",
+    "url": "https://juejin.cn/post/7635264373469626403",
+    "source": "掘金/TechCrunch",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "谷歌拟向Anthropic投资最高400亿美元，入股估值达3800亿美元；Anthropic年化收入从2025年底的90亿美元增至2026年4月的约300亿美元，暴涨超30倍。"
+  },
+  {
+    "title": "Meta收购机器人AI公司ARI，正式进军具身智能",
+    "url": "https://juejin.cn/post/7635264373469626403",
+    "source": "掘金",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Meta完成对机器人AI初创公司Assured Robot Intelligence（ARI）的收购，正面对抗特斯拉Optimus，2026具身智能产业从\"造产品\"转向\"抢落地\"。"
+  },
+  {
+    "title": "斯坦福发布《2026年AI指数报告》：中美AI差距仅2.7%",
+    "url": "https://juejin.cn/post/7635264373469626403",
+    "source": "掘金",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "斯坦福HAI报告显示中美AI开闭源竞争加剧，整体差距仅2.7%；国产大模型DeepSeek V4、Kimi K3、智谱GLM-5.1接连出击，2026年或成\"国产大模型元年\"。"
+  },
+  {
+    "title": "Anthropic拟以900亿美元估值融资500亿美元",
+    "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+    "source": "TechCrunch",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic收到多个主动投资要约，拟以8500-9000亿美元估值融资约500亿美元，或为其IPO前最后一轮私募融资，年化收入已接近400亿美元。"
+  },
+  {
+    "title": "国内AI日均Token调用量突破140万亿，较2024年初增长1000倍",
+    "url": "https://www.tmtpost.com/7974678.html",
+    "source": "钛媒体",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "国内AI日均Token调用量已超140万亿次，较2024年初增长1000倍以上；国产光芯片25G以上产品国产化率仅4%，国产替代窗口期已至。"
+  },
+  {
+    "title": "谷歌首次对外交付TPU硬件，打破云服务独占格局",
+    "url": "https://www.tmtpost.com/7974678.html",
+    "source": "钛媒体/凤凰网",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Alphabet宣布将开始向客户直接交付TPU硬件芯片，为谷歌首次将TPU作为独立产品销售；第八代TPU性能提升2倍、算力提升3倍，首批客户含高频交易机构。"
+  },
+  {
+    "title": "GitHub Copilot宣布6月起全面转向按量计费",
+    "url": "https://juejin.cn/post/7634925717407645730",
+    "source": "掘金",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "微软旗下GitHub Copilot将于6月1日起从固定订阅制全面转向按Token使用量计费，引入\"GitHub AI Credits\"积分体系，标志AI编程工具商业化进入新阶段。"
+  },
+  {
+    "title": "谷歌、微软、亚马逊、Meta四巨头同日发布财报，AI收入分化明显",
+    "url": "https://h5.ifeng.com/c/vivo/v002haVIz6k2UbOvZ-_--CT3TyLBOWgTQocohY2TDcXVJePNM__",
+    "source": "凤凰网",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "四巨头2026年Q1财报同日亮相：谷歌云营收破200亿美元同比增63%，微软AI年化收入超370亿美元，Meta营收同比增33%创2021年来最快增速。"
+  },
+  {
+    "title": "OpenAI计划2026年下半年提交IPO申请",
+    "url": "https://juejin.cn/post/7635264373469626403",
+    "source": "掘金",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "OpenAI计划在2026年下半年提交IPO申请，此前已完成1220亿美元融资，估值8520亿美元；CEO Sam Altman重组领导层加强企业客户销售。"
+  }
+]
