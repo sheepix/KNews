@@ -1,0 +1,86 @@
+[
+  {
+    "title": "OpenAI计划推出AI手机，用AI智能体取代应用",
+    "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+    "source": "TechCrunch",
+    "tag": "AI前沿",
+    "summary": "OpenAI被曝正与苹果前设计师Jony Ive合作开发AI原生手机，意图用AI智能体替代传统App交互模式。"
+  },
+  {
+    "title": "Anthropic和OpenAI双双推出企业AI服务合资公司",
+    "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+    "source": "TechCrunch",
+    "tag": "AI前沿",
+    "summary": "两大AI巨头同日宣布与华尔街私募成立合资企业，Anthropic募资15亿美元，OpenAI募资40亿美元，剑指企业AI服务市场。"
+  },
+  {
+    "title": "Meta收购人形机器人初创公司ARI，加码具身智能",
+    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "source": "TechCrunch",
+    "tag": "AI前沿",
+    "summary": "Meta收购旧金山机器人初创Assured Robot Intelligence，团队将加入Superintelligence Labs，推动人形机器人基础模型研发。"
+  },
+  {
+    "title": "Meta签约太空太阳能夜间供电",
+    "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+    "source": "TechCrunch",
+    "tag": "AI前沿",
+    "summary": "Meta与Overview Energy签订容量预留协议，计划通过卫星向地面太阳能农场发射红外光实现夜间发电，最高预留1GW。"
+  },
+  {
+    "title": "微软与OpenAI正式废除AGI条款",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
+    "source": "The Verge",
+    "tag": "AI前沿",
+    "summary": "双方宣布移除合同中著名的AGI触发条款，微软对OpenAI的授权转为非独家并延至2032年， revenue share改设上限至2030年。"
+  },
+  {
+    "title": "百度文心助手接入DeepSeek-V4",
+    "url": "https://www.ithome.com/0/945/501.htm",
+    "source": "IT之家",
+    "tag": "AI前沿",
+    "summary": "百度文心助手完成DeepSeek-V4预览版接入部署，并向全社会免费开放，深度融合百度搜索与知识体系。"
+  },
+  {
+    "title": "五角大楼与Nvidia、微软、AWS等签约在机密网络部署AI",
+    "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "summary": "美国国防部与八家AI公司达成协议，允许在IL6/IL7机密网络部署AI用于合法作战用途，Anthropic因安全条款争议被排除在外。"
+  },
+  {
+    "title": "Ubuntu及Canonical服务遭DDoS攻击瘫痪超20小时",
+    "url": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "summary": "亲伊朗黑客组织313 Team对Canonical发动持续DDoS攻击，导致Ubuntu官网、安全API及软件更新服务长时间中断。"
+  },
+  {
+    "title": "AI生成演员和剧本失去奥斯卡评选资格",
+    "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "summary": "美国电影艺术与科学学院更新评选规则，明确完全由AI生成的表演和剧本不具备奥斯卡参选资格。"
+  },
+  {
+    "title": "亚马逊向所有企业开放全球物流网络",
+    "url": "https://finance.sina.com.cn/headline/2026-05-05/doc-inhwuxfq9292687.shtml",
+    "source": "新浪财经",
+    "tag": "国际科技",
+    "summary": "亚马逊宣布允许其他企业通过其供应链服务存储和运输商品，正式向UPS和联邦快递主导的B2B物流市场发起挑战。"
+  },
+  {
+    "title": "小米汽车4月交付超3万辆，环比增长50%",
+    "url": "https://finance.sina.com.cn/headline/2026-05-05/doc-inhwusxq9992361.shtml",
+    "source": "新浪财经",
+    "tag": "国内科技",
+    "summary": "小米汽车4月交付量突破3万辆，环比大增50%，新一代SU7锁单超7万台，带动港股小米集团盘中涨超10%。"
+  },
+  {
+    "title": "四大科技巨头2026年AI资本开支达7250亿美元，同比增长77%",
+    "url": "https://www.tmtpost.com/7975690.html",
+    "source": "钛媒体",
+    "tag": "行业数据",
+    "summary": "微软、谷歌、Meta、亚马逊2026年合计AI资本支出预计达7250亿美元，同比增长77%，算力军备竞赛持续升温。"
+  }
+]
