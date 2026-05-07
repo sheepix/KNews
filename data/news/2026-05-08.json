@@ -1,0 +1,122 @@
+[
+  {
+    "title": "中国制造新观察：好用才是AI的目标",
+    "url": "http://finance.sina.com.cn/jjxw/2026-05-08/doc-inhxckax4498456.shtml",
+    "source": "新浪财经",
+    "tag": "国内科技",
+    "time": "05:00",
+    "summary": "第九届数字中国建设峰会显示我国AI已进入规模化商用阶段，全球AI专利占比达60%，应用向智能体升级带动Token消耗爆发式增长。"
+  },
+  {
+    "title": "苹果首款AI视觉TWS设备进入开发后期",
+    "url": "http://finance.sina.com.cn/jjxw/2026-05-08/doc-inhxckat2475836.shtml",
+    "source": "财联社/新浪财经",
+    "tag": "国际科技",
+    "time": "07:00",
+    "summary": "马克·古尔曼透露内置摄像头的AirPods进入DVT阶段，摄像头将作为AI版Siri的'眼睛'观察用户周围空间并提供信息。"
+  },
+  {
+    "title": "无问芯穹再获超7亿元融资",
+    "url": "https://www.nbd.com.cn/articles/2026-05-07/4382940.html",
+    "source": "每日经济新闻",
+    "tag": "行业数据",
+    "time": "08:00",
+    "summary": "无问芯穹完成超7亿元融资，居中国AI原生基础设施公司融资规模之首，资本持续加码算力中间层与底层基建。"
+  },
+  {
+    "title": "阿里千问PC端上线AI语音输入功能",
+    "url": "https://finance.eastmoney.com/a/202605083730561755.html",
+    "source": "东方财富网",
+    "tag": "AI前沿",
+    "time": "09:00",
+    "summary": "阿里千问在PC端推出AI语音输入法，支持去语气词、纠错、格式化整理，基于上下文智能回复并可直接下达创作翻译指令。"
+  },
+  {
+    "title": "SpaceX与Anthropic签署算力协议进军太空算力",
+    "url": "https://www.nbd.com.cn/articles/2026-05-07/4382800.html",
+    "source": "每日经济新闻",
+    "tag": "AI前沿",
+    "time": "07:00",
+    "summary": "马斯克旗下xAI与Anthropic建立计算合作，提供Colossus 1超算访问权限，未来1个月带来超300兆瓦新增容量，相当于22万张英伟达GPU。"
+  },
+  {
+    "title": "智元机器人灵犀X2开启商业化招募",
+    "url": "http://k.sina.com.cn/article_7857141524_1d452771401902aktc.html",
+    "source": "新浪新闻",
+    "tag": "国内科技",
+    "time": "10:00",
+    "summary": "上海智元机器人宣布灵犀X2将于5月22日开启合作伙伴招募，售价十几万至三四十万元，标志着人形机器人开始走出实验室迈向商业化。"
+  },
+  {
+    "title": "中国科学家实现14.5公里远距离物质纠缠",
+    "url": "https://www.nbd.com.cn/articles/2026-05-07/4382800.html",
+    "source": "每日经济新闻",
+    "tag": "国内科技",
+    "time": "07:00",
+    "summary": "中国科研团队在量子纠缠领域取得新突破，实现14.5公里远距离物质纠缠，为量子通信和量子计算发展奠定重要基础。"
+  },
+  {
+    "title": "OpenAI发布GPT-5.5 Instant设为默认模型",
+    "url": "https://cj.sina.com.cn/articles/view/1733360754/6750fc7202001ffya",
+    "source": "新浪财经",
+    "tag": "AI前沿",
+    "time": "06:00",
+    "summary": "GPT-5.5 Instant开始在ChatGPT中推出，在保持低延迟的同时准确性、回复风格和个性化能力均有提升，医疗法律金融类幻觉率下降约52.5%。"
+  },
+  {
+    "title": "中美正考虑启动人工智能官方讨论",
+    "url": "https://www.tmtpost.com/fm/7979779.html",
+    "source": "钛媒体",
+    "tag": "国际科技",
+    "time": "08:00",
+    "summary": "华尔街日报报道称中美双方考虑在北京中美元首会晤期间讨论AI议题，由美方财长贝森特牵头，外交部表示双方就特朗普访华保持沟通。"
+  },
+  {
+    "title": "高盛预测企业级智能体将推动Token消耗五年增长24倍",
+    "url": "https://www.nbd.com.cn/articles/2026-05-07/4382800.html",
+    "source": "每日经济新闻/高盛",
+    "tag": "行业数据",
+    "time": "07:00",
+    "summary": "高盛报告指出企业级智能体将推动全球Token消耗量在五年内增长24倍，AI应用向千行百业渗透带动算力需求爆发式增长。"
+  },
+  {
+    "title": "全球大语言模型用户总数突破38亿",
+    "url": "https://www.stcn.com/article/detail/3895851.html",
+    "source": "证券时报/Counterpoint",
+    "tag": "行业数据",
+    "time": "09:00",
+    "summary": "2026年Q1全球大语言模型用户总数突破38亿，Meta、谷歌和OpenAI领跑，总收入约207亿美元，Anthropic、OpenAI、Google占前三。"
+  },
+  {
+    "title": "Anthropic年化收入超440亿美元估值逼近万亿美元",
+    "url": "https://www.stcn.com/article/detail/3895851.html",
+    "source": "证券时报/Semi Analysis",
+    "tag": "行业数据",
+    "time": "09:00",
+    "summary": "Anthropic ARR已超过440亿美元，隐含估值一度触及1万亿美元超越OpenAI，美国五万家企业中付费客户占比在三月猛增至30.6%。"
+  },
+  {
+    "title": "Google发布无屏幕Fitbit Air健康追踪器",
+    "url": "https://techcrunch.com/2026/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "time": "10:00",
+    "summary": "谷歌推出类似Whoop的无屏幕可穿戴设备Fitbit Air，专注于健康追踪功能，标志Google在可穿戴健康领域的新布局。"
+  },
+  {
+    "title": "Moonshot AI获20亿美元融资估值达200亿美元",
+    "url": "https://techcrunch.com/2026/",
+    "source": "TechCrunch",
+    "tag": "AI前沿",
+    "time": "11:00",
+    "summary": "中国Moonshot AI（月之暗面）完成20亿美元融资，估值达200亿美元，开源AI需求激增推动投资者对中国大模型公司热情高涨。"
+  },
+  {
+    "title": "Meta将使用AI分析身高骨骼结构识别未成年用户",
+    "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+    "source": "TechCrunch",
+    "tag": "AI前沿",
+    "time": "08:00",
+    "summary": "Meta宣布将使用AI扫描照片视频中的身高骨骼结构等视觉线索来识别13岁以下用户并将其移除，强调这不是面部识别。"
+  }
+]
