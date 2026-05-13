@@ -1,0 +1,100 @@
+[
+  {
+    "title": "阿里云Q4财报：AI收入89.71亿元，占比首次突破30%",
+    "url": "https://finance.sina.com.cn/jjxw/2026-05-14/doc-inhxuwsz4234589.shtml",
+    "source": "新浪财经",
+    "tag": "国内科技",
+    "summary": "阿里云外部商业化收入同比增长加速至40%，AI相关产品收入连续11个季度三位数增长，吴泳铭预计年底AI模型与应用服务ARR突破300亿元。"
+  },
+  {
+    "title": "马化腾回应腾讯AI是否落后：一年前以为上了船，后来发现漏水了",
+    "url": "https://finance.sina.cn/2026-05-13/detail-inhxusky9096474.d.html",
+    "source": "新浪财经",
+    "tag": "国内科技",
+    "summary": "腾讯股东大会上，马化腾以"站票"比喻腾讯AI现状，承认早期判断偏差，表示正通过人才引进和团队重组补全短板，Hy3 preview模型在同等参数规模中性能领先。"
+  },
+  {
+    "title": "Anthropic推出Claude for Small Business，瞄准中小企业市场",
+    "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+    "source": "TechCrunch",
+    "tag": "AI前沿",
+    "summary": "Anthropic发布面向中小企业的Claude for Small Business，集成QuickBooks、PayPal、HubSpot等工具，可自动处理 payroll、发票催收等任务，并启动全美10城市推广巡回。"
+  },
+  {
+    "title": "微信联合腾讯元宝上线群聊AI总结功能",
+    "url": "https://www.tmtpost.com/fm/7987154.html",
+    "source": "钛媒体",
+    "tag": "国内科技",
+    "summary": "用户可将微信群消息（99+条）转发至元宝获取深度总结，还支持发票报销表格生成、基于聊天记录制定旅行方案等功能。"
+  },
+  {
+    "title": "2026全球AI终端展在深圳开幕，坪山携30家企业参展",
+    "url": "https://www.sznews.com/news/content/mb/2026-05/13/content_32048885.htm",
+    "source": "深圳新闻网",
+    "tag": "国内科技",
+    "summary": "5月14日至16日，第七届深圳国际人工智能展览会举行，展览面积30000平方米，坪山展区携30家企业、近100款创新产品亮相。"
+  },
+  {
+    "title": "腾讯发布2026年Q1财报：收入1964.6亿元，AI投入拖累利润",
+    "url": "https://finance.sina.cn/tech/2026-05-13/detail-inhxuncf4403008.d.html",
+    "source": "新浪财经",
+    "tag": "行业数据",
+    "summary": "腾讯Q1收入同比增长9%，Non-IFRS经营利润756.3亿元同比增长9%；若剔除新AI产品影响，经营利润同比增长17%至844亿元，微信月活达14.32亿。"
+  },
+  {
+    "title": "阿里吴泳铭：未来AI基建投入资金将远超3800亿元",
+    "url": "https://www.nbd.com.cn/articles/2026-05-13/4391557.html",
+    "source": "每日经济新闻",
+    "tag": "AI前沿",
+    "summary": "阿里CEO吴泳铭在财报电话会上表示，面向未来五年目标，AI基建相关投入资金会远远超过3800亿元，年底AI模型与应用服务ARR将突破300亿元。"
+  },
+  {
+    "title": "美国防务科技初创Anduril完成50亿美元融资，估值超600亿美元",
+    "url": "https://www.nbd.com.cn/articles/2026-05-13/4391557.html",
+    "source": "每日经济新闻",
+    "tag": "国际科技",
+    "summary": "Anduril宣布完成50亿美元H轮融资，估值达610亿美元，由Thrive Capital和Andreessen Horowitz领投，较去年6月增长近一倍。"
+  },
+  {
+    "title": "国家医保局印发AI+医保监管五年行动计划",
+    "url": "https://wap.eastmoney.com/a/202605143736404642.html",
+    "source": "东方财富网",
+    "tag": "国内科技",
+    "summary": "国家医保局发布《医疗保障基金监督检查五年行动计划（2026-2030）》，探索AI+影像识别、AI+病例判读等场景，精准发现虚假检查、过度诊疗等违规行为。"
+  },
+  {
+    "title": "OpenAI与马斯克诉讼案新进展：Zilis出庭作证",
+    "url": "https://www.theverge.com/archives/2026/5/14",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "summary": "OpenAI前董事会成员Shivon Zilis在庭审中透露，ChatGPT发布前未通知董事会，且对OpenAI与Helion的潜在交易表示担忧，称Altman和Brockman均为Helion投资人。"
+  },
+  {
+    "title": "浙江嘉兴：制造业重镇引入AI服装设计，芯片天车系统实现自主可控",
+    "url": "https://www.tsinghua.edu.cn/info/1182/126077.htm",
+    "source": "清华大学新闻网",
+    "tag": "国内科技",
+    "summary": "深服人工智能科技推出"画衣衣"AI服装设计软件；华芯智能装备天车系统成功交付国内多家12英寸晶圆厂，并率先落地FULLYAUTO数字化解决方案。"
+  },
+  {
+    "title": "美国4月PPI同比上升6%，创2022年以来最大升幅",
+    "url": "https://www.nbd.com.cn/articles/2026-05-13/4391557.html",
+    "source": "每日经济新闻",
+    "tag": "行业数据",
+    "summary": "受能源价格上涨推动，美国4月生产者价格指数（PPI）同比上升6%，环比升幅也创下2022年以来最大，核心指标同比上升5.2%。"
+  },
+  {
+    "title": "李彦宏：AI时代度量衡应为DAA（日活智能体数），而非Token消耗",
+    "url": "https://www.tmtpost.com/fm/7987154.html",
+    "source": "钛媒体",
+    "tag": "AI前沿",
+    "summary": "百度创始人李彦宏提出，AI时代应关注"日活智能体数"（DAA）而非Token消耗，衡量平台和生态繁荣应看有多少Agents在给人类干活并交付结果。"
+  },
+  {
+    "title": "阿里巴巴全年收入首次突破1万亿元，平头哥自研GPU规模化量产",
+    "url": "https://www.stcn.com/article/detail/3907704.html",
+    "source": "证券时报",
+    "tag": "行业数据",
+    "summary": "阿里2026财年收入达10236.7亿元，同比增长3%；宣布派发约25亿美元股息，平头哥自研GPU芯片已实现规模化量产。"
+  }
+]
