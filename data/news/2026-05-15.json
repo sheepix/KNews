@@ -1,0 +1,130 @@
+[
+  {
+    "title": "xAI推出首款编程智能体Grok Build，剑指Claude Code",
+    "url": "https://wallstreetcn.com/articles/3772314",
+    "source": "华尔街见闻",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "xAI发布首款AI编程智能体Grok Build，支持计划模式、并行子智能体及代码仓库集成，目标直指Anthropic的Claude Code。"
+  },
+  {
+    "title": "Anthropic企业付费用户占比首超OpenAI",
+    "url": "https://letsdatascience.com/blog/anthropic-passed-openai-business-adoption-ramp-index",
+    "source": "Ramp / TechCrunch",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Ramp 5月AI指数显示，Anthropic企业付费用户占比达34.4%，首次超过OpenAI的32.3%，一年内增长近4倍。"
+  },
+  {
+    "title": "谷歌首次发现AI生成零日漏洞利用实战案例",
+    "url": "https://www.tmtpost.com/7984185.html",
+    "source": "钛媒体/新华社",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "谷歌威胁情报小组报告全球首例AI生成零日漏洞攻击工具，攻击者利用定制化开源AI模型将漏洞开发周期从数周压缩至数天。"
+  },
+  {
+    "title": "OpenAI与苹果关系恶化，准备采取法律行动",
+    "url": "https://wallstreetcn.com/articles/3772314",
+    "source": "华尔街见闻",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "苹果与OpenAI长达两年的合作关系趋于紧张，OpenAI未能从合作中获得预期收益，目前正与外部律所合作研究法律行动方案。"
+  },
+  {
+    "title": "Anthropic推出Claude for Small Business，嵌入QuickBooks等工具",
+    "url": "https://pasqualepillitteri.it/en/news/2524/claude-for-small-business-anthropic-smb-2026",
+    "source": "Anthropic",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic推出面向中小企业的Claude解决方案，嵌入QuickBooks、PayPal、HubSpot等工具，免费提供15项自动化技能。"
+  },
+  {
+    "title": "前阿里千问负责人林俊旸创业，新公司估值约20亿美元",
+    "url": "https://www.36kr.com/p/3808362853834502",
+    "source": "36氪",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "前阿里千问大模型技术负责人林俊旸开启创业，方向包括世界模型和具身大脑，以约20亿美元估值融资，接触红杉中国等机构。"
+  },
+  {
+    "title": "百度Create2026 AI开发者大会：DuMate与百度一镜发布",
+    "url": "https://www.36kr.com/p/3808362853834502",
+    "source": "36氪",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "百度在Create2026大会上发布DuMate移动端App和升级后的全场景数字人平台百度一镜，强化长程任务执行与主动决策能力。"
+  },
+  {
+    "title": "微信Agent近期不会上线，腾讯AI研发单季亏损约88亿",
+    "url": "https://wallstreetcn.com/articles/3772314",
+    "source": "华尔街见闻",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "腾讯财报电话会透露，由于大模型能力尚需打磨且需平衡生态利益，微信Agent短期大概率不会上线，Q1 AI研发推广环比烧钱翻倍。"
+  },
+  {
+    "title": "鸿海Q1净利润超预期，AI服务器占服务器总营收50%以上",
+    "url": "https://wallstreetcn.com/articles/3772314",
+    "source": "华尔街见闻",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "受四大科技巨头7250亿美元资本开支带动，鸿海Q1净利润达499.2亿新台币超预期，AI机架出货量全年有望翻倍。"
+  },
+  {
+    "title": "OpenAI联合六大科技巨头发布MRC协议改善GPU网络性能",
+    "url": "https://www.theverge.com/archives/2026/5/15",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "OpenAI与AMD、博通、英特尔、微软、英伟达合作发布MRC协议，旨在改善大规模AI训练集群中的GPU网络性能与韧性。"
+  },
+  {
+    "title": "43%美国人将数据中心视为电费上涨主因",
+    "url": "https://www.theverge.com/archives/2026/5/15",
+    "source": "The Verge / Pew Research",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Pew Research最新调查显示，43%的美国人将数据中心列为电费上涨的主要原因，该议题正成为跨党派的共同关注点。"
+  },
+  {
+    "title": "微软探索与AI初创公司交易，为后OpenAI时代做准备",
+    "url": "https://www.36kr.com/newsflashes/3808317289832196",
+    "source": "36氪 / 财联社",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "据报道微软正探索与AI初创公司达成交易，曾考虑收购Cursor但放弃，目前与Inception就至少10亿美元交易进行谈判。"
+  },
+  {
+    "title": "Cerebras IPO首日暴涨68%，市值突破千亿美元",
+    "url": "https://wallstreetcn.com/articles/3772314",
+    "source": "华尔街见闻",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "被誉为英伟达挑战者的AI芯片公司Cerebras上市首日股价飙升68.2%，市值突破千亿美元，IPO获得超25倍认购需求。"
+  },
+  {
+    "title": "英伟达七天涨20%，市值逼近6万亿美元大关",
+    "url": "https://wallstreetcn.com/articles/3772314",
+    "source": "华尔街见闻",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "英伟达股价七日累计上涨20%，市值增加逾9000亿美元，向6万亿美元关口逼近，成为史上估值最高的公司之一。"
+  },
+  {
+    "title": "2026年全球四大云厂商资本开支预计超8000亿美元",
+    "url": "https://finance.eastmoney.com/a/202605063728516855.html",
+    "source": "东方财富 / 美银证券",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "美银证券将2026年全球超大规模云计算企业资本支出预测上调至超8000亿美元，同比增长67%，预计2027年突破1万亿美元。"
+  },
+  {
+    "title": "SK海力士市值逼近万亿美元，韩国或成全球第二家双万亿国家",
+    "url": "https://wallstreetcn.com/articles/3772314",
+    "source": "华尔街见闻",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "SK海力士市值逼近万亿美元大关，若成功突破，韩国将成为除美国外全球唯一拥有两家万亿美元市值公司的国家。"
+  }
+]
