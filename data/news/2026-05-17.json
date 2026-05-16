@@ -1,0 +1,130 @@
+[
+  {
+    "title": "OpenAI与Apple合作关系告急，Apple或将转向Gemini或Anthropic",
+    "url": "https://toolcrush.io/blog/ai-news-may-14-2026",
+    "source": "ToolCrush/Bloomberg",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "OpenAI与Apple的合作关系 reportedly 严重恶化，OpenAI已聘请外部法律顾问准备后续行动，Apple正在探索用Google Gemini或Anthropic替代作为未来设备的AI合作伙伴。"
+  },
+  {
+    "title": "OpenAI发布GPT-5.5 Instant，高 stakes 场景幻觉率降低52.5%",
+    "url": "https://www.vtnetzwelt.com/ai-development/latest-ai-technology-news-roundup-may-2026/",
+    "source": "VT Netzwelt",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "OpenAI在5月5日发布GPT-5.5的轻量版Instant，在医学、法律、金融等高 stakes 提示词上幻觉率较上一代降低52.5%，定价为每百万输入/输出 tokens 5/30美元。"
+  },
+  {
+    "title": "Anthropic一周六连发：ARR达440亿美元，签约SpaceX超算协议",
+    "url": "https://aiweekly.co/issues/anthropic-just-had-ais-biggest-week-of-2026",
+    "source": "AI Weekly",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic在五天内向投资者披露Q1收入同比增长80倍，ARR超440亿美元，并与SpaceX签署计算协议，发布Claude Code Auto Mode和开放Agent SDK。"
+  },
+  {
+    "title": "DeepSeek首轮融资估值达450亿美元，国家大基金拟领投",
+    "url": "https://m.thepaper.cn/newsDetail_forward_33164844",
+    "source": "澎湃新闻/财经网",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "DeepSeek正寻求超500亿元人民币首轮融资，创始人梁文锋计划个人出资200亿元占40%，腾讯拟出资60亿元，国家集成电路大基金洽谈领投，投后估值或突破3500亿元。"
+  },
+  {
+    "title": "月之暗面Kimi完成20亿美元融资，投后估值突破200亿美元",
+    "url": "https://tidenews.com.cn/news.html?id=3438419",
+    "source": "潮新闻/36氪",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Kimi由美团龙珠领投完成新一轮20亿美元融资，投后估值突破200亿美元，成为中国大模型创业公司融资最多企业，累计融资超376亿元人民币。"
+  },
+  {
+    "title": "Google DeepMind提出AI增强鼠标指针，可在各应用中直接行动",
+    "url": "https://toolcrush.io/blog/ai-news-may-14-2026",
+    "source": "ToolCrush/Google DeepMind",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Google DeepMind发表研究提出AI增强鼠标指针，可直接在界面内总结、比较、编辑并对高亮信息采取行动，已透过Chrome和Google AI Studio进行实验。"
+  },
+  {
+    "title": "特斯拉AI5芯片完成流片，性能较AI4提升40倍",
+    "url": "https://news.softunis.com/56340.html",
+    "source": "软盟资讯",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "马斯克宣布特斯拉AI5芯片已完成流片并移交代工厂，计划2027年量产，单芯性能对标英伟达Hopper、双芯接近Blackwell，将作为FSD与Optimus核心算力芯片。"
+  },
+  {
+    "title": "Googlebook取代Chromebook，Android与ChromeOS合并",
+    "url": "https://toolcrush.io/blog/ai-news-may-14-2026",
+    "source": "ToolCrush",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Google在I/O前宣布新笔记本产品线Googlebook，取代Chromebook品牌，将Android与ChromeOS合并为更统一的系统，主打Gemini Intelligence整合，直接竞争Apple低价MacBook。"
+  },
+  {
+    "title": "Cerebras IPO首日暴涨108%，OpenAI锁定200亿美元多年合同",
+    "url": "https://hub.baai.ac.cn/view/54720",
+    "source": "新智元",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "AI芯片公司Cerebras登陆纳斯达克成为2026年美国最大科技IPO，首日股价从185美元涨至311美元，OpenAI签署超200亿美元多年合同锁定750兆瓦算力。"
+  },
+  {
+    "title": "谷歌Android 17 AI功能曝光，Gemini Intelligence深度整合",
+    "url": "https://www.mediapost.com/publications/article/415033/",
+    "source": "MediaPost",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Google在I/O前公布Android 17多项AI功能，Gemini Intelligence将支持多步自动化、屏幕上下文理解和跨应用操作，率先登陆Galaxy S26和Pixel 10系列。"
+  },
+  {
+    "title": "智谱发布GLM-5.1并再次提价10%，MaaS平台ARR达17亿元",
+    "url": "https://www.ebrun.com/20260412/656021.shtml",
+    "source": "第一财经/亿邦动力",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "智谱发布旗舰开源模型GLM-5.1，长程任务能力显著提升可连续工作超8小时，同时API再次提价10%，MaaS平台ARR达17亿元同比提升60倍。"
+  },
+  {
+    "title": "字节跳动推出原生全双工语音大模型Seeduplex",
+    "url": "https://www.ebrun.com/20260412/656021.shtml",
+    "source": "IT之家",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "字节跳动发布原生全双工语音大模型Seeduplex，基于边听边说框架设计，交互自然度和顺畅度大幅提升，已在豆包App全量上线。"
+  },
+  {
+    "title": "腾讯上线国内首个浏览器智能体QBotClaw",
+    "url": "https://www.ebrun.com/20260412/656021.shtml",
+    "source": "36氪",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "QQ浏览器发布国内首个浏览器智能体QBotClaw，支持自由配置国内主流大模型API Key，内置QQ浏览器Skill，首期上线Mac版本。"
+  },
+  {
+    "title": "三星HBM4E样品5月投产，瞄准英伟达标准",
+    "url": "https://k.sina.cn/article_7857201856_1d45362c001904fho0.html",
+    "source": "财联社/科创板日报",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "三星电子计划最早于2026年5月生产出首批符合英伟达标准的HBM4E样品，目标下月中旬前让代工部门成功生产出核心逻辑芯片样品。"
+  },
+  {
+    "title": "Scale AI获美国国防部5亿美元AI合同，规模较此前扩大5倍",
+    "url": "https://36kr.com/newsflashes/3798413026467079",
+    "source": "新浪财经/36氪",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "Meta投资的AI公司Scale AI赢得五角大楼价值5亿美元合同，为空军开发代理型AI系统，较2025年9月获得的1亿美元合同规模扩大五倍。"
+  },
+  {
+    "title": "欧盟AI Act合规截止日期推迟至2027年12月",
+    "url": "https://aiweekly.co/issues/anthropic-just-had-ais-biggest-week-of-2026",
+    "source": "AI Weekly/Bloomberg",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "欧盟就AI Act合规达成新协议，高风险AI规则执行截止日期从2026年8月推迟至2027年12月，为企业在招聘、贷款、教育、执法、医疗设备等领域的AI部署提供额外16个月缓冲期。"
+  }
+]
