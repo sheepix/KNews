@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Anthropic洽谈超300亿美元融资，估值或突破9000亿美元",
+    "url": "https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html",
+    "source": "Bloomberg/New York Times",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic正与投资者洽谈至少300亿美元的新融资，估值有望超过9000亿美元，若达成将首次超越OpenAI成为全球估值最高私人AI公司。"
+  },
+  {
+    "title": "PwC宣布全面部署Claude，将培训3万名专业人员",
+    "url": "https://www.pwc.com/us/en/about-us/newsroom/press-releases/anthropic-pwc-expand-alliance-agentic-enterprise.html",
+    "source": "PwC/Anthropic",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "普华永道宣布扩大与Anthropic的战略联盟，在全球范围内部署Claude Code和Claude Cowork，首批培训3万名专业人员，是2026年最大的企业AI部署之一。"
+  },
+  {
+    "title": "Anthropic与盖茨基金会达成2亿美元合作，聚焦全球健康与教育",
+    "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+    "source": "Anthropic",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic与盖茨基金会建立2亿美元合作伙伴关系，将Claude应用于全球健康、生命科学、教育普及和小农农业生产力等公益领域。"
+  },
+  {
+    "title": "Anthropic推出Claude for Small Business，降低中小企业AI部署门槛",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-may-16-2026",
+    "source": "AIToolsRecap",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic发布面向中小企业的Claude for Small Business，提供预构建连接器和即用工作流，无需技术配置即可在常用工具中部署AI自动化。"
+  },
+  {
+    "title": "NVIDIA开源SANA-WM世界模型，单张RTX 5090可生成720p 60秒视频",
+    "url": "https://www.marktechpost.com/2026/05/16/nvidia-introduces-sana-wm-a-2-6b-parameter-open-source-world-model-that-generates-minute-scale-720p-video-on-a-single-gpu/",
+    "source": "MarkTechPost",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "NVIDIA发布26亿参数开源世界模型SANA-WM，可通过单张RTX 5090在34秒内生成720p 60秒视频，支持6自由度相机控制，将视频生成从数据中心推向个人GPU。"
+  },
+  {
+    "title": "Meta Avocado AI模型发布窗口过半仍无消息，内部测试性能不及预期",
+    "url": "https://aihaven.com/news/meta-avocado-ai-model-delayed-may-2026/",
+    "source": "AI Haven/Reuters",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Meta代号Avocado的下一代AI模型原计划在5-6月发布，但5月已过半仍无公告；内部测试显示其性能介于Gemini 2.5与3.0之间，难以与GPT-5.5或Claude Opus 4.7竞争。"
+  },
+  {
+    "title": "Google I/O 2026倒计时：Android XR眼镜预览、Gemini 4.0有望发布",
+    "url": "https://www.androidcentral.com/phones/live/google-i-o-2026-live-blog-android-17-android-xr-glasses-and-all-the-gemini-ai-news",
+    "source": "Android Central",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Google I/O 2026 keynote将于5月19日上午10点(PT)举行，预计发布Android XR眼镜预览、可能推出Gemini 4.0旗舰模型，以及Aluminium OS和Google Cloud Agent工具包。"
+  },
+  {
+    "title": "谷歌Android Show发布Googlebooks笔记本，Gemini Intelligence深度整合",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-may-12-2026",
+    "source": "AIToolsRecap",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Google在Android Show上发布Googlebooks笔记本产品线，由Acer、Asus、Dell、HP、Lenovo等厂商代工，深度整合Gemini Intelligence，取代Chromebook直接竞争Apple低价MacBook。"
+  },
+  {
+    "title": "SpaceX提交550亿美元Terafab芯片工厂计划，德州建自主GPU产线",
+    "url": "https://techstartups.com/2026/05/06/spacex-files-55b-terafab-chip-factory-plan-in-texas-as-musk-doubles-down-on-ai-chips/",
+    "source": "Tech Startups/NY Times",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "SpaceX向德州Grimes County提交550亿美元Terafab芯片工厂计划，目标自研GPU减少对外部供应链依赖，若后期扩建总投资可能达1190亿美元，将采用Intel 14A工艺。"
+  },
+  {
+    "title": "OpenAI与Apple合作恶化，Apple或转向Gemini/Anthropic",
+    "url": "https://toolcrush.io/blog/ai-news-may-14-2026",
+    "source": "ToolCrush/Bloomberg",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "OpenAI与Apple合作关系 reportedly 严重恶化，OpenAI已聘请外部法律顾问准备后续行动，Apple正在探索用Google Gemini或Anthropic替代作为未来设备的AI合作伙伴。"
+  },
+  {
+    "title": "五角大楼签署8份机密AI合同，Anthropic被永久排除在外",
+    "url": "https://www.idlen.io/news/pentagon-8-classified-ai-contracts-openai-google-spacex-anthropic-excluded-may-2026/",
+    "source": "Idlen/CNN",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "美国国防部与OpenAI、Google、Microsoft、AWS、Nvidia、SpaceX、Oracle和Reflection AI签署IL6/IL7级机密网络AI合同，Anthropic因拒绝修改安全限制条款被永久排除。"
+  },
+  {
+    "title": "Google DeepMind英国员工98%投票支持组建工会，反对五角大楼AI合同",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-may-9-2026",
+    "source": "AIToolsRecap",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "Google DeepMind英国员工以98%赞成率投票支持组建工会，成为顶级AI实验室中首个工会组织，核心诉求之一是反对公司参与五角大楼机密AI合同项目。"
+  },
+  {
+    "title": "月之暗面Kimi完成20亿美元融资，投后估值突破200亿美元",
+    "url": "https://tidenews.com.cn/news.html?id=3438419",
+    "source": "潮新闻/36氪",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "Kimi由美团龙珠领投完成新一轮20亿美元融资，投后估值突破200亿美元，成为中国大模型创业公司融资最多企业，累计融资超376亿元人民币。"
+  },
+  {
+    "title": "Zerostack：纯Rust编写的Unix风格编码Agent仅12MB内存",
+    "url": "https://sesamedisk.com/zerostack-unix-influenced-rust-ai-agent-2026/",
+    "source": "SesameDisk",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "开源项目Zerostack发布，一个仅7000行代码、纯Rust编写的Unix风格编码Agent，运行仅需约12MB内存，在Hacker News获得480点赞和254条评论。"
+  },
+  {
+    "title": "DeepSeek首轮融资估值达450亿美元，国家大基金拟领投",
+    "url": "https://m.thepaper.cn/newsDetail_forward_33164844",
+    "source": "澎湃新闻/财经网",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "DeepSeek正寻求超500亿元人民币首轮融资，创始人梁文锋计划个人出资200亿元占40%，腾讯拟出资60亿元，国家集成电路大基金洽谈领投，投后估值或突破3500亿元。"
+  },
+  {
+    "title": "5月AI初创公司融资 surge：37笔交易、250亿美元披露金额",
+    "url": "https://inforcapital.com/blog/2026-05-09-ai-startup-funding-surges-in-may-37-deals-and-25-billion-as-investors-double-down-on-machine-learning/",
+    "source": "InforCapital",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "2026年5月AI初创公司融资 surge，37笔AI相关交易占全部VC交易的45%，公开披露金额达250亿美元，中位数约3000万美元，Moonshot、Lambda和Infra.Market领跑大额交易。"
+  },
+  {
+    "title": "斯坦福HAI发布2026 AI指数报告：全球企业AI投资翻倍增长",
+    "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/economy",
+    "source": "Stanford HAI",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "2026年斯坦福AI指数报告显示，2025年全球企业AI投资翻倍，私人投资增速达127.5%占总额60%，生成式AI投资增长超200%占近半私人AI融资，新获融资AI公司增长71%。"
+  },
+  {
+    "title": "Cerebras IPO首日暴涨108%，OpenAI锁定200亿美元多年算力合同",
+    "url": "https://hub.baai.ac.cn/view/54720",
+    "source": "新智元",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "AI芯片公司Cerebras登陆纳斯达克成为2026年美国最大科技IPO，首日股价从185美元涨至311美元，OpenAI签署超200亿美元多年合同锁定750兆瓦算力。"
+  },
+  {
+    "title": "Anthropic Q1收入同比增长80倍，年化经常性收入达440亿美元",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-may-11-2026",
+    "source": "AIToolsRecap",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "Anthropic披露2026年Q1收入同比增长80倍，年化经常性收入(ARR)超过440亿美元，Claude Code单独贡献25亿美元年化收入，年度消费超10万美元客户同比增长7倍。"
+  }
+]
