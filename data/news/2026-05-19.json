@@ -1,0 +1,93 @@
+[
+  {
+    "title": "百度2026年Q1财报：AI收入占比首次过半，成核心驱动力",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-05-18/doc-inhyimem8074746.shtml",
+    "source": "新浪科技",
+    "tag": "行业数据",
+    "summary": "百度Q1总营收321亿元，AI业务收入136亿元占比达52%，AI云收入增长79%"
+  },
+  {
+    "title": "Anthropic CEO专访：Claude新功能几乎完全由AI自主开发",
+    "url": "https://www.36kr.com/p/3813023648669955",
+    "source": "36氪",
+    "tag": "AI前沿",
+    "summary": "Amodei透露Claude Opus自主开发新功能仅耗时一周半，公司ARR达440亿美元"
+  },
+  {
+    "title": "OpenAI大规模重组，总裁Brockman挂帅合并三大产品线",
+    "url": "https://www.36kr.com/p/3811615591292680",
+    "source": "36氪",
+    "tag": "AI前沿",
+    "summary": "ChatGPT、Codex和API紧急合并为统一产品组织，为IPO前夕最大架构调整"
+  },
+  {
+    "title": "ASIC赛道彻底火了：AI算力民主化运动加速",
+    "url": "https://www.36kr.com/p/3812836670398209",
+    "source": "36氪",
+    "tag": "国内科技",
+    "summary": "ASIC芯片赛道爆发，本质是AI算力去中心化，让中小用户也能用上定制化算力"
+  },
+  {
+    "title": "国内首个开源开放AI智能体共性基础设施灵玑OS发布",
+    "url": "https://www.ncsti.gov.cn/kjdt/kjrd/rgzn_kjrd/",
+    "source": "国际科技创新中心",
+    "tag": "国内科技",
+    "summary": "5月15日发布，破解智能体产业连不上、干不成、管不住、控不稳四大痛点"
+  },
+  {
+    "title": "谷歌Gemini 3.2 Flash偷跑上线，编码能力大幅提升",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "AI前沿",
+    "summary": "可一次生成2200行代码，推理成本降15-20倍，延迟低于200毫秒"
+  },
+  {
+    "title": "蚂蚁百灵Ring-2.6-1T开源，Agent执行能力全面增强",
+    "url": "https://www.qbitai.com/2026/05/417961.html",
+    "source": "量子位",
+    "tag": "AI前沿",
+    "summary": "AIME 26得分达95.83，国产开源Agent模型编程与推理能力大幅提升"
+  },
+  {
+    "title": "龙虾之父Karpathy公开月度token账单940万元，OpenAI全包",
+    "url": "https://www.36kr.com/p/3812812318858755",
+    "source": "36氪",
+    "tag": "AI前沿",
+    "summary": "Andrej Karpathy使用AI编程月度token账单约130万美元，称复杂需求还是Claude更好"
+  },
+  {
+    "title": "北大王立威团队LLM助力突破尘封60年数学猜想",
+    "url": "https://www.163.com/dy/article/KT7BE8RP0511AQHO.html",
+    "source": "网易",
+    "tag": "AI前沿",
+    "summary": "将Gilbert-Pollak猜想斯坦纳比下界从0.824提升至0.8559，成果被ICML 2026接收"
+  },
+  {
+    "title": "Figure AI直播人形机器人分拣快递对抗赛，连续工作33小时",
+    "url": "https://www.ithome.com/0/950/762.htm",
+    "source": "IT之家",
+    "tag": "国际科技",
+    "summary": "Figure 03机器人分拣超4万个包裹，以2.6秒/件略胜人类员工的3秒/件"
+  },
+  {
+    "title": "MIT学霸创立N7 Interactive推出AI生活方式平台Viba",
+    "url": "https://www.aitntnews.com/newDetail.html?newId=25227",
+    "source": "AITNT",
+    "tag": "AI前沿",
+    "summary": "定位懂审美的AI闺蜜，MVP测试用户次周留存达53%，获小米黎万强家办投资"
+  },
+  {
+    "title": "华为openJiuwen社区发布JiuwenSwarm蜂群智能体",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "国内科技",
+    "summary": "落地协同工程范式，实现多AI智能体高效自主协作，PinchBench评测获94.2%"
+  },
+  {
+    "title": "图灵奖得主LeCun离开Meta创办AMI，专注世界模型",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "AI前沿",
+    "summary": "批评LLM不是通往AGI的路径，预测JEPA类世界模型五年内将主导AI领域"
+  }
+]
