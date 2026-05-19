@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Google and Blackstone launch $5B AI cloud venture to challenge Nvidia's grip",
+    "url": "https://www.reuters.com/business/google-blackstone-create-new-ai-cloud-company-wsj-reports-2026-05-19/",
+    "source": "Reuters",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Google与Blackstone成立合资企业，初期投入50亿美元，总投资可达250亿美元，提供TPU算力即服务"
+  },
+  {
+    "title": "Meta begins 10% layoffs as AI investments reshape company priorities",
+    "url": "https://www.cnbc.com/2026/05/19/meta-begins-10-layoffs-ai-investments.html",
+    "source": "CNBC",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Meta启动新一轮裁员，削减约8000个岗位（10%），同时取消6000个空缺职位，2026年资本支出指引上调至1450亿美元"
+  },
+  {
+    "title": "Mistral AI acquires Austrian physics AI startup Emmi AI",
+    "url": "https://www.reuters.com/business/autos-transportation/mistral-ai-buys-austrian-physics-ai-startup-industrial-push-2026-05-19/",
+    "source": "Reuters",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Mistral收购奥地利物理AI初创公司Emmi AI，进军工业仿真领域，服务制造、航空航天和半导体客户"
+  },
+  {
+    "title": "Amazon rolls out Alexa+ feature for on-demand AI-generated podcasts",
+    "url": "https://www.aboutamazon.com/news/devices/alexa-ai-podcasts",
+    "source": "Amazon",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Amazon推出Alexa Podcasts功能，用户可让Alexa在几分钟内基于200多家新闻源生成任意主题的播客节目"
+  },
+  {
+    "title": "ASML says first chips from High-NA machines are coming within months",
+    "url": "https://www.reuters.com/technology/asml-high-na-chips-2026-05-19/",
+    "source": "Reuters",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "ASML宣布其新一代High-NA光刻机将在数月内产出首批芯片，单台售价约4亿美元"
+  },
+  {
+    "title": "OpenAI defeats Elon Musk lawsuit, clearing another IPO obstacle",
+    "url": "https://www.reuters.com/technology/openai-musk-lawsuit-2026-05-19/",
+    "source": "Reuters",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "美国陪审团驳回Elon Musk对OpenAI的诉讼，为OpenAI的IPO之路扫清又一障碍"
+  },
+  {
+    "title": "Firefox brings AI 'Shake to Summarize' to Android",
+    "url": "https://www.theverge.com/2026/5/19/firefox-shake-to-summarize-android",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Mozilla将'Shake to Summarize'AI摘要功能扩展至Android版Firefox，用户摇一摇即可生成网页摘要"
+  },
+  {
+    "title": "谷歌发布全天候AI管家Gemini Spark",
+    "url": "https://finance.sina.com.cn/tech/2026-05-20/doc-inhynmhz7195672.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "01:50",
+    "summary": "Google I/O大会发布Gemini Spark通用AI代理，可跨应用推理并执行用户指令，首批面向Google AI Ultra订阅者"
+  },
+  {
+    "title": "谷歌发布多模态大模型旗舰Gemini Omni",
+    "url": "https://finance.sina.com.cn/world/2026-05-20/doc-inhynezc7320678.shtml",
+    "source": "新浪财经",
+    "tag": "国内科技",
+    "time": "01:26",
+    "summary": "Google发布世界模型Omni，可模拟物理环境并预测用户行为的后续结果，将用于视频编辑和图像生成"
+  },
+  {
+    "title": "谷歌 I/O 大会直击：Gemini 月活逼近 9 亿，AI 搜索横扫 25 亿用户",
+    "url": "https://finance.sina.com.cn/world/2026-05-20/doc-inhyneyz2075891.shtml",
+    "source": "新浪财经",
+    "tag": "国内科技",
+    "time": "01:23",
+    "summary": "Google I/O大会披露Gemini月活接近9亿，AI搜索覆盖25亿用户，Gemini 3.5 Flash将成为默认模型"
+  },
+  {
+    "title": "B站Q1业绩会实录：AI放大B站竞争优势，相关开支将显著增长",
+    "url": "https://finance.sina.com.cn/tech/2026-05-19/doc-inhymysz9844773.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "22:24",
+    "summary": "B站Q1调整后净利润5.9亿元，日活用户1.15亿，公司表示AI将放大竞争优势，相关投入将显著增长"
+  },
+  {
+    "title": "AI进入'结果交付时代'，百度率先跨过价值拐点",
+    "url": "https://finance.sina.com.cn/tech/it/2026-05-19/doc-inhymivk0031828.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "15:42",
+    "summary": "百度表示AI已从实验阶段进入结果交付时代，公司率先实现价值拐点"
+  },
+  {
+    "title": "Anthropic收购Stainless，夺取OpenAI和Google的核心开发工具",
+    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "source": "TechCrunch",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic以超3亿美元收购SDK自动生成工具Stainless，该产品此前被OpenAI、Google等竞争对手广泛使用"
+  },
+  {
+    "title": "Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic",
+    "url": "https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html",
+    "source": "CNBC",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Google I/O发布Gemini 3.5 Flash/Pro、AI代理Gemini Spark和世界模型Omni，在OpenAI和Anthropic的IPO竞争压力下加速产品迭代"
+  },
+  {
+    "title": "Anthropic签署SpaceX Colossus 1超级计算机协议，获得22万+NVIDIA GPU",
+    "url": "https://aitoolsrecap.com/blog/ai-news-may-6-2026",
+    "source": "AIToolsRecap",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic与SpaceX签署Colossus 1协议，获得超过22万块NVIDIA GPU和300MW算力，同日Claude Code付费用户速率限制翻倍"
+  },
+  {
+    "title": "Anthropic Q1营收同比增长80倍，年化收入超440亿美元",
+    "url": "https://aitoolsrecap.com/blog/ai-news-may-7-2026",
+    "source": "AIToolsRecap",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic披露Q1营收同比增长80倍，年化经常性收入超440亿美元，成为AI行业增长最快的公司之一"
+  },
+  {
+    "title": "四家中国实验室12天内连发四大开源模型，能力比肩西方前沿",
+    "url": "https://aitoolsrecap.com/blog/ai-news-may-4-2026",
+    "source": "AIToolsRecap",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "智谱GLM-5.1、MiniMax M2.7、月之暗面Kimi K2.6、DeepSeek V4在12天内相继发布开源模型，推理成本仅为Claude Opus 4.7的三分之一"
+  },
+  {
+    "title": "Pentagon签署AI协议涉及SpaceX、OpenAI、Google等，Anthropic被排除在外",
+    "url": "https://aitoolsrecap.com/blog/ai-news-may-5-2026",
+    "source": "AIToolsRecap",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "美国防部与SpaceX、OpenAI、Google、Microsoft、Nvidia等签署AI协议，Anthropic因诉讼被排除，UK AISI称GPT-5.5在网络安全基准上媲美Anthropic受限模型"
+  },
+  {
+    "title": "DeepSeek谈判以450亿美元估值进行融资",
+    "url": "https://aitoolsrecap.com/blog/ai-news-may-7-2026",
+    "source": "AIToolsRecap",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "DeepSeek正在进行融资谈判，估值高达450亿美元，同时SpaceX申请在德州建设550亿美元的Terafab芯片工厂"
+  },
+  {
+    "title": "Decart raises $300M as Nvidia backs AI chip-switching software",
+    "url": "https://www.wsj.com/tech/ai/decart-300m-nvidia-chip-switching-2026-05-19",
+    "source": "WSJ",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "旧金山初创公司Decart融资3亿美元，Nvidia参投，其软件帮助AI公司在不同厂商的芯片间迁移模型"
+  },
+  {
+    "title": "GridCARE raises $64M to help data centers unlock more grid capacity",
+    "url": "https://techstartups.com/2026/05/19/gridcare-64m-data-center-grid/",
+    "source": "TechStartups",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "电网智能初创公司GridCARE融资6400万美元，帮助数据中心从现有电网获取更多电力容量"
+  },
+  {
+    "title": "Ex-Google and DeepMind engineers launch $4.5M-funded Agentic AI martech platform Pomo",
+    "url": "https://marketingtechnews.net/2026/05/19/pomo-agentic-ai-martech-4-5m/",
+    "source": "MarketingTechNews",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "前Google和DeepMind工程师创立Pomo，融资450万美元，打造面向中端市场团队的Agentic营销智能平台"
+  },
+  {
+    "title": "China's YMTC begins pre-IPO process amid chip self-sufficiency push",
+    "url": "https://www.reuters.com/technology/ymtc-pre-ipo-china-chip-2026-05-19/",
+    "source": "Reuters",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "中国闪存芯片龙头长江存储启动IPO前辅导，中信证券为辅导机构，在美国出口限制下推进芯片自主"
+  },
+  {
+    "title": "Anthropic's Mythos AI to brief global financial watchdog on systemic cyber vulnerabilities",
+    "url": "https://www.reuters.com/technology/anthropic-mythos-fsb-cyber-2026-05-19/",
+    "source": "Reuters",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic将向其FSB及G20央行披露未发布的Mythos模型发现的全球金融体系网络漏洞"
+  }
+]
