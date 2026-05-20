@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Google I/O 2026发布Gemini 3.5 Flash与Omni模型，搜索全面AI化",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+    "source": "Google Blog",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "谷歌在I/O 2026大会上发布Gemini 3.5 Flash（最强Agent与编程模型）、Omni多模态视频生成模型，以及7×24小时个人AI管家Spark，搜索框迎来25年来最大升级。"
+  },
+  {
+    "title": "NVIDIA Q1财季营收创纪录达820亿美元，数据中心业务飙升",
+    "url": "https://www.wsj.com/tech/ai/nvidia-nvda-1st-quarter-earnings-report-2026-stock-c2bb9c1c",
+    "source": "WSJ",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "受AI智能体与数据中心算力需求推动，NVIDIA第一季度营收达820亿美元，再次打破华尔街预期，并宣布大幅提高股息。"
+  },
+  {
+    "title": "Anthropic年化收入突破440亿美元，Q1同比增长80倍",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-may-2026",
+    "source": "AIToolsRecap",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "Anthropic披露Q1 2026收入同比增长80倍，年化经常性收入（ARR）超过440亿美元，并与SpaceX签署Colossus 1超级计算机协议。"
+  },
+  {
+    "title": "DeepSeek融资估值飙升至450亿美元，中国大基金领投",
+    "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+    "source": "TechCrunch",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "DeepSeek首轮外部融资估值从200亿飙升至450亿美元，中国半导体大基金领投，腾讯和阿里巴巴参投。"
+  },
+  {
+    "title": "OpenAI联合创始人Andrej Karpathy宣布加入Anthropic预训练团队",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "AI前沿",
+    "time": "10:14",
+    "summary": "Karpathy在X平台宣布加入Anthropic，将组建新子团队用Claude加速预训练研究，这是两年内第三位从OpenAI转投Anthropic的核心人物。"
+  },
+  {
+    "title": "Mozilla使用Claude Mythos一个月修复423个安全漏洞",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "AI前沿",
+    "time": "09:51",
+    "summary": "Firefox团队借助Anthropic的Claude Mythos Preview，在一个月内修复423个安全漏洞，超过此前15个月总和，其中271个由Mythos自主发现。"
+  },
+  {
+    "title": "全球AI GPU严重短缺，H100价格涨幅近40%",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "国际科技",
+    "time": "15:13",
+    "summary": "2026年5月硅谷出现严重AI算力短缺，H100缺货、H200一夜涨价30%，英伟达内部研究员也拿不到GPU，交货周期长达36-52周。"
+  },
+  {
+    "title": "阿里云发布磐久AL128超节点服务器，搭载自研真武M890芯片",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "国内科技",
+    "time": "16:26",
+    "summary": "阿里云在2026阿里云峰会上发布磐久AL128超节点服务器，搭载平头哥首发自研真武M890 AI芯片，累计出货56万片，支持万亿参数大模型单节点运行。"
+  },
+  {
+    "title": "四大中国实验室12天内连发开源权重编程模型，性能比肩西方前沿",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-may-2026",
+    "source": "AIToolsRecap",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "Z.ai GLM-5.1、MiniMax M2.7、Moonshot Kimi K2.6和DeepSeek V4在12天内相继发布开源权重编程模型，推理成本不到Claude Opus 4.7的三分之一。"
+  },
+  {
+    "title": "Microsoft Agent 365正式上线，企业级AI Agent治理平台商用",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-may-2026",
+    "source": "AIToolsRecap",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "微软于5月2日正式推出Agent 365，将身份认证、安全与治理工具扩展至企业环境中的AI Agent，标志着Agentic AI从概念进入企业部署阶段。"
+  },
+  {
+    "title": "Google I/O 2026：Gemini Spark个人AI代理与AI Mode搜索代理登场",
+    "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "谷歌推出Gemini Spark——基于Gemini 3.5的24/7云端个人AI代理，可自动监控信用卡账单、追踪学校邮件并整合项目笔记，今年夏天向Ultra订阅者开放。"
+  },
+  {
+    "title": "谷歌推出AI Ultra订阅计划，月费100美元对标高端AI服务",
+    "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "谷歌在I/O 2026发布AI Ultra订阅计划，定价每月100美元，提供比Pro计划多5倍的使用额度，同时推出Antigravity 2.0开发者平台。"
+  },
+  {
+    "title": "Q1 2026全球风险投资破纪录达3000亿美元，AI计算投资激增150%",
+    "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+    "source": "Crunchbase News",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "Crunchbase数据显示，2026年Q1全球投资者向6000家初创企业投入3000亿美元，环比增长超150%，AI计算和前沿实验室是主要驱动力。"
+  },
+  {
+    "title": "摩尔线程发布MUSA生态，国产GPU软件工具链实现全链路覆盖",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "国内科技",
+    "time": "15:15",
+    "summary": "摩尔线程在北京发布MUSA生态，实现全链路GPU软件工具链覆盖，兼容CUDA全量算子，云端万卡集群已商业化落地。"
+  },
+  {
+    "title": "Meta收购Assured Robot Intelligence，加速人形机器人布局",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-may-2026",
+    "source": "AIToolsRecap",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Meta收购机器人智能公司Assured Robot Intelligence，加码人形机器人赛道，成为继特斯拉、Figure AI之后又一家入场的大厂。"
+  }
+]
