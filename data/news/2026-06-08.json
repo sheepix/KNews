@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Microsoft Build 2026 发布7大重磅公告：AI全面接管",
+    "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "微软Build 2026大会发布全新AI助手Scout、自研推理模型MAI-Thinking-1、Surface RTX Spark开发套件，以及量子计算芯片Majorana 2。"
+  },
+  {
+    "title": "WWDC 2026前瞻：Siri将迎来重大AI改造，集成Google Gemini",
+    "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "苹果WWDC 2026即将开幕，Siri将借助Google Gemini技术实现重大AI升级，同时推出独立Siri应用、AI Agent应用商店和Image Playground更新。"
+  },
+  {
+    "title": "Nvidia推出RTX Spark处理器，进军Arm PC市场",
+    "url": "https://arstechnica.com/gadgets/2026/06/nvidia-gets-into-the-arm-pc-business-with-new-high-end-rtx-spark-processor/",
+    "source": "Ars Technica",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Nvidia发布RTX Spark处理器，集成Arm CPU和RTX GPU，将为Windows笔记本工作站和迷你桌面PC提供统一内存架构。"
+  },
+  {
+    "title": "Microsoft Surface Laptop Ultra成为首款Nvidia RTX Spark Arm PC",
+    "url": "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
+    "source": "Ars Technica",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "微软Surface Laptop Ultra将成为首批搭载Nvidia RTX Spark芯片的Arm PC，定位为MacBook Pro的真正竞争对手。"
+  },
+  {
+    "title": "FTC对微软发起反垄断调查，涉及云计算与AI业务",
+    "url": "https://www.theverge.com/policy/940220/microsoft-ftc-antitrust-investigation-cloud-ai",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "美国联邦贸易委员会对微软展开反垄断调查，重点关注Azure云服务的许可条款和在AI行业的竞争行为。"
+  },
+  {
+    "title": "Google与FBI警告：勒索软件组织派遣假IT人员上门攻击",
+    "url": "https://techcrunch.com/latest/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Google和FBI联合警告，某勒索软件组织通过派遣伪装IT人员上门的方式对受害者进行物理接触式黑客攻击。"
+  },
+  {
+    "title": "Meta从OpenAI、DeepMind和Anthropic大规模挖角AI人才",
+    "url": "https://www.thehindu.com/sci-tech/technology/meta-poaches-top-ai-talent-from-openai-and-deepmind-as-zuckerberg-escalates-ai-push/article69762633.ece",
+    "source": "The Hindu",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Meta被曝已从OpenAI、Google DeepMind和Anthropic挖走约20名顶尖AI科学家，加速其AI战略推进。"
+  },
+  {
+    "title": "OpenAI、DeepMind、Anthropic联合警告：AI推理透明度窗口正在关闭",
+    "url": "https://venturebeat.com/ai/openai-google-deepmind-and-anthropic-sound-alarm-we-may-be-losing-the-ability-to-understand-ai/",
+    "source": "VentureBeat",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "40多名来自OpenAI、Google DeepMind、Anthropic和Meta的研究人员联合发表论文，警告AI思维链监控能力可能因技术进步而永久消失。"
+  },
+  {
+    "title": "Google与SpaceX签署短期算力协议，满足Gemini Enterprise需求",
+    "url": "https://www.theverge.com/tech",
+    "source": "The Verge",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Google紧随Anthropic之后与SpaceX签署短期计算协议，以满足其AI代理平台Gemini Enterprise的激增客户需求。"
+  },
+  {
+    "title": "LinkedIn联合创始人Reid Hoffman将离开微软董事会",
+    "url": "https://www.theverge.com/tech",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "LinkedIn联合创始人Reid Hoffman宣布离开微软董事会，专注于其去年联合创立的AI药物开发初创公司Manas。"
+  },
+  {
+    "title": "亚马逊Leo卫星获FCC延期，计划6月17日发射新批次",
+    "url": "https://www.theverge.com/tech",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "亚马逊的Starlink竞争对手Leo卫星获得FCC延期，计划在6月17日通过Arianespace发射36颗新卫星。"
+  },
+  {
+    "title": "影石创新2025年营收97.4亿元，加大芯片与AI研发投入",
+    "url": "https://www.pingwest.com/w/313369",
+    "source": "品玩",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "影石创新2025年营收达97.4亿元，创始人刘靖康表示公司正大幅增加研发投入，布局芯片与AI技术，三大新品将在一年内上市。"
+  },
+  {
+    "title": "天元星完成数千万元天使轮融资，专注工业具身智能平台",
+    "url": "https://eu.36kr.com/en/newsflashes/3699467276529280",
+    "source": "36氪",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "通用工业具身智能平台天元星近日完成数千万元天使轮融资，投资方包括宏德投资、盛世宏源、海源资本等。"
+  },
+  {
+    "title": "Polymarket CMO被曝向网红支付至少35万美元推广费",
+    "url": "https://www.theverge.com/tech",
+    "source": "The Verge",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "Polymarket首席营销官Matthew Modabber被曝通过个人PayPal向多位内容创作者支付至少35万美元用于推广预测市场平台。"
+  }
+]
