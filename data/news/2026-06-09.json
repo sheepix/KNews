@@ -1,0 +1,114 @@
+[
+  {
+    "title": "SpaceX计划750亿美元IPO，创历史纪录",
+    "url": "https://www.cnn.com/2026/06/03/business/spacex-ipo-valuation-musk",
+    "source": "CNN",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "马斯克旗下SpaceX宣布计划筹集750亿美元进行IPO，公司估值约1.77万亿美元，超越沙特阿美2019年294亿美元的纪录。"
+  },
+  {
+    "title": "Alphabet宣布800亿美元股权融资，巴菲特投资100亿",
+    "url": "https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html",
+    "source": "CNBC",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "Alphabet宣布通过股票销售筹集800亿美元用于AI建设，其中包括巴菲特旗下伯克希尔·哈撒韦100亿美元的私募投资。"
+  },
+  {
+    "title": "四大AI巨头14天内密集发布新模型：Google、OpenAI、Anthropic、Microsoft",
+    "url": "https://currentaffair.today/Blog/technology-13/4-ai-giants-launch-in-14-days-google-io-openai-gpt-55-anthropic-opus-48-microsoft-mai-who-wins-790",
+    "source": "CurrentAffair",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "2026年6月AI模型大战加速：Google I/O发布Gemini 3.5 Flash，OpenAI推出GPT-5.5 Instant，Anthropic发布Opus 4.8，Microsoft unveil MAI-Thinking-1。"
+  },
+  {
+    "title": "OpenAI、Anthropic、Google DeepMind CEO联合签署公开信，要求国会筛查合成DNA",
+    "url": "https://www.yahoo.com/news/politics/articles/openai-anthropic-google-ceos-call-135317808.html",
+    "source": "Yahoo News",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Sam Altman等AI巨头CEO签署公开信，敦促美国国会立法要求对合成DNA和RNA订单进行强制筛查，防止AI技术被用于生物武器开发。"
+  },
+  {
+    "title": "Anthropic发布Claude Opus 4.8，SWE-Bench Verified达88.6%",
+    "url": "https://aireleasetracker.com/latest",
+    "source": "AI Release Tracker",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic于5月28日发布Claude Opus 4.8，在SWE-Bench Verified基准测试中达到88.6%的准确率，成为当时最强编程AI模型。"
+  },
+  {
+    "title": "豆包推出付费后月活减少610万",
+    "url": "https://www.163.com/dy/media/T1374539835965.html",
+    "source": "网易/36氪",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "字节跳动旗下AI产品豆包推出付费服务后，月活跃用户减少610万，显示国内AI产品商业化面临用户流失挑战。"
+  },
+  {
+    "title": "Tripo AI完成近2亿美元融资，阿里、百度参与投资",
+    "url": "https://techstartups.com/2026/06/01/venture-capital-startup-funding-roundup-june-1-2026/",
+    "source": "TechStartups",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "3D AI生成初创公司Tripo AI完成近2亿美元融资，投资方包括阿里巴巴、百度风投等，2026年累计融资已近2.5亿美元。"
+  },
+  {
+    "title": "2026年Q1全球风险投资超3000亿美元，AI占主导",
+    "url": "https://aifundingtracker.com/top-50-ai-startups/",
+    "source": "AI Funding Tracker",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "2026年上半年成为风投和公开市场历史上最重要的六个月，Q1全球风险投资超过3000亿美元，AI领域占据主导地位。"
+  },
+  {
+    "title": "700人参加广州智能装备和AI展览",
+    "url": "https://www.chinadaily.com.cn/business/tech/",
+    "source": "China Daily",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "6月3日，700名参与者齐聚广州参加智能装备和AI展览，展示中国在智能制造和人工智能领域的最新进展。"
+  },
+  {
+    "title": "佛罗里达州起诉OpenAI和Anthropic，指控AI模型风险",
+    "url": "https://imfounder.com/science-tech/explosive-tech-news-june-2026-ai-lawsuits-ipos-cyberattacks/",
+    "source": "ImFounder",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "佛罗里达州对OpenAI和Anthropic提起诉讼，成为美国首个因AI模型潜在风险而起诉主要AI公司的州。"
+  },
+  {
+    "title": "Google DeepMind Gemini Omni Flash实现原生视频输出",
+    "url": "https://github.com/krsanford/ai-nightly-news/blob/main/LLM-Daily-2026-06-01.md",
+    "source": "GitHub/AI Nightly News",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Google DeepMind发布Gemini Omni Flash，成为首个在统一架构中实现原生视频输出的顶级AI模型，可同时处理文本、图像、视频和音频。"
+  },
+  {
+    "title": "Anthropic呼吁全球放缓AI开发，警告自我改进风险",
+    "url": "https://www.163.com/dy/media/T1374539835965.html",
+    "source": "网易/36氪",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic发布报告呼吁全球放缓AI开发速度，警告AI系统可能具备自我改进能力，带来不可控风险。"
+  },
+  {
+    "title": "IBM发布2026年AI与技术趋势预测报告",
+    "url": "https://www.ibm.com/cn-zh/think/news/ai-tech-trends-predictions-2026",
+    "source": "IBM",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "IBM采访了AI、安全、量子等领域的多位专家，发布2026年AI与技术趋势预测报告，探讨科技发展方向。"
+  },
+  {
+    "title": "AI面试禁令：万亿美元市值公司禁止求职者使用AI",
+    "url": "https://txtmix.com/posts/news/ai-morning-news-2026-06-08/",
+    "source": "Text Matrix",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "多家万亿美元市值公司开始禁止求职者在面试过程中使用AI工具，引发关于AI辅助与公平竞争的讨论。"
+  }
+]
