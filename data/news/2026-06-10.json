@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Anthropic confidentially files for IPO at record $965B valuation",
+    "url": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html",
+    "source": "CNBC",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic正式向SEC秘密提交IPO招股书，估值达9650亿美元，超越OpenAI成为AI领域最具价值初创公司。"
+  },
+  {
+    "title": "Microsoft and Google take on Anthropic and OpenAI in AI coding models",
+    "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
+    "source": "CNBC",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "微软和谷歌正加速追赶Anthropic和OpenAI在AI编程领域的主导地位，计划推出更具竞争力的编码模型。"
+  },
+  {
+    "title": "Anthropic overtakes OpenAI in annualized revenue as AI race heats up",
+    "url": "https://lumichats.com/blog/openai-vs-anthropic-vs-google-deepmind-2026-who-is-actually-winning-the-ai-race",
+    "source": "Lumichats",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic在年化收入方面首次超越OpenAI，但Google在基准测试中领先，OpenAI仍保持60%消费者流量。"
+  },
+  {
+    "title": "OpenAI, Anthropic, Google launch major AI model updates in 2026",
+    "url": "https://digitalmindnews.com/companies/openai/openai-anthropic-google-launch-major-ai-model-updates-in-2026/",
+    "source": "Digital Mind News",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "2026年初三大AI实验室密集发布模型更新：OpenAI推出ChatGPT Images 2.0，Anthropic发布Claude Design，Google推出Deep Research Max。"
+  },
+  {
+    "title": "Apple's macOS Tahoe will be the final release for Intel-based Macs",
+    "url": "https://www.theverge.com/news/683846/macos-tahoe-intel-x86-arm-m-cpu",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "苹果宣布macOS Tahoe将是Intel Mac的最后一个主要版本，未来将全面转向Apple Silicon，Intel Mac将继续获得三年安全更新。"
+  },
+  {
+    "title": "Xbox rethinking Project Helix console due to RAM supply crisis",
+    "url": "https://www.theverge.com/news/926065/xbox-project-helix-more-information-later-this-year",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Xbox策略主管承认低估了RAM危机影响，正重新评估下一代Helix主机计划以确保 affordability 和灵活性。"
+  },
+  {
+    "title": "Apple requires developers to disclose 'social media capabilities' in apps",
+    "url": "https://www.theverge.com/archives/tech/2026/6/1",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "苹果新规要求开发者声明应用是否包含社交媒体功能，将影响应用年龄分级和Screen Time的Time Allowance计算。"
+  },
+  {
+    "title": "Google launches live AI translation via phone earpiece mode",
+    "url": "https://www.theverge.com/archives/tech/2026/6/1",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Google为Android用户推出3.5 Live Translate聆听模式，用户可将手机贴近耳朵如同打电话般接收实时翻译音频。"
+  },
+  {
+    "title": "Microsoft AI CEO calls speculation about AI consciousness 'dangerous'",
+    "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "微软AI CEO Mustafa Suleyman在播客中批评Anthropic关于AI意识的猜测既危险又是哲学失败，强调AI应作为可控工具服务人类。"
+  },
+  {
+    "title": "Meta AI plans move forward despite Instagram account hijackings",
+    "url": "https://www.theverge.com/archives/tech/2026/6/1",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "尽管近期发生Instagram大规模账户劫持事件，Meta内部文件显示公司决定不调整主要AI产品计划，仅暂停一项实验性密码恢复聊天功能。"
+  },
+  {
+    "title": "AI Frontier Fund: OpenAI, Anthropic, Google unite against model copying",
+    "url": "https://opentools.ai/news/tech-titans-join-forces-openai-anthropic-and-google-combat-ai-model-copying-in-china",
+    "source": "OpenTools",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "OpenAI、Anthropic和Google DeepMind联合发起10亿美元AI Frontier Fund，旨在打击中国公司对AI模型的未授权复制。"
+  },
+  {
+    "title": "Four labs, four acquisitions in five days signal AI consolidation wave",
+    "url": "https://www.startuphub.ai/ai-news/ai-news/2026/four-labs-four-acquisitions-ai-consolidation-may-2026",
+    "source": "StartupHub.ai",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "Anthropic、Mistral、Google DeepMind和Meta在五天内各自完成一笔收购，AI行业正进入快速整合期。"
+  },
+  {
+    "title": "Cursor signs $60B deal with SpaceX for potential acquisition",
+    "url": "https://www.cnbc.com/2026/04/21/spacex-says-it-can-buy-cursor-later-this-year-for-60-billion-or-pay-10-billion-for-our-work-together.html",
+    "source": "CNBC",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "AI代码编辑器Cursor与SpaceX签署协议，后者可在年内以600亿美元收购Cursor，或支付100亿美元维持合作关系。"
+  },
+  {
+    "title": "展望2026：AI行业有哪些创新机会？",
+    "url": "https://www.36kr.com/p/3572274259016581",
+    "source": "36氪",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "36氪发布年度AI行业展望报告，从模型演进、产业链、应用生态三个维度分析2026年AI创新机会与创业策略。"
+  },
+  {
+    "title": "2026年中国AI发展趋势前瞻：产业规模预计突破1.2万亿元",
+    "url": "https://www.news.cn/20260128/3b2f11906fd74ca397fef9996c805a60/c.html",
+    "source": "新华网",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "新华社报道中国AI核心产业规模预计突破1.2万亿元，企业超6000家，国产开源大模型全球下载量突破100亿次。"
+  },
+  {
+    "title": "2026，对AI的10个展望：AI芯片自主化与端侧爆发",
+    "url": "https://www.huxiu.com/article/4819332.html",
+    "source": "虎嗅",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "虎嗅展望2026年AI十大趋势，包括国产万卡集群支撑本土大模型、端侧设备普及、全球AI编程和科学智能加速落地。"
+  },
+  {
+    "title": "AI code tools market predicted to reach $30 billion by 2031",
+    "url": "https://www.mordorintelligence.com/industry-reports/artificial-intelligence-code-tools-market",
+    "source": "Mordor Intelligence",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "AI编程工具市场预计以26%年复合增长率扩张，从2026年93亿美元增至2031年约300亿美元。"
+  }
+]
