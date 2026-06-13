@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Anthropic与美国政府出口控制：暂停Fable 5和Mythos 5芯片访问",
+    "url": "https://www.anthropic.com/news",
+    "source": "Anthropic",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic宣布美国政府发布出口控制指令，暂停所有对Fable 5和Mythos 5芯片的访问权限。"
+  },
+  {
+    "title": "OpenAI宣布收购Ona，扩展企业协作能力",
+    "url": "https://openai.com/index/openai-to-acquire-ona/",
+    "source": "OpenAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "OpenAI宣布收购Ona公司以增强企业协作功能，同时发布新Academy课程助力AI工作时代。"
+  },
+  {
+    "title": "Google DeepMind推出DiffusionGemma：文本生成速度提升4倍",
+    "url": "https://deepmind.google/blog/",
+    "source": "Google DeepMind",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Google DeepMind发布DiffusionGemma模型，实现比传统模型快4倍的文本生成速度。"
+  },
+  {
+    "title": "Google DeepMind发布Gemini 3.5 Live Translate实时语音翻译",
+    "url": "https://deepmind.google/blog/",
+    "source": "Google DeepMind",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Google DeepMind推出Gemini 3.5 Live Translate功能，实现流畅自然的实时语音翻译。"
+  },
+  {
+    "title": "Google DeepMind发布Gemma 4 12B统一无编码器多模态模型",
+    "url": "https://deepmind.google/blog/",
+    "source": "Google DeepMind",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Google DeepMind推出Gemma 4 12B，一款统一、无编码器的多模态AI模型。"
+  },
+  {
+    "title": "OpenAI Codex助力天体物理学家模拟黑洞",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes/",
+    "source": "OpenAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "天体物理学家利用OpenAI Codex进行黑洞模拟研究，展示AI在科学研究中的前沿应用。"
+  },
+  {
+    "title": "Google与SpaceX签署每月9.2亿美元算力协议",
+    "url": "https://www.theverge.com/tech/944569/google-follows-anthropic-in-signing-a-compute-deal-with-spacex",
+    "source": "The Verge / TechCrunch",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Google签署协议，从2026年10月至2029年6月每月向SpaceX支付9.2亿美元购买算力服务。"
+  },
+  {
+    "title": "Anthropic每年支付150亿美元使用SpaceX数据中心",
+    "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "SpaceX IPO文件披露，Anthropic同意每月支付12.5亿美元使用Colossus数据中心，年费达150亿美元。"
+  },
+  {
+    "title": "SpaceX业务呈现一极盈利两极亏损格局，IPO首日市销率超112倍",
+    "url": "https://www.36kr.com/newsflashes/3851534097896712",
+    "source": "36氪 / 央视财经",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "SpaceX上市后业务结构曝光：星链为现金牛，火箭发射和xAI算力业务仍处亏损状态。"
+  },
+  {
+    "title": "SpaceX遇延迟问题租用Colossus 1 AI数据中心训练Grok",
+    "url": "https://www.theverge.com/tech",
+    "source": "The Verge / Bloomberg",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "SpaceX因自身AI团队遇到延迟问题，租用Colossus 1数据中心训练Grok模型。"
+  },
+  {
+    "title": "DJI与Insta360就婴儿稳定器产品互相起诉",
+    "url": "https://www.theverge.com/tech",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "大疆与影石创新就婴儿稳定器产品展开专利互诉，涉及视觉相似性和控制方法。"
+  },
+  {
+    "title": "雷军：小米汽车测试团队800多人，累计完成3500万公里测试",
+    "url": "https://www.36kr.com/newsflashes/3851530936521728",
+    "source": "36氪 / 小米",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "雷军透露小米汽车测试团队规模达800多人，45%为10年以上经验专家，覆盖300多个城市。"
+  },
+  {
+    "title": "吉利李书福：集中资源做强吉利汽车上市公司",
+    "url": "https://www.36kr.com/newsflashes/3851548249412869",
+    "source": "36氪 / 吉利",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "吉利控股董事长李书福宣布关停并转冗余主体，集中资源做强吉利汽车核心上市平台。"
+  },
+  {
+    "title": "无驾驶室重卡亮相：支持换电，可实现7x24小时不间断货运",
+    "url": "https://finance.sina.com.cn/roll/2026-06-13/doc-inicfzut1546055.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "新一代无驾驶室重型卡车发布，支持换电模式，可实现全天候不间断自动驾驶货运。"
+  },
+  {
+    "title": "上海网信办：携程未落实数据出境安全评估被罚1000万元",
+    "url": "https://finance.sina.com.cn/roll/2026-06-13/doc-inicfzuu8325587.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "上海网信办对上海携程商务有限公司罚款1000万元，因其未落实数据出境安全评估要求。"
+  },
+  {
+    "title": "A股投资者数量已超2.5亿，2025年新增1387万",
+    "url": "https://www.36kr.com/newsflashes/3851531714680072",
+    "source": "36氪 / 券商中国",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "中国结算数据显示2025年末A股投资者达2.51亿，全年新增1387万，近十年每年新增均超1000万。"
+  },
+  {
+    "title": "木头姐ARK基金买入逾4亿美元SpaceX股票",
+    "url": "https://www.36kr.com/newsflashes/3851373053056005",
+    "source": "36氪 / 新浪财经",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "ARK方舟基金6月12日买入329万股SpaceX股票，总值超4.44亿美元，同时大幅减持AMD。"
+  },
+  {
+    "title": "鲸鸿动能：鸿蒙生态2026年应用媒体收益同比增长37%",
+    "url": "https://www.36kr.com/newsflashes/3851525064217856",
+    "source": "36氪 / HDC 2026",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "HDC 2026期间披露，鸿蒙生态应用媒体收益同比增长37%，游戏媒体增长69%，元服务增长19倍。"
+  }
+]
