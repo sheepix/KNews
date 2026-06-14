@@ -1,0 +1,98 @@
+[
+  {
+    "title": "华为鸿蒙6设备数突破6600万，HarmonyOS 7开发者测试版发布",
+    "url": "https://www.news.cn/20260612/b72fd0adaa07495484ec40f6f5a0f088/c.html",
+    "source": "新华网",
+    "tag": "国内科技",
+    "time": "2026-06-12",
+    "summary": "华为开发者大会2026宣布鸿蒙6终端设备数超6600万，鸿蒙7开发者测试版正式启动，注册开发者超1100万。"
+  },
+  {
+    "title": "OpenAI正式提交IPO申请，估值超8500亿美元",
+    "url": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html",
+    "source": "CNBC",
+    "tag": "AI前沿",
+    "time": "2026-06-08",
+    "summary": "OpenAI已向SEC秘密提交IPO申请，估值8520亿美元，预计最早Q4上市，ChatGPT周活用户超9亿。"
+  },
+  {
+    "title": "Anthropic旗舰模型Fable 5和Mythos 5被暂停全球访问",
+    "url": "https://www.aibars.net/zh/library/ai-news/list",
+    "source": "AI Bars",
+    "tag": "AI前沿",
+    "time": "2026-06-12",
+    "summary": "Anthropic在发布仅三天后暂停Fable 5和Mythos 5全球访问，因政府出口管制指令称存在越狱技术风险。"
+  },
+  {
+    "title": "Anthropic先于OpenAI提交IPO申请，估值达9650亿美元",
+    "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+    "source": "TechCrunch",
+    "tag": "行业数据",
+    "time": "2026-06-08",
+    "summary": "Anthropic于6月1日率先提交IPO申请，随后完成H轮融资估值9650亿美元，超越OpenAI。"
+  },
+  {
+    "title": "SpaceX IPO首日市值突破2万亿美元，马斯克成首位万亿富翁",
+    "url": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
+    "source": "CNBC",
+    "tag": "国际科技",
+    "time": "2026-06-12",
+    "summary": "SpaceX上市首日股价达150美元，市值超2万亿美元，成为美国第6大上市公司，马斯克身家突破万亿。"
+  },
+  {
+    "title": "42个美国州总检察长对OpenAI发起大规模调查",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-hit-with-sweeping-probe-from-massive-coalition-of-42-us-state-attorneys-general",
+    "source": "Tom's Hardware",
+    "tag": "国际科技",
+    "time": "2026-06-14",
+    "summary": "42个美国州联合对OpenAI发起调查，涉及广告、数据实践、未成年人保护、模型谄媚和安全政策。"
+  },
+  {
+    "title": "Bezos AI初创公司Prometheus完成120亿美元B轮融资",
+    "url": "https://techstartups.com/2026/06/11/venture-capital-startup-funding-roundup-june-11-2026/",
+    "source": "TechStartups",
+    "tag": "行业数据",
+    "time": "2026-06-11",
+    "summary": "Jeff Bezos的AI公司Prometheus完成120亿美元B轮融资，估值410亿美元，用于扩展AI基础设施。"
+  },
+  {
+    "title": "Meta将AI眼镜捐赠给美国13万多名失明退伍军人",
+    "url": "https://www.theverge.com/archives/ai-artificial-intelligence/2026/6/1",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "2026-06-12",
+    "summary": "Meta宣布将其AI眼镜捐赠给超过13万名美国失明退伍军人，推动辅助技术应用。"
+  },
+  {
+    "title": "2026年6月AI大模型进展全景盘点：Claude Opus 4.8登顶",
+    "url": "https://iaipie.com/2026%E5%B9%B46%E6%9C%88ai%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E5%85%A8%E6%99%AF%E7%9B%98%E7%82%B9%EF%BC%9Aclaude-opus-4-8%E7%99%BB%E9%A1%B6%E3%80%81gpt-5-6%E6%B3%84%E9%9C%B2/",
+    "source": "无矩AI",
+    "tag": "AI前沿",
+    "time": "2026-06-10",
+    "summary": "6月成为AI竞赛高潮，Google I/O、微软Build、英伟达GTC、OpenAI发布会密集发布，多家巨头同步发力。"
+  },
+  {
+    "title": "加拿大总理警告依赖美国AI供应商的风险",
+    "url": "https://fortune.com/2026/06/14/canadian-prime-minister-mark-carney-warns-u-s-restrictions-on-new-anthropic-ai/",
+    "source": "Fortune",
+    "tag": "国际科技",
+    "time": "2026-06-14",
+    "summary": "加拿大总理Mark Carney就美国对Anthropic新模型的限制发出警告，称过度依赖美国AI供应商存在风险。"
+  },
+  {
+    "title": "AI加密挖矿网络被指浪费电力：32万张GPU消耗112兆瓦",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cryptomining-network-s-320-000-rtx-3090-class-gpus-allegedly-burn-112-megawatts",
+    "source": "Tom's Hardware",
+    "tag": "国际科技",
+    "time": "2026-06-14",
+    "summary": "AI加密挖矿网络Pearl被指使用32万张RTX 3090级GPU进行无意义计算，消耗112兆瓦电力。"
+  },
+  {
+    "title": "Microsoft测试Copilot+ AI功能支持独立GPU",
+    "url": "https://www.tomshardware.com/software/windows/microsoft-is-reportedly-testing-copilot-ai-features-with-discrete-gpus",
+    "source": "Tom's Hardware",
+    "tag": "国际科技",
+    "time": "2026-06-14",
+    "summary": "微软正在测试让Copilot+ AI功能使用独立GPU而非NPU，通过Windows App SDK实验通道提供。"
+  }
+]
