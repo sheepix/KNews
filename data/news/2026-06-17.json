@@ -1,0 +1,121 @@
+[
+  {
+    "title": "G7峰会：OpenAI、Anthropic、DeepMind三大CEO首次齐聚世界领导人面前",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-june-16-2026",
+    "source": "AIToolsRecap",
+    "tag": "AI前沿",
+    "summary": "Sam Altman、Dario Amodei和Demis Hassabis三位AI巨头CEO首次同时出席G7峰会，AI治理与前沿风险成为正式议程。"
+  },
+  {
+    "title": "ChatGPT月活用户突破10亿，成为最快达到该里程碑的消费应用",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-june-16-2026",
+    "source": "AIToolsRecap",
+    "tag": "AI前沿",
+    "summary": "ChatGPT成为全球最快达到10亿月活用户的消费级应用，Claude和Meta AI也分别实现640%和973%的同比增长。"
+  },
+  {
+    "title": "Agentjacking攻击瞄准AI编程助手，Claude Code/Cursor/Codex受影响",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-june-16-2026",
+    "source": "AIToolsRecap",
+    "tag": "AI前沿",
+    "summary": "新型Agentjacking攻击通过伪造Sentry错误消息劫持AI编码代理，85%的漏洞利用率和2388家组织暴露。"
+  },
+  {
+    "title": "Anthropic发布Claude Fable 5，最新旗舰模型上线",
+    "url": "https://aireleasetracker.com/latest",
+    "source": "AIReleaseTracker",
+    "tag": "AI前沿",
+    "summary": "Anthropic正式发布Claude Fable 5，成为6月最受关注的AI模型发布之一。"
+  },
+  {
+    "title": "智谱推出最新一代旗舰模型GLM-5.2",
+    "url": "https://www.163.com/dy/media/T1374539835965.html",
+    "source": "36氪/网易",
+    "tag": "AI前沿",
+    "summary": "智谱AI宣布推出最新旗舰模型GLM-5.2，进一步加码国产大模型竞争。"
+  },
+  {
+    "title": "DeepSeek完成首轮外部融资，规模达500亿元",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-06-16/doc-inicqxfq6218962.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "summary": "DeepSeek reportedly完成首轮外部融资，融资金额高达500亿元人民币，引发行业广泛关注。"
+  },
+  {
+    "title": "华为余承东：Pura X Max折叠屏销量超越历史同期所有折叠屏",
+    "url": "https://finance.sina.com.cn/tech/digi/2026-06-16/doc-inicrcpr4372785.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "summary": "华为Pura X Max成为华为历史上同期销量最强的折叠屏手机，余承东揭秘大阔折设计思路。"
+  },
+  {
+    "title": "30天消耗60万亿Token，大厂面临AI成本压力",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-06-16/doc-inicrcpp7605357.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "summary": "AI模型推理成本急剧上升，30天内消耗60万亿Token，连科技巨头也感受到AI成本压力。"
+  },
+  {
+    "title": "苹果、谷歌升级Thread 1.4，Matter生态不再是空架子",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-06-16/doc-inicrcpn6176230.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "summary": "苹果和谷歌同步升级Thread 1.4标准，Matter智能家居生态迎来实质性推进。"
+  },
+  {
+    "title": "小红书或已准备好本月在香港提交IPO申请",
+    "url": "https://www.163.com/dy/media/T1374539835965.html",
+    "source": "36氪/网易",
+    "tag": "国内科技",
+    "summary": "小红书 reportedly已准备好于本月在香港提交IPO申请，赴港上市进程加速。"
+  },
+  {
+    "title": "vivo X Fold6将于6月26日正式发布",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-06-16/doc-inicrcpk9398766.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "summary": "vivo官方宣布X Fold6折叠屏旗舰将于6月26日发布，REDMI K90至尊版也同步官宣。"
+  },
+  {
+    "title": "佛罗里达州起诉OpenAI及Sam Altman，指控其忽视安全",
+    "url": "https://imfounder.com/science-tech/explosive-tech-news-june-2026-ai-lawsuits-ipos-cyberattacks/",
+    "source": "ImFounder",
+    "tag": "国际科技",
+    "summary": "佛罗里达州成为首个直接起诉OpenAI和Sam Altman的美国州，指控ChatGPT与暴力事件相关并忽视安全。"
+  },
+  {
+    "title": "Rivian裁员数百人，距R2 SUV发布仅数日",
+    "url": "https://www.theverge.com/archives/tech/2026/6/1",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "summary": "Rivian在R2 SUV发布仅数日后宣布裁员数百人，公司试图通过重组团队实现首次盈利。"
+  },
+  {
+    "title": "NAND闪存短缺导致零售SSD市场几乎消失",
+    "url": "https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "summary": "AI数据中心大量吞噬NAND供应，导致零售SSD市场几乎消失，预计2027年情况将进一步恶化。"
+  },
+  {
+    "title": "Alphabet宣布800亿美元AI投资计划",
+    "url": "https://imfounder.com/science-tech/explosive-tech-news-june-2026-ai-lawsuits-ipos-cyberattacks/",
+    "source": "ImFounder",
+    "tag": "行业数据",
+    "summary": "Alphabet宣布800亿美元AI投资计划，加码人工智能基础设施与研发，规模创下科技行业新高。"
+  },
+  {
+    "title": "Anthropic估值达9650亿美元，IPO进程加速",
+    "url": "https://kersai.com/june-2026-ai-news-anthropic-spacex-google-business-impact/",
+    "source": "Kersai",
+    "tag": "行业数据",
+    "summary": "Anthropic估值攀升至9650亿美元，同时推进IPO进程，成为AI领域最值钱的初创公司之一。"
+  },
+  {
+    "title": "摩根士丹利：全球HDD供应短缺至2028年，需求年增40%-50%",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-06-16/doc-inicrivp4291382.shtml",
+    "source": "新浪科技",
+    "tag": "行业数据",
+    "summary": "摩根士丹利预测全球HDD供应将持续短缺至2028年，数据中心需求年增长率达40%-50%。"
+  }
+]
