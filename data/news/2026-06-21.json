@@ -1,0 +1,178 @@
+[
+  {
+    "title": "挪威将禁止小学生使用生成式人工智能工具",
+    "url": "https://www.theverge.com/ai-artificial-intelligence",
+    "source": "The Verge/路透社",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "挪威首相宣布8月起禁止6-13岁小学生使用生成式AI，初中生可在教师监督下谨慎使用，高中生需学习正确使用AI工具。"
+  },
+  {
+    "title": "英国《自然》杂志：新型量子传感器可探测引力波和暗物质",
+    "url": "https://www.news.cn/20260620/6d9526d1d9bb43908a1892f72460d74f/c.html",
+    "source": "新华社/自然杂志",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "英国帝国理工学院团队开发的新型量子传感器能有效消除背景噪声，可用于探测此前技术难以探测的微弱引力波和暗物质信号。"
+  },
+  {
+    "title": "中国团队在商用光纤端部构建三维光纤微镊，成果发表于《自然》",
+    "url": "https://mp.weixin.qq.com/s/par7VK7d2LRyTu0NM9teLQ",
+    "source": "科技日报/安徽大学",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "安徽大学与中科大的团队在光纤端部构建三维光纤微镊，输出力是传统光镊的十万倍以上，可实现微米尺度目标的高精度操控。"
+  },
+  {
+    "title": "软银以3.25亿美元将波士顿动力剩余股份出售给现代汽车",
+    "url": "https://www.solidot.org/story?sid=84631",
+    "source": "Solidot",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "软银行使卖出期权，以3.25亿美元将波士顿动力剩余20%股份出售给现代汽车，波士顿动力估值较2020年交易时大幅下降。"
+  },
+  {
+    "title": "研究证实AI工具正导致医生专业技能退化",
+    "url": "https://www.solidot.org/story?sid=84630",
+    "source": "Solidot",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "波兰内窥镜医生研究表明，使用AI辅助诊断系统后，医生在没有AI辅助情况下的腺瘤检出率从28.4%下降至22.4%。"
+  },
+  {
+    "title": "加州亿万富翁税提案获足够签名将公投，科技富豪强烈反对",
+    "url": "https://www.solidot.org/story?sid=84628",
+    "source": "Solidot",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "加州将对身价超10亿美元居民一次性征收5%的税，Google联合创始人Sergey Brin投入8200万美元反对，黄仁勋表示无异议。"
+  },
+  {
+    "title": "特朗普政府撤销拆除3.68亿美元海洋观测计划决定",
+    "url": "https://www.solidot.org/story?sid=84627",
+    "source": "Solidot",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "在美国国会参议院通过法案后，特朗普政府表示将撤销拆除由900多台深海仪器构成的海洋观测计划的决定。"
+  },
+  {
+    "title": "中科院发现MBS1蛋白可大幅提升作物产量，成果发表于《细胞》",
+    "url": "https://www.solidot.org/story?sid=84626",
+    "source": "Solidot",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "中科院团队发现植物体内MBS1超小蛋白可响应强光形成凝聚体小液滴，大田试验显示在强光高热地区增产幅度高达40%。"
+  },
+  {
+    "title": "中东冲突导致PCB关键原材料短缺，价格上涨40%",
+    "url": "https://www.solidot.org/story?sid=84625",
+    "source": "Solidot/高盛",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "沙特Jubail工厂因中东冲突停产，该厂供应全球七成高纯度PPE树脂，导致3-4月间PCB价格上涨40%，交货期从三周延至十五周。"
+  },
+  {
+    "title": "Modos在Crowd Supply众筹量产版60Hz刷新率电子纸显示屏",
+    "url": "https://www.solidot.org/story?sid=84624",
+    "source": "Solidot/IEEE Spectrum",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Modos推出13.3英寸3200x2400分辨率、支持触控、60Hz刷新率的电子纸显示屏，黑白版众筹价619美元，彩色版719美元。"
+  },
+  {
+    "title": "苹果CEO库克警告：AI热导致内存短缺，产品涨价"不可避免"",
+    "url": "https://www.solidot.org/story?sid=84614",
+    "source": "Solidot/华尔街日报",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "即将卸任的苹果CEO库克表示内存供应状况"难以为继"，内存价格自2025年10月以来已翻了一番多，iPhone等产品涨价不可避免。"
+  },
+  {
+    "title": "美国暂缓将DeepSeek和长鑫存储加入贸易实体清单",
+    "url": "https://www.solidot.org/story?sid=84613",
+    "source": "Solidot",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "美国跨部门委员会已批准将部分中国公司列入贸易黑名单，但商务部尚未公布名单，以免中美关系再次紧张。"
+  },
+  {
+    "title": "摩根大通禁止香港员工访问Anthropic Claude模型",
+    "url": "https://www.solidot.org/story?sid=84620",
+    "source": "Solidot",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "因许可协议中"使用条款"措辞问题，摩根大通已将Claude模型从香港员工获批使用的LLM名单中移除，此前高盛也做出类似决定。"
+  },
+  {
+    "title": "勒索组织FulcrumSec宣称入侵制药巨头诺和诺德，窃取1.3TB数据",
+    "url": "https://www.solidot.org/story?sid=84619",
+    "source": "Solidot",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "攻击者窃取了源代码、药物研究、临床试验记录及内部AI模型数据，勒索2500万美元未果，考虑出售或开源部分数据。"
+  },
+  {
+    "title": "智谱AI GLM-5.2登顶开源权重模型榜首，编程能力超越GPT-5.5",
+    "url": "https://www.oschina.net/news/460824",
+    "source": "OSChina/Artificial Analysis",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "智谱AI推出的GLM-5.2在Artificial Analysis Intelligence Index v4.1测评中以51分登顶所有开源权重模型，采用MIT许可免费可用。"
+  },
+  {
+    "title": "微软确认Windows 11 26H2将于今秋发布",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1565036.htm",
+    "source": "cnBeta",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "微软确认Windows 11 26H2版本将于今年秋季发布，延续了向"小步快跑"更新模式的转变，同时公布了支持周期与硬件要求。"
+  },
+  {
+    "title": "美商务部对ASML高端光刻机或流入中国表示关切",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1565036.htm",
+    "source": "cnBeta/路透社",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "美国怀疑ASML顶级光刻机可能流入中国，荷兰ASML坚称"不可能"，此事件凸显中美芯片博弈持续升温。"
+  },
+  {
+    "title": "Manus收购案传腾讯出手，或迎来重大转机",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1565036.htm",
+    "source": "cnBeta",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "通用AI Agent产品Manus的收购案传出腾讯可能参与的消息，若属实将为其发展带来重要资源支持。"
+  },
+  {
+    "title": "苹果在WWDC 2026发布全新Siri AI与下一代Apple Intelligence",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1565036.htm",
+    "source": "cnBeta/苹果",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "苹果发布完全全新的Siri版本，支持个性化语音、系统级屏幕理解与应用交互，首次以独立应用形式出现，覆盖全线苹果设备。"
+  },
+  {
+    "title": "2026年抖音商城618报告：超12万商家直播成交额同比增长翻倍",
+    "url": "https://36kr.com/newsflashes/3861055337157637",
+    "source": "36kr/抖音",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "抖音618期间超12万商家直播成交额翻倍，超57万达人成交额翻倍，中小达人贡献超80%达人带货成交额，近3万新商家成交额破百万。"
+  },
+  {
+    "title": "英国拟强制Meta、YouTube等平台推送更多本地新闻内容",
+    "url": "https://36kr.com/newsflashes/3861056590222342",
+    "source": "36kr/财联社",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "英国政府计划强制YouTube、Meta等社交媒体平台提升本地新闻内容曝光权重，预计最早本月展开公众咨询。"
+  },
+  {
+    "title": "zlib-rs正式接管Firefox gzip压缩，Rust代码进入主流浏览器核心",
+    "url": "https://www.oschina.net/news/460816/zlib-rs-in-firefox",
+    "source": "OSChina/Mozilla",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "从Firefox 151.0.0开始，浏览器的gzip压缩与解压缩已全部由Rust编写的zlib-rs接管，这是Rust在安全关键基础设施中的重要里程碑。"
+  }
+]
