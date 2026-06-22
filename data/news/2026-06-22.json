@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Anthropic发布Claude Opus 4.8，登顶科学推理与编程基准测试",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "source": "Anthropic",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Claude Opus 4.8刷新ScienceQA、SWE-Bench Pro等多项基准测试纪录，ScienceQA达76.4分成为首个突破75分的AI模型，Anthropic估值随之达9650亿美元。"
+  },
+  {
+    "title": "OpenAI发布GPT-5.5 Instant，成为ChatGPT新默认模型",
+    "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+    "source": "TechCrunch",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "GPT-5.5 Instant幻觉率降低52.5%，支持100万token上下文窗口，ChatGPT全球用户接近10亿。"
+  },
+  {
+    "title": "Google I/O 2026发布三大Gemini新品：3.5 Flash、Omni、Spark",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+    "source": "Google Blog",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Google推出Gemini 3.5 Flash（推理速度284 tokens/秒）、Gemini Omni（世界模型，原生视频生成）和Gemini Spark（常驻AI Agent），并宣布1800亿美元AI基础设施投资。"
+  },
+  {
+    "title": "微软Build 2026发布7款自研MAI模型，加速脱离OpenAI依赖",
+    "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
+    "source": "Microsoft AI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "微软发布7款自研MAI模型（含MAI-Thinking-1旗舰推理模型），零蒸馏自研，成本号称降低10倍，标志着从单一供应商依赖转向多源竞争。"
+  },
+  {
+    "title": "MiniMax M3发布：首个融合推理与Agent能力的开源权重模型",
+    "url": "https://www.marktechpost.com/2026/06/01/minimax-releases-minimax-m3-with-msa-architecture-supporting-1m-token-context-native-multimodality-and-agentic-coding/",
+    "source": "MarkTechPost",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "MiniMax M3采用MSA稀疏注意力架构，支持100万token上下文、原生多模态和桌面操作，编程能力号称超过GPT-5.5，同步启动科创板IPO。"
+  },
+  {
+    "title": "阿里云发布Qwen3.7-Plus多模态大模型，视觉能力中国第一",
+    "url": "https://iaipie.com/2026%E5%B9%B46%E6%9C%88ai%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E5%85%A8%E6%99%AF%E7%9B%98%E7%82%B9%EF%BC%9Aclaude-opus-4-8%E7%99%BB%E9%A1%B6%E3%80%81gpt-5-6%E6%B3%84%E9%9C%B2/",
+    "source": "无矩AI",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "Qwen3.7-Plus视觉能力全球第五、中国第一，实现"看、想、写、做、验"一个模型全搞定，可一键复刻桌面端专业软件。"
+  },
+  {
+    "title": "DeepSeek V4发布并全面开源，百万上下文成本仅为GPT-5的1/30",
+    "url": "https://iaipie.com/2026%E5%B9%B46%E6%9C%88ai%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E5%85%A8%E6%99%AF%E7%9B%98%E7%82%B9%EF%BC%9Aclaude-opus-4-8%E7%99%BB%E9%A1%B6%E3%80%81gpt-5-6%E6%B3%84%E9%9C%B2/",
+    "source": "无矩AI",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "DeepSeek V4同步开源Pro与Flash两款模型，均支持100万token上下文，同等任务成本约$0.50，仅为GPT-5的约三十分之一。"
+  },
+  {
+    "title": "月之暗面发布Kimi K2.6原生多模态模型，Kimi Work开启内测",
+    "url": "https://iaipie.com/2026%E5%B9%B46%E6%9C%88ai%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E5%85%A8%E6%99%AF%E7%9B%98%E7%82%B9%EF%BC%9Aclaude-opus-4-8%E7%99%BB%E9%A1%B6%E3%80%81gpt-5-6%E6%B3%84%E9%9C%B2/",
+    "source": "无矩AI",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "月之暗面推出Kimi K2.6原生多模态模型，Kimi Work Beta版面向知识工作者开启内测，公司ARR突破1亿美元。"
+  },
+  {
+    "title": "字节跳动计划投入约2000亿元布局AI，世界模型与视频模型为核心",
+    "url": "https://iaipie.com/2026%E5%B9%B46%E6%9C%88ai%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E5%85%A8%E6%99%AF%E7%9B%98%E7%82%B9%EF%BC%9Aclaude-opus-4-8%E7%99%BB%E9%A1%B6%E3%80%81gpt-5-6%E6%B3%84%E9%9C%B2/",
+    "source": "无矩AI",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "字节跳动2026年四大AI关键命题曝光：加大世界模型训练、视频模型保持领先（Seedance 2.0）、打好Coding战役、探索"动态生成"新方向。"
+  },
+  {
+    "title": "Anthropic估值达9650亿美元首次超越OpenAI，筹备IPO上市",
+    "url": "https://kersai.com/june-2026-ai-news-anthropic-spacex-google-business-impact/",
+    "source": "Kersai",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "Anthropic年化收入从2月的140亿美元暴涨至年中约470亿美元，企业客户贡献超80%，并已于6月初秘密提交IPO申请。"
+  },
+  {
+    "title": "Alphabet计划融资800亿美元投入AI基础设施竞争",
+    "url": "https://imfounder.com/science-tech/explosive-tech-news-june-2026-ai-lawsuits-ipos-cyberattacks/",
+    "source": "IMFounder",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "Alphabet宣布通过股票发行融资800亿美元，用于AI基础设施、计算能力和全球数据中心扩张，AI需求已超出现有供应。"
+  },
+  {
+    "title": "Florida成为首个起诉OpenAI的州政府，指控ChatGPT导致用户伤害事件",
+    "url": "https://imfounder.com/science-tech/explosive-tech-news-june-2026-ai-lawsuits-ipos-cyberattacks/",
+    "source": "IMFounder",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Florida州检察长James Uthmeier起诉OpenAI和Sam Altman，指控ChatGPT导致用户伤害事件，可能成为最具里程碑意义的AI法律战。"
+  },
+  {
+    "title": "Nvidia联合微软、戴尔、惠普推出AI Agent PC，进军2000亿美元CPU市场",
+    "url": "https://imfounder.com/science-tech/explosive-tech-news-june-2026-ai-lawsuits-ipos-cyberattacks/",
+    "source": "IMFounder",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Nvidia推动AI PC战略，通过 partnerships 打造可本地运行高级AI工作站的"AI Agent PC"，将AI从云端扩展至本地设备。"
+  },
+  {
+    "title": "SpaceX在IPO文件中警告：水资源短缺已成为AI基础设施风险",
+    "url": "https://imfounder.com/science-tech/explosive-tech-news-june-2026-ai-lawsuits-ipos-cyberattacks/",
+    "source": "IMFounder",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "SpaceX在IPO文件修正中首次将水资源短缺列为AI风险因素，数据中心冷却系统消耗大量水资源，干旱和监管限制可能威胁未来扩张。"
+  }
+]
