@@ -1,0 +1,146 @@
+[
+  {
+    "title": "AlphaFold之父John Jumper加入Anthropic，Google 48小时连失两员大将",
+    "url": "https://www.qbitai.com/2026/06/436980.html",
+    "source": "量子位",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "诺奖得主、AlphaFold之父John Jumper宣布离开Google DeepMind加入Anthropic，此前Transformer核心作者Noam Shazeer也已离开Google加入OpenAI，48小时内Google AI接连失去两位核心人物。"
+  },
+  {
+    "title": "Transformer核心作者Noam Shazeer离开Google DeepMind加入OpenAI",
+    "url": "https://www.qbitai.com/2026/06/436980.html",
+    "source": "量子位",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Transformer论文核心作者之一Noam Shazeer宣布从Google DeepMind离职，加入OpenAI，这是继John Jumper之后Google AI近期又一次重大人才流失。"
+  },
+  {
+    "title": "字节跳动豆包App悄然上线打车灰测，曹操出行提供底层运力",
+    "url": "https://www.aitntnews.com/newDetail.html?newId=26434",
+    "source": "AITNT News",
+    "tag": "国内科技",
+    "time": "16:53",
+    "summary": "字节跳动豆包App上线打车功能灰度测试，底层运力由曹操出行提供，用户可在App内直接完成叫车而无需跳转第三方。"
+  },
+  {
+    "title": "Sand.ai完成超亿美元融资，预计Q3发布开源MoE架构视频模型",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT News",
+    "tag": "行业数据",
+    "time": "16:53",
+    "summary": "视频生成AI公司Sand.ai完成两轮合计超亿美元融资，预计2026年Q3发布开源MoE架构新一代视频模型，旗下产品VidMuse上线三月达千万美元ARR。"
+  },
+  {
+    "title": "何恺明团队发布极简像素空间文生图模型MiniT2I，已开源",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT News",
+    "tag": "AI前沿",
+    "time": "16:52",
+    "summary": "何恺明团队发布MiniT2I文生图模型，去掉VAE等复杂组件直接在像素空间训练，258M参数版本性能超越参数量数倍的同类模型，已开源。"
+  },
+  {
+    "title": "美国参议员桑德斯提案对OpenAI、Anthropic、xAI征收50%股权税",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT News",
+    "tag": "国际科技",
+    "time": "16:10",
+    "summary": "美国参议员桑德斯提出提案，将对OpenAI、Anthropic、xAI征收50%股权税以建立全民共享AI主权财富基金，特朗普政府支持该思路，马斯克反对并主张直接发钱给民众。"
+  },
+  {
+    "title": "清华团队发布一念UnisonMind，部署端侧统一实时多模态大脑",
+    "url": "https://www.aitntnews.com/newDetail.html?newId=26428",
+    "source": "AITNT News",
+    "tag": "国内科技",
+    "time": "16:09",
+    "summary": "清华团队发布一念UnisonMind，将统一实时多模态大脑部署在端侧，可同时驱动两条机器狗、一个人形机器人、一台电动轮椅，无遥控自主应对复杂场景。"
+  },
+  {
+    "title": "DeepSeek Harness部门公开招聘，崔添翼称每日面试仍未招满",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT News",
+    "tag": "国内科技",
+    "time": "16:09",
+    "summary": "DeepSeek Harness部门负责人崔添翼公开招聘研究员、工程师、产品经理三个岗位，目前部门缺口较大，每日面试仍未招满，Harness负责打造Agent产品除模型外的配套工作。"
+  },
+  {
+    "title": "蔡崇信在VivaTech阐述阿里AI战略，瞄准50万亿美元AI市场",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT News",
+    "tag": "国内科技",
+    "time": "15:16",
+    "summary": "阿里巴巴董事长蔡崇信在VivaTech大会阐述阿里AI四层战略（芯片、云、开源模型Qwen、应用），瞄准50万亿美元AI市场，认为开源模式可解决技术主权问题。"
+  },
+  {
+    "title": "Jane Street 1亿美元收购Anthropic股权账面增值超50倍",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT News",
+    "tag": "行业数据",
+    "time": "15:15",
+    "summary": "华尔街量化交易公司Jane Street 2024年花费近1亿美元收购Anthropic股权，当前这笔投资账面增值超50倍，该公司目前持有约200亿美元AI私人投资组合。"
+  },
+  {
+    "title": "智谱港股上市后股价年内涨2076%，总市值突破1万亿港元",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT News",
+    "tag": "行业数据",
+    "time": "12:28",
+    "summary": "智谱在港交所上市后股价年内涨2076%，总市值首次突破1万亿港元，成为中国首个万亿AI公司，其开源GLM-5.2大模型在评测中获全球可用模型第一。"
+  },
+  {
+    "title": "6款新一代AI评测基准发布，推动AI从会答题转向能做事",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT News",
+    "tag": "AI前沿",
+    "time": "09:37",
+    "summary": "2026年6月多个机构发布6款新一代AI评测基准（含UXBench、MemLens等），聚焦真实场景能力评估，覆盖用户体验、多模态记忆、软件工程等领域。"
+  },
+  {
+    "title": "Google将每月支付SpaceX 9.2亿美元，持续至2029年6月",
+    "url": "https://www.theverge.com/archives/tech/2026/6/23",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "根据监管文件，Google将每月向SpaceX支付9.2亿美元，从2026年10月持续至2029年6月，这是Google在卫星通信和AI基础设施领域的重大投资。"
+  },
+  {
+    "title": "Microsoft年度AI资本支出达1500亿美元，Azure增长39%",
+    "url": "https://tech-insider.org/microsoft-ai-spending-azure-copilot-2026/",
+    "source": "Tech Insider",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Microsoft AI年度资本支出运行率达1500亿美元，Azure同比增长39%，但Microsoft 365 Copilot采用率仅为3.3%，面临旗舰产品推广挑战。"
+  },
+  {
+    "title": "Anthropic发布《2026代理式编程趋势报告》，AI从代码补全进化为自主工程师",
+    "url": "https://www.aifirshe.com/posts/019e85cb83557af5ad9f347be9c467e6",
+    "source": "AIFirshe",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic最新报告指出，AI已从代码补全工具进化为自主协作工程师，10人团队数周项目现在一个资深工程师带AI智能体不到72小时即可完成。"
+  },
+  {
+    "title": "ChatGPT全球AI聊天机器人市场份额从87%降至64-68%",
+    "url": "https://www.companieshistory.com/ai-market-share-by-company/",
+    "source": "CompaniesHistory",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "据Similarweb数据，ChatGPT在全球AI聊天机器人流量中的份额从2025年1月的87%下降至2026年1月的64-68%，竞争格局正在显著分化。"
+  },
+  {
+    "title": "Stanford 2026 AI Index：全球企业AI投资翻倍，生成式AI增长超200%",
+    "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/economy",
+    "source": "Stanford HAI",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "Stanford 2026年AI指数报告显示，全球企业AI投资在2025年翻倍，私人投资增长127.5%占总投资的60%，生成式AI增长超200%并占据近半私人AI资金。"
+  },
+  {
+    "title": "具身智能赛道上半年融资约438亿元，超半数涌入机器人大脑公司",
+    "url": "https://www.aitntnews.com/newDetail.html?newId=26401",
+    "source": "AITNT News",
+    "tag": "行业数据",
+    "time": "09:00",
+    "summary": "2026年上半年国内具身智能赛道融资约438亿元，超半数资金涌入专注机器人大脑的公司，近八成大脑公司在研发世界模型，千寻智能估值200亿元成最受追捧公司。"
+  }
+]
