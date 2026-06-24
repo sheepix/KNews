@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Google I/O 2026发布Gemini Omni和Gemini 3.5 Flash",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+    "source": "Google Blog",
+    "tag": "AI前沿",
+    "summary": "Google在I/O 2026大会上发布Gemini Omni多模态模型和Gemini 3.5 Flash，支持视频生成和世界理解能力。"
+  },
+  {
+    "title": "苹果WWDC 2026发布iOS 27和全新Siri AI",
+    "url": "https://www.theverge.com/tech/944110/wwdc-2026-news-announcements",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "summary": "苹果在全球开发者大会上发布iOS 27、macOS 27 Golden Gate，以及具备多模态能力的全新Siri AI助手。"
+  },
+  {
+    "title": "AI芯片公司Groq完成6.5亿美元融资，转型Neocloud业务",
+    "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+    "source": "TechCrunch",
+    "tag": "行业数据",
+    "summary": "在被英伟达以20亿美元'非收购式挖角'后，Groq宣布完成6.5亿美元融资， pivots to neocloud inference业务。"
+  },
+  {
+    "title": "AI推理初创公司Baseten获15亿美元融资，估值130亿美元",
+    "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "source": "TechCrunch",
+    "tag": "行业数据",
+    "summary": "AI推理公司Baseten reportedly nearing a $1.5B funding round at $13B valuation, just five months after its last mega-round."
+  },
+  {
+    "title": "DeepSeek V4正式发布：1.6T参数MoE架构，1M上下文窗口",
+    "url": "https://deepseekv4.app/news/2026-04-24-deepseek-v4-official-launch-report",
+    "source": "DeepSeek",
+    "tag": "AI前沿",
+    "summary": "DeepSeek发布V4系列模型，包括1.6T参数的V4-Pro和高速V4-Flash，采用混合注意力架构，支持百万级上下文。"
+  },
+  {
+    "title": "Anthropic发布Claude Opus 4.8，强化编码和Agent能力",
+    "url": "https://www.anthropic.com/news",
+    "source": "Anthropic",
+    "tag": "AI前沿",
+    "summary": "Anthropic升级Opus模型至4.8版本，在编码、Agent任务和专业工作流方面性能显著提升。"
+  },
+  {
+    "title": "Tesla Robotaxi在达拉斯和休斯顿正式运营，部署573辆车",
+    "url": "https://tech-insider.org/tesla-robotaxi-dallas-houston-unsupervised-launch-2026/",
+    "source": "Tech Insider",
+    "tag": "国际科技",
+    "summary": "Tesla于4月18日在达拉斯和休斯顿推出无人驾驶Robotaxi服务，初期部署573辆Cybercab。"
+  },
+  {
+    "title": "NVIDIA 2026财年营收达2159亿美元，AI芯片市占率约80%",
+    "url": "https://blockonomi.com/nvidia-nvda-vs-amd-the-2026-ai-chip-showdown-reveals-a-clear-leader/",
+    "source": "Blockonomi",
+    "tag": "行业数据",
+    "summary": "NVIDIA 2026财年营收2159亿美元，利润583亿美元，在AI加速器市场保持约80%份额。"
+  },
+  {
+    "title": "华为2025年营收8809亿元，小米4573亿元，双双创新高",
+    "url": "https://www.toutiao.com/article/7625486306730050083/",
+    "source": "今日头条",
+    "tag": "国内科技",
+    "summary": "华为与小米2025年财报相继披露，华为营收8809亿元，小米营收4573亿元，均创历史新高。"
+  },
+  {
+    "title": "OpenAI发布GPT-5，首个统一AI模型架构",
+    "url": "https://openai.com/index/introducing-gpt-5/",
+    "source": "OpenAI",
+    "tag": "AI前沿",
+    "summary": "OpenAI发布GPT-5，作为首个统一AI模型，在编码、数学、写作和健康领域实现重大性能飞跃。"
+  },
+  {
+    "title": "2025年中国手机市场：华为全年出货量登顶，苹果四季度第一",
+    "url": "https://www.guancha.cn/economy/2026_01_14_803776.shtml",
+    "source": "观察者网",
+    "tag": "行业数据",
+    "summary": "IDC数据显示，2025年华为全年手机出货量排名中国第一，苹果则在四季度单季夺冠。"
+  },
+  {
+    "title": "小米首次超越华为，跻身2025胡润中国500强第八位",
+    "url": "https://www.sohu.com/a/984357818_121956424",
+    "source": "搜狐",
+    "tag": "国内科技",
+    "summary": "胡润研究院发布2025中国500强榜单，小米首次超越华为，位列第八，显示其企业价值显著增长。"
+  }
+]
