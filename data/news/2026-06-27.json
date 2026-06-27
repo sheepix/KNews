@@ -1,0 +1,100 @@
+[
+  {
+    "title": "协创数据拟定增募资不超80亿元，用于智算中心及数据存储项目",
+    "url": "https://www.36kr.com/newsflashes/3869990301586434",
+    "source": "36氪",
+    "tag": "国内科技",
+    "summary": "协创数据公告拟向特定投资者发行A股，募资总额不超过80亿元，用于智算中心建设项目、数据存储拓展升级扩产项目和补充流动资金。"
+  },
+  {
+    "title": "Meta开发预测市场应用Arena，考虑与Kalshi和Polymarket合作",
+    "url": "https://www.theverge.com/tech/955121/meta-prediction-market-app-arena-polymarket-kalshi-clone",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "summary": "扎克伯格指派Meta团队开发类似Polymarket和Kalshi的预测市场应用Arena，初期使用积分而非真钱下注，目标吸引至少1亿月活用户。"
+  },
+  {
+    "title": "苹果OLED触摸屏MacBook Pro将配备Dynamic Island功能",
+    "url": "https://www.theverge.com/tech/884089/apple-touchscreen-macbook-pro-dynamic-island",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "summary": "彭博社称苹果计划今年秋季推出的OLED触摸屏MacBook Pro将配备类似iPhone的Dynamic Island功能，同时iPhone 18也将采用更小的Dynamic Island设计。"
+  },
+  {
+    "title": "Instagram推出Your Algorithm功能，让用户自定义算法推荐",
+    "url": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "summary": "Instagram推出Your Algorithm功能，允许用户查看并调整平台认为自己感兴趣的话题，未来还将支持人物、情绪和内容类型等更精细的定制。"
+  },
+  {
+    "title": "Polymarket遭第三方供应商入侵，约300万美元加密货币被盗",
+    "url": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "summary": "预测市场平台Polymarket确认第三方供应商被攻破，黑客向网站注入恶意代码，导致部分用户资金被盗，损失约300万美元。"
+  },
+  {
+    "title": "Polymarket被指付费让创作者发布虚假下注视频",
+    "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "summary": "华尔街日报调查发现Polymarket付费让创作者在社交媒体发布虚假下注和获胜视频，已识别超过1100个欺骗性片段。"
+  },
+  {
+    "title": "iPhone 18低端机型将配备9GB DRAM以支持AI工作负载",
+    "url": "https://medium.com/@mingchikuo/ios-27-will-bring-tighter-system-level-integration-with-apple-intelligence-a347853dc6eb",
+    "source": "Medium/郭明錤",
+    "tag": "国际科技",
+    "summary": "郭明錤分析称，2027年上半年推出的iPhone 18低端机型将搭载A20芯片并升级至9GB DRAM，以更好地支持Apple Intelligence的AI工作负载。"
+  },
+  {
+    "title": "Google Finance推出全新Android应用并结束测试版",
+    "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+    "source": "Google Blog",
+    "tag": "国际科技",
+    "summary": "Google Finance推出全新Android应用，同时正式结束新版Finance的测试阶段，新增投资组合追踪、市场情报自动简报等AI驱动功能。"
+  },
+  {
+    "title": "AWS Lambda推出MicroVMs实现全生命周期控制的隔离沙箱",
+    "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+    "source": "AWS Blog",
+    "tag": "国际科技",
+    "summary": "AWS Lambda引入MicroVMs，为开发者提供具有完整生命周期控制的隔离沙箱运行环境，提升Serverless应用的安全性和灵活性。"
+  },
+  {
+    "title": "数据中心建设在美国多地引发选民强烈反对",
+    "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
+    "source": "Newsweek",
+    "tag": "行业数据",
+    "summary": "美国多个州的数据中心建设计划引发当地选民强烈反对，电力消耗和基础设施压力成为关键争议点，甚至影响了部分选举结果。"
+  },
+  {
+    "title": "OpenAI预览发布GPT-5.6系列模型Sol、Terra和Luna",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "source": "OpenAI",
+    "tag": "AI前沿",
+    "summary": "OpenAI发布GPT-5.6系列预览，包括旗舰模型Sol、平衡模型Terra和快速模型Luna，Sol在编程、生物和网络安全方面创下新纪录，但将配合美国政府进行分阶段发布。"
+  },
+  {
+    "title": "美国政府将审核决定谁可以使用GPT-5.6",
+    "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+    "source": "Washington Post",
+    "tag": "AI前沿",
+    "summary": "OpenAI表示应美国政府要求，GPT-5.6将先向少数经政府审查的可信合作伙伴发布，然后再向更广泛用户推出。"
+  },
+  {
+    "title": "美国允许Anthropic向可信合作伙伴发布Mythos模型",
+    "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+    "source": "Reuters",
+    "tag": "AI前沿",
+    "summary": "美国政府允许Anthropic向部分美国公司发布其最先进的AI模型Mythos，此前该模型因特朗普政府限制而无法在美国广泛分发。"
+  },
+  {
+    "title": "开源权重LLM与闭源LLM的差距正在扩大",
+    "url": "https://blog.doubleword.ai/frontier-os-llm",
+    "source": "DoubleWord",
+    "tag": "AI前沿",
+    "summary": "新分析指出，尽管开源模型快速进步，但在前沿能力上闭源模型与开源权重模型之间的差距仍在扩大，引发业界对AI开放性的讨论。"
+  }
+]
