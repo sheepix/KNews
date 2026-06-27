@@ -1,0 +1,122 @@
+[
+  {
+    "title": "DeepSeek发布推理加速框架DSpark，梁文锋署名",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inievzuu3819972.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "DeepSeek与北京大学联合发布推理加速框架DSpark，可将大模型生成速度提升60%-85%，并开源模型权重和训练代码。"
+  },
+  {
+    "title": "vivo发布新一代折叠屏手机X Fold6，主打大屏+AI办公",
+    "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-06-26/doc-inieuccq1922738.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "vivo发布X Fold6折叠旗舰，携手联发科打造大屏AI生产力体验，进一步加码折叠屏+AI办公场景。"
+  },
+  {
+    "title": "2026年《财富》中国科技50强出炉：华为榜首，DeepSeek第5",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-06-26/doc-inietfxs0576214.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "《财富》发布2026中国科技50强榜单，华为位居第一，DeepSeek位列第五，成都两家企业上榜。"
+  },
+  {
+    "title": "马来西亚海关查获8837万元AI芯片走私案",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-06-26/doc-inietwvm7205346.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "马来西亚海关查获价值8837万元人民币的AI芯片走私案，最终目的地指向亚洲某国家。"
+  },
+  {
+    "title": "BBC正式关闭长波广播服务，百年历史画上句号",
+    "url": "https://www.theverge.com/tech/958721/the-bbc-shuts-down-its-longwave-radio-service",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "BBC于6月27日停止Radio 4长波广播，这是其最古老的服务，因维护成本过高且听众锐减而关闭。"
+  },
+  {
+    "title": "Notion宣布关闭Notion Mail，转向AI收件箱代理",
+    "url": "https://www.theverge.com/tech/957198/notion-is-winding-down-notion-mail",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Notion Mail将于9月22日关停，仅运营一年有余，公司将全力投入AI收件箱代理功能。"
+  },
+  {
+    "title": "Meta计划推出预测市场应用，与Kalshi和Polymarket合作",
+    "url": "https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html",
+    "source": "The New York Times",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "扎克伯格要求Meta开发预测市场应用，目标月活预测用户超1亿，并与Kalshi、Polymarket探讨合作。"
+  },
+  {
+    "title": "Polymarket遭供应链攻击，约300万美元用户资金被盗",
+    "url": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "预测市场平台Polymarket确认第三方供应商被入侵，恶意脚本注入前端，导致约300万美元被盗。"
+  },
+  {
+    "title": "OpenAI和Anthropic面临AI支出放缓新现实",
+    "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+    "source": "CNBC",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "企业开始收紧AI支出，转向开源和低成本模型，OpenAI和Anthropic的极速增长或面临拐点。"
+  },
+  {
+    "title": "ElevenLabs接入Google SynthID，为AI音频添加隐形水印",
+    "url": "https://elevenlabs.io/blog/synthid",
+    "source": "ElevenLabs",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "ElevenLabs与Google DeepMind合作，在生成的AI音频中嵌入SynthID隐形水印，帮助识别AI生成内容。"
+  },
+  {
+    "title": "消息称美国政府要求OpenAI审核后分批发布GPT-5.6",
+    "url": "https://finance.sina.com.cn/tech/digi/2026-06-26/doc-iniesvke2100518.shtml",
+    "source": "新浪科技",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "传美国政府要求OpenAI对GPT-5.6进行安全审核后分批发布，该模型已确认延期。"
+  },
+  {
+    "title": "谷歌前CEO施密特：中美AI差距仅\"纳秒\"级别",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-06-26/doc-inietfxy1995553.shtml",
+    "source": "新浪科技",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "谷歌前CEO埃里克·施密特表示，中美在AI领域的差距已缩小至\"纳秒\"级别，竞争极为激烈。"
+  },
+  {
+    "title": "美光科技单季盈利289亿美元，市值短暂超越Meta",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-06-26/doc-inietfxw5231809.shtml",
+    "source": "新浪科技",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "受AI热潮带动内存需求，美光科技一季度大赚289亿美元，市值一度超过Meta和特斯拉。"
+  },
+  {
+    "title": "黄仁勋：英伟达中国市场营收占比仅剩9%",
+    "url": "https://finance.sina.com.cn/tech/discovery/2026-06-25/doc-inierpqn0921172.shtml",
+    "source": "新浪科技",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "黄仁勋透露英伟达在中国市场的营收占比已降至9%，Blackwell芯片黑市价格飙升3倍。"
+  },
+  {
+    "title": "Anthropic年化收入达470亿美元，OpenAI冲刺IPO",
+    "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+    "source": "CNBC",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "Anthropic年化收入运行率达470亿美元，OpenAI约250亿美元，两家公司均于6月初秘密提交IPO申请。"
+  }
+]
