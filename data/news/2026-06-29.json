@@ -1,0 +1,90 @@
+[
+  {
+    "title": "5 easy ways to get more range out of your EV",
+    "url": "https://www.engadget.com/2203334/easy-ways-get-more-range-out-ev/",
+    "source": "Engadget",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "五个实用技巧帮助电动汽车用户延长续航里程，减少充电频率。"
+  },
+  {
+    "title": "Australia doubles the maximum penalty for its social media ban",
+    "url": "https://www.engadget.com/2203358/australia-doubles-maximum-penalty-social-media-ban/",
+    "source": "Engadget",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "澳大利亚将社交媒体禁令的最高罚款翻倍至9900万澳元（约6800万美元）。"
+  },
+  {
+    "title": "Apple's touchscreen MacBook reportedly won't wait for the M7 chips",
+    "url": "https://www.engadget.com/2203348/apple-touchscreen-macbook-launch-before-m7-chips/",
+    "source": "Engadget",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "据Mark Gurman爆料，苹果首款触控屏MacBook将搭载M5 Pro/Max芯片提前发布，而非等待M7。"
+  },
+  {
+    "title": "Mesh Wi-Fi or a range extender? Here's how to know which one you actually need",
+    "url": "https://www.engadget.com/2203019/mesh-wifi-vs-range-extender-pros-cons-explained/",
+    "source": "Engadget",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "详细对比Mesh Wi-Fi系统与信号扩展器的优缺点，帮助用户选择适合的网络覆盖方案。"
+  },
+  {
+    "title": "Flock cameras track more than your license plate, and they're spreading fast",
+    "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+    "source": "Engadget",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Flock监控摄像头不仅能追踪车牌，还引发越来越多的隐私和安全担忧，正在美国快速扩张。"
+  },
+  {
+    "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
+    "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+    "source": "Wired",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "美国政府放宽对Anthropic最先进AI模型Claude Mythos 5的限制，允许向100多家美国企业和政府机构开放访问。"
+  },
+  {
+    "title": "China Defies US Restrictions and Builds the World's Fastest Supercomputer",
+    "url": "https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/",
+    "source": "Wired",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "中国深圳国家超级计算中心的LineShine超级计算机超越美国El Capitan，登顶TOP500榜首，全部采用国产CPU。"
+  },
+  {
+    "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn't Be Trusted",
+    "url": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
+    "source": "Wired",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "WIRED调查揭示英国布里斯托警方利用AI预测犯罪的大规模系统，涉及近50万人数据，部分模型结果存疑。"
+  },
+  {
+    "title": "The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials",
+    "url": "https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/",
+    "source": "Wired",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Peter Thiel旗下私人社交团体Dialog的数据泄露事件暴露了多名美国国家安全官员个人信息，五角大楼已介入调查。"
+  },
+  {
+    "title": "AI researchers continue to leave Google for its rivals",
+    "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+    "source": "TechCrunch",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "谷歌顶尖AI研究员Jonas Adler和Alexander Pritzel加盟Anthropic，此前Noam Shazeer和John Jumper也已离职，人才流失趋势加剧。"
+  },
+  {
+    "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+    "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+    "source": "TechCrunch",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "企业正从鼓励员工大量使用AI的'tokenmaxxing'时代转向限制AI支出的'token rationing'时代，Accenture等公司已开始严控AI使用成本。"
+  }
+]
