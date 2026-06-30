@@ -1,0 +1,130 @@
+[
+  {
+    "title": "OpenAI发布GeneBench-Pro：面向生物医学研究的新一代AI评估平台",
+    "url": "https://openai.com/index/introducing-genebench-pro/",
+    "source": "OpenAI",
+    "tag": "AI前沿",
+    "time": "07:00",
+    "summary": "OpenAI推出GeneBench-Pro，这是一个专门用于评估AI模型在基因学和生物医学领域能力的基准测试平台，旨在推动AI在生命科学中的应用。"
+  },
+  {
+    "title": "Anthropic Claude模型正式登陆Microsoft Azure AI Foundry",
+    "url": "https://www.jiemian.com/article/14675737.html",
+    "source": "界面新闻",
+    "tag": "AI前沿",
+    "time": "06:30",
+    "summary": "Anthropic宣布Claude模型即日起在Microsoft Foundry全面可用，企业用户可直接在Azure环境中部署，支持Claude Opus 4.8和Haiku 4.5。"
+  },
+  {
+    "title": "Anthropic推出Claude Science：面向科学家的AI工作台",
+    "url": "https://www.anthropic.com/news/claude-science",
+    "source": "Anthropic",
+    "tag": "AI前沿",
+    "time": "06:00",
+    "summary": "Anthropic发布Claude Science，这是一款可定制的AI应用，集成科研人员常用工具，支持可审计的成果产出和灵活的计算资源访问。"
+  },
+  {
+    "title": "Google DeepMind发布Gemini Omni及多项AI更新",
+    "url": "https://deepmind.google/blog/",
+    "source": "Google DeepMind",
+    "tag": "AI前沿",
+    "time": "05:00",
+    "summary": "Google DeepMind发布Gemini Omni模型，并在Gemini 3.5 Flash中引入计算机使用功能，同时推出DiffusionGemma实现4倍速文本生成。"
+  },
+  {
+    "title": "OpenAI修复18年历史的数据基础设施核心转储bug",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/",
+    "source": "OpenAI",
+    "tag": "AI前沿",
+    "time": "04:30",
+    "summary": "OpenAI工程团队发现并修复了一个存在18年的核心转储流行病数据基础设施bug，该问题影响了长期数据处理的准确性。"
+  },
+  {
+    "title": "传小红书启动达尔文秘密项目，目标再造一款小红书级别新产品",
+    "url": "https://finance.sina.com.cn/tob/2026-06-30/doc-iniffcpn1410505.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "05:18",
+    "summary": "小红书内部启动达尔文创业孵化项目，面向员工开放报名，由L3高管带队，目标孵化出小红书级别的新产品，成功者可出任产品负责人。"
+  },
+  {
+    "title": "硅基流动递表港交所，联席保荐人为华泰国际、国泰海通",
+    "url": "https://www1.hkexnews.hk/app/sehk/2026/108701/documents/sehk26063002927_c.pdf",
+    "source": "36氪/港交所",
+    "tag": "国内科技",
+    "time": "06:00",
+    "summary": "北京硅基流动科技股份有限公司向港交所提交上市申请书，华泰国际和国泰海通担任联席保荐人。"
+  },
+  {
+    "title": "微软计划新一轮裁员，将影响数千岗位包括Xbox部门",
+    "url": "https://www.jiemian.com/article/14676224.html",
+    "source": "界面新闻",
+    "tag": "国际科技",
+    "time": "05:30",
+    "summary": "微软计划宣布新一轮裁员，影响数千岗位，涉及销售、咨询及Xbox游戏部门，裁员幅度不到22万员工总数的2.5%。"
+  },
+  {
+    "title": "亚马逊因违反公平信用报告法被FTC罚款225万美元",
+    "url": "https://www.jiemian.com/article/14675956.html",
+    "source": "界面新闻",
+    "tag": "国际科技",
+    "time": "04:00",
+    "summary": "美国联邦贸易委员会宣布亚马逊支付225万美元罚款，因其长期未依法向身份盗窃受害者提供涉嫌欺诈交易记录。"
+  },
+  {
+    "title": "REDMI K90至尊版发布：内置旗舰级风冷方案",
+    "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-06-30/doc-iniffcpn1448018.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "22:47",
+    "summary": "REDMI发布K90至尊版，内置旗舰级风冷散热方案，首销期间加量不加价，主打高性能游戏体验。"
+  },
+  {
+    "title": "小鹏机器人业务负责人米良川离职，何小鹏已亲自挂帅",
+    "url": "https://finance.sina.com.cn/tob/2026-06-30/doc-iniffcps6539459.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "21:10",
+    "summary": "小鹏汽车机器人业务负责人米良川离职，此前何小鹏已亲自接管机器人业务，显示公司对机器人赛道的重视。"
+  },
+  {
+    "title": "IMF官员预警AI相关债务杠杆，称比估值泡沫更令人担忧",
+    "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-iniffcpn1432174.shtml",
+    "source": "新浪科技",
+    "tag": "行业数据",
+    "time": "22:12",
+    "summary": "国际货币基金组织官员警告，AI领域的债务杠杆问题可能比估值泡沫更令人担忧，暗示行业存在金融风险。"
+  },
+  {
+    "title": "美光科技宣布向特朗普账户投资2.5亿美元",
+    "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-iniffcps6556347.shtml",
+    "source": "新浪科技",
+    "tag": "国际科技",
+    "time": "21:42",
+    "summary": "美光科技宣布将向特朗普相关投资账户投入2.5亿美元，引发市场对半导体企业与政治关联的关注。"
+  },
+  {
+    "title": "OpenAI与Broadcom联合发布LLM优化推理芯片Jalapeño",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+    "source": "OpenAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "OpenAI和Broadcom推出专为LLM优化的推理芯片Jalapeño，旨在提升AI模型推理效率并降低成本。"
+  },
+  {
+    "title": "芬兰团队利用机器学习发现两种新型超导材料",
+    "url": "https://epaper.stdaily.com/statics/technology-site/index.html#/home?isDetail=1&currentNewsId=8e98ebd9cf4345e59b12e3c994135e1c",
+    "source": "科技日报",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "阿尔托大学国际团队结合机器学习与量子理论，从海量材料中发现两种新型超导材料，为室温超导研究提供新路径。"
+  },
+  {
+    "title": "谷歌发布全新AI创作工具，加速多模态内容生成",
+    "url": "https://www.jiemian.com/article/14675971.html",
+    "source": "界面新闻",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "谷歌在I/O开发者大会上发布全新AI创作工具，进一步提升多模态内容生成能力，加速创作者工作流程。"
+  }
+]
