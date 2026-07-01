@@ -1,0 +1,162 @@
+[
+  {
+    "title": "DeepSeek V4 正式版7月上线，高峰时段 API 价格全面翻倍",
+    "url": "https://txtmix.com/posts/news/ai-morning-news-2026-07-01/",
+    "source": "量子位 / TextMix",
+    "tag": "AI前沿",
+    "time": "08:00",
+    "summary": "DeepSeek V4 正式版将于7月上线，高峰时段输入与输出 token 价格均上调至2倍，开发者仍普遍表示性价比突出。"
+  },
+  {
+    "title": "智谱 CEO 唐杰全球征集 GLM-5.3 需求，评论区齐呼「加视觉」",
+    "url": "https://txtmix.com/posts/news/ai-morning-news-2026-07-01/",
+    "source": "量子位 / TextMix",
+    "tag": "AI前沿",
+    "time": "08:00",
+    "summary": "智谱 CEO 唐杰发布 GLM-5.3 功能需求投票，单帖浏览量超40万，「原生视觉理解」成最热门呼声。"
+  },
+  {
+    "title": "Meta 内部禁用 Claude Code 与 Codex，力推自研 MetaCode",
+    "url": "https://txtmix.com/posts/news/ai-morning-news-2026-07-01/",
+    "source": "36kr / The Information / TextMix",
+    "tag": "AI前沿",
+    "time": "08:00",
+    "summary": "Meta 应用 AI 工程部门限制员工使用 Claude Code 和 Codex，转而推广自研编程助手 MetaCode，以保护自研路径与定价权。"
+  },
+  {
+    "title": "OpenAI 推理成本降低 50%，计划下调 API 价格并放宽限额",
+    "url": "https://iaipie.com/2026-%e5%b9%b4-7-%e6%9c%88-2-%e6%97%a5-ai-%e8%a1%8c%e4%b8%9a%e8%b5%84%e8%ae%af%e9%80%9f%e8%a7%88/",
+    "source": "无矩AI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "OpenAI 通过底层架构优化将模型推理成本直接降低 50%，后续计划下调 API 调用价格并放宽普通用户使用限额。"
+  },
+  {
+    "title": "Anthropic 发布 Claude Sonnet 5，最新模型追踪网站已收录",
+    "url": "https://aireleasetracker.com/latest",
+    "source": "AI Release Tracker",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic 于6月30日发布 Claude Sonnet 5，成为2026年7月最新收录的前沿大模型之一。"
+  },
+  {
+    "title": "北京发布 AI 赋能科学研究实施方案，三年建成科学智能创新中心",
+    "url": "https://iaipie.com/2026-%e5%b9%b4-7-%e6%9c%88-2-%e6%97%a5-ai-%e8%a1%8c%e4%b8%9a%e8%b5%84%e8%ae%af%e9%80%9f%e8%a7%88/",
+    "source": "无矩AI",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "北京发布《2026-2028 人工智能赋能科学研究实施方案》，计划三年内建成全国领先的科学智能创新中心，覆盖材料、生物医药、量子等六大领域。"
+  },
+  {
+    "title": "寒武纪市值突破万亿，成为科创板首家万亿市值 AI 芯片企业",
+    "url": "https://iaipie.com/2026-%e5%b9%b4-7-%e6%9c%88-2-%e6%97%a5-ai-%e8%a1%8c%e4%b8%9a%e8%b5%84%e8%ae%af%e9%80%9f%e8%a7%88/",
+    "source": "无矩AI",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "寒武纪盘中股价大涨，市值突破万亿元，成为科创板首家万亿市值 AI 芯片企业，国产算力产业链业绩持续兑现。"
+  },
+  {
+    "title": "美团发布 LongCat-2.0 万亿参数大模型，全链路依托国产算力",
+    "url": "https://iaipie.com/2026-%e5%b9%b4-7-%e6%9c%88-1-%e6%97%a5-ai-%e8%a1%8c%e4%b8%9a%e8%b5%84%e8%ae%af%e9%80%9f%e8%a7%88/",
+    "source": "无矩AI",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "美团发布参数规模达1.6万亿的 LongCat-2.0 大模型，是全球首个完整依托国产五万卡算力集群完成预训练的万亿级模型。"
+  },
+  {
+    "title": "虎牙发布 VAM 1.0 实时多模态数字人，单张照片驱动 24 小时直播",
+    "url": "https://txtmix.com/posts/news/ai-morning-news-2026-07-01/",
+    "source": "量子位 / TextMix",
+    "tag": "国内科技",
+    "time": "08:00",
+    "summary": "虎牙推出基于 DiT 架构的 VAM 1.0 数字人基础模型，单张照片即可驱动 24 小时不间断直播，覆盖聊天、唱歌、游戏陪玩等场景。"
+  },
+  {
+    "title": "跨维智能完成 10 亿元 B 轮融资，跻身百亿估值具身智能独角兽",
+    "url": "https://txtmix.com/posts/news/ai-morning-news-2026-07-01/",
+    "source": "量子位 / TextMix",
+    "tag": "国内科技",
+    "time": "08:00",
+    "summary": "具身智能企业跨维智能完成 10 亿元 B 轮融资，投后估值超百亿，投资方包括深创投等国家级母基金。"
+  },
+  {
+    "title": "明略科技开源 Octo：让 AI Agent 之间拥有「互联网」",
+    "url": "https://txtmix.com/posts/news/ai-morning-news-2026-07-01/",
+    "source": "量子位 / TextMix",
+    "tag": "国内科技",
+    "time": "08:00",
+    "summary": "明略科技开源 Octo 协议，解决企业内部多 Agent 协作问题，让 Claude Code、Codex 等工具可以互相调用结果与经验沉淀。"
+  },
+  {
+    "title": "亚马逊投入 10 亿美元扩充 AI 工程师团队，推进企业私有化部署",
+    "url": "https://iaipie.com/2026-%e5%b9%b4-7-%e6%9c%88-2-%e6%97%a5-ai-%e8%a1%8c%e4%b8%9a%e8%b5%84%e8%ae%af%e9%80%9f%e8%a7%88/",
+    "source": "无矩AI",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "亚马逊宣布投入 10 亿美元扩充 AI 工程师团队，组建专项团队为企业定制私有化 AI 部署方案，全球 AI 人才竞争持续加剧。"
+  },
+  {
+    "title": "特斯拉向老款 HW3 车型推送 FSD V14 轻量化自动驾驶模型",
+    "url": "https://iaipie.com/2026-%e5%b9%b4-7-%e6%9c%88-2-%e6%97%a5-ai-%e8%a1%8c%e4%b8%9a%e8%b5%84%e8%ae%af%e9%80%9f%e8%a7%88/",
+    "source": "无矩AI",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "特斯拉向老款 HW3 车型内测用户推送 FSD V14，依靠端侧 AI 模型优化城市道路识别与自动避让功能。"
+  },
+  {
+    "title": "Meta 宣布开放自有算力对外售卖，布局云 AI 算力新业务",
+    "url": "https://iaipie.com/2026-%e5%b9%b4-7-%e6%9c%88-2-%e6%97%a5-ai-%e8%a1%8c%e4%b8%9a%e8%b5%84%e8%ae%af%e9%80%9f%e8%a7%88/",
+    "source": "无矩AI",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Meta 宣布开放自有算力对外售卖，正式布局云 AI 算力新业务，股价在半导体板块集体回调中逆势上涨。"
+  },
+  {
+    "title": "快手可灵 AI 将完成 30 亿美元融资，投后估值 180 亿美元",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "行业数据",
+    "time": "01:41",
+    "summary": "快手旗下可灵 AI 将完成 30 亿美元融资，腾讯参投，投后估值 180 亿美元，预计 12 个月内启动赴港 IPO。"
+  },
+  {
+    "title": "全球半导体 7 月 1 日统一涨价，近 20 家企业同步调价 10%-15%",
+    "url": "https://iaipie.com/2026-%e5%b9%b4-7-%e6%9c%88-1-%e6%97%a5-ai-%e8%a1%8c%e4%b8%9a%e8%b5%84%e8%ae%af%e9%80%9f%e8%a7%88/",
+    "source": "无矩AI",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "海内外近 20 家功率、模拟半导体企业同步调价，英飞凌、扬杰科技等涨价 10%-15%，AI 数据中心算力需求爆发导致供需缺口扩大。"
+  },
+  {
+    "title": "美股半导体板块集体回调，费城半导体指数大跌 6%",
+    "url": "https://iaipie.com/2026-%e5%b9%b4-7-%e6%9c%88-2-%e6%97%a5-ai-%e8%a1%8c%e4%b8%9a%e8%b5%84%e8%ae%af%e9%80%9f%e8%a7%88/",
+    "source": "无矩AI",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "隔夜美股半导体板块大幅下跌，费城半导体指数大跌 6%，市场投资逻辑正从估值炒作转向业绩兑现。"
+  },
+  {
+    "title": "Codex 桌面端单月流量达 150GB，SSD 写入量高达 4.8TB",
+    "url": "https://txtmix.com/posts/news/ai-morning-news-2026-07-01/",
+    "source": "36kr / TextMix",
+    "tag": "行业数据",
+    "time": "08:00",
+    "summary": "用户实测反馈 OpenAI Codex 桌面端单月流量达 150GB，Mac SSD 写入量高达 4.8TB，AI 编程工具对端侧资源的消耗开始显性化。"
+  },
+  {
+    "title": "OpenAI 自研推理芯片 Jalapeño 完成研发，预计年底量产",
+    "url": "https://iaipie.com/2026-%e5%b9%b4-7-%e6%9c%88-1-%e6%97%a5-ai-%e8%a1%8c%e4%b8%9a%e8%b5%84%e8%ae%af%e9%80%9f%e8%a7%88/",
+    "source": "无矩AI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "OpenAI 自研推理芯片 Jalapeño 已完成研发，专为大模型推理优化，预计年底量产；同期微软 Maia 300A、亚马逊 Trainium3 也进入量产阶段。"
+  },
+  {
+    "title": "优必选 U1 人形机器人订单突破 1.3 万台，9 月启动批量交付",
+    "url": "https://iaipie.com/2026-%e5%b9%b4-7-%e6%9c%88-2-%e6%97%a5-ai-%e8%a1%8c%e4%b8%9a%e8%b5%84%e8%ae%af%e9%80%9f%e8%a7%88/",
+    "source": "无矩AI",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "优必选 U1 人形机器人全球订单突破 1.3 万台，9 月启动批量交付；智元机器人累计交付 15000 台工业机器人，量产速度刷新全球纪录。"
+  }
+]
