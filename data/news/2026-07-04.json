@@ -1,0 +1,121 @@
+[
+  {
+    "title": "OpenAI proposes handing U.S. government a $42.6 billion stake",
+    "url": "https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b",
+    "source": "Financial Times",
+    "tag": "AI前沿",
+    "summary": "OpenAI提议向美国政府提供价值426亿美元的5%股权，以换取监管支持并建立国际AI治理框架。"
+  },
+  {
+    "title": "Anthropic's AI models back online after two-week government standoff",
+    "url": "https://fortune.com/2026/07/01/anthropic-ai-models-back-online-government-standoff/",
+    "source": "Fortune",
+    "tag": "AI前沿",
+    "summary": "Anthropic在与美国政府对峙两周后恢复Fable 5模型上线，双方达成脆弱和解，AI监管之争才刚刚开始。"
+  },
+  {
+    "title": "SpaceX showed investors prototype of Elon Musk's new AI device",
+    "url": "https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b",
+    "source": "The Wall Street Journal",
+    "tag": "AI前沿",
+    "summary": "SpaceX向投资者展示了Elon Musk全新AI设备的原型，引发市场对xAI硬件战略的猜测。"
+  },
+  {
+    "title": "ChatGPT is slowly losing audience to Gemini and Claude",
+    "url": "https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic/",
+    "source": "Fortune",
+    "tag": "AI前沿",
+    "summary": "数据显示ChatGPT月访问量首次跌破生成式AI市场多数份额，Anthropic在5月企业订阅数超越OpenAI。"
+  },
+  {
+    "title": "Google DeepMind's coding pivot lost six researchers to Meta, OpenAI and Anthropic",
+    "url": "https://www.techtimes.com/articles/319219/20260628/google-deepminds-coding-pivot-lost-six-researchers-meta-openai-anthropic.htm",
+    "source": "Tech Times",
+    "tag": "AI前沿",
+    "summary": "Google DeepMind五个月内已有六名研究人员跳槽至Meta、OpenAI和Anthropic，AI人才流失持续加剧。"
+  },
+  {
+    "title": "AI如何交付可见价值？联想首提Token经济“三大定律”",
+    "url": "https://finance.sina.com.cn/tech/it/2026-07-03/doc-inifpqku2412198.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "summary": "联想首次提出Token经济“三大定律”，探讨AI企业如何将大模型能力转化为可量化的商业价值。"
+  },
+  {
+    "title": "理想汽车将迎架构调整：拆分整车和智驾产品团队，并入研发",
+    "url": "https://finance.sina.com.cn/tech/it/2026-07-03/doc-inifpqks5598209.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "summary": "理想汽车进行组织架构调整，将整车和智能驾驶产品团队拆分并并入研发体系，强化技术整合。"
+  },
+  {
+    "title": "传阿里内部全面禁用Claude Code，官方暂无回应",
+    "url": "https://finance.sina.com.cn/roll/2026-07-03/doc-inifpqku2335623.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "summary": "有消息称阿里巴巴内部已全面禁用Claude Code，引发对国内大厂AI工具选用策略和安全合规的广泛关注。"
+  },
+  {
+    "title": "腾讯游戏发布2026暑期未保专项，升级AI双引擎防沉迷模式",
+    "url": "https://finance.sina.com.cn/tech/2026-07-03/doc-inifnxpa2443129.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "summary": "腾讯游戏发布2026年暑期未成年人保护专项行动，升级AI双引擎防沉迷系统，加强未成年人游戏时长管控。"
+  },
+  {
+    "title": "大疆美国撤诉转战国内，影石回应：继续反诉",
+    "url": "https://finance.sina.com.cn/tech/2026-07-03/doc-inifnxpa2437294.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "summary": "大疆在美国撤回对影石的专利诉讼，转战国内法院，影石表示将继续在国内发起反诉。"
+  },
+  {
+    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+    "url": "https://techcrunch.com/2026/07/02/indian-tech-tycoon-bets-30m-of-his-own-money-to-build-ai-alternative-to-microsoft-office/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "summary": "印度科技大亨自掏腰包3000万美元，打造AI原生办公套件以挑战Microsoft Office市场地位。"
+  },
+  {
+    "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight",
+    "url": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "summary": "自动驾驶热潮重现，Humble Robotics将自动驾驶技术应用于货运物流，行业资金和人才竞争再度升温。"
+  },
+  {
+    "title": "Sony's flagship ANC headphones now support low-latency Bluetooth with a free update",
+    "url": "https://www.theverge.com/tech/933168/sony-wh-1000xm6-low-latency-bluetooth-gaming-audio-update",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "summary": "索尼WH-1000XM6旗舰降噪耳机通过固件更新新增低延迟蓝牙游戏音频协议支持，提升游戏体验。"
+  },
+  {
+    "title": "Sony is teasing its first new RX10 superzoom camera in nearly nine years",
+    "url": "https://www.theverge.com/circuitbreaker/2026/7/3/237258/sony-rx10-superzoom-camera-teaser-july-9",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "summary": "索尼预告将于7月9日发布近九年来首款RX10系列超级变焦相机，引发摄影爱好者高度关注。"
+  },
+  {
+    "title": "DJI now offers a pro version of its tiny Mic Mini 2 with backup recording",
+    "url": "https://www.theverge.com/tech/919553/dji-mic-mini-2s-wireless-microphone-backup-recording",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "summary": "大疆发布Mic Mini 2S专业版无线麦克风，每个发射器内置14.5GB存储实现冗余备份录音。"
+  },
+  {
+    "title": "Together AI raises $800 million at $8.3 billion valuation",
+    "url": "https://money.usnews.com/investing/news/articles/2026-07-01/together-ai-raises-800-million-at-8-3-billion-valuation",
+    "source": "US News",
+    "tag": "行业数据",
+    "summary": "AI基础设施公司Together AI完成8亿美元融资，由沙特阿美旗下Aramco Ventures领投，估值翻倍至83亿美元。"
+  },
+  {
+    "title": "Meta evaluating Samsung to produce custom AI chips worth 10 trillion won",
+    "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifpkau5678147.shtml",
+    "source": "新浪科技",
+    "tag": "行业数据",
+    "summary": "Meta正在评估委托三星代工生产价值约10万亿韩元（约72亿美元）的定制AI芯片，以降低对NVIDIA依赖。"
+  }
+]
