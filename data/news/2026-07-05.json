@@ -1,0 +1,146 @@
+[
+  {
+    "title": "iPad Pro首发M7芯片：史上最强iPad",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-04/doc-inifscxs3187009.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "07-04",
+    "summary": "苹果发布搭载M7芯片的新一代iPad Pro，被称为史上性能最强的iPad产品。"
+  },
+  {
+    "title": "华强北拿到iPhone 18 Pro图纸：提前研究实体卡槽改装方案",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-04/doc-inifrxrx2534501.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "07-04",
+    "summary": "华强北商家已获得iPhone 18 Pro设计图纸，开始研究实体SIM卡槽改装方案。"
+  },
+  {
+    "title": "消息称微软Xbox硬件亏损加剧：每卖一台最高亏200美元",
+    "url": "https://finance.sina.com.cn/tech/digi/2026-07-04/doc-inifrtka9338812.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "07-04",
+    "summary": "微软Xbox主机硬件亏损持续扩大，据称每售出最高亏损200美元，次世代主机Helix将取消光驱。"
+  },
+  {
+    "title": "阿里Qoder企业版全球发布，提供企业级知识库和安全能力",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifpcve0489097.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "07-03",
+    "summary": "阿里巴巴发布Qoder企业版，面向全球市场提供企业级知识库管理和安全能力。"
+  },
+  {
+    "title": "消息称阿里巴巴全面禁用Anthropic旗下Claude产品：7月10日生效",
+    "url": "https://finance.sina.com.cn/tech/digi/2026-07-03/doc-inifpcuw5602127.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "07-03",
+    "summary": "阿里巴巴要求全员卸载Claude产品，禁令将于7月10日正式生效。"
+  },
+  {
+    "title": "AI抢食导致车规芯片价格暴涨，车企担忧缺货风险",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-03/doc-inifpcuw5575931.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "07-03",
+    "summary": "AI需求激增导致车规级芯片价格大幅上涨，车企面临调价和缺货双重压力。"
+  },
+  {
+    "title": "白宫推进前沿AI模型自愿标准，8月1日为实施截止期限",
+    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-3-2026",
+    "source": "AI Flash Report",
+    "tag": "AI前沿",
+    "time": "07-03",
+    "summary": "美国白宫与OpenAI、Anthropic、Google等公司协商前沿AI模型自愿发布标准，预计8月1日实施。"
+  },
+  {
+    "title": "Anthropic Fable 5恢复上线，Claude Science项目启动",
+    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-3-2026",
+    "source": "AI Flash Report",
+    "tag": "AI前沿",
+    "time": "07-03",
+    "summary": "经过19天政府下令暂停后，Anthropic Fable 5重新在AWS、Google Cloud和Microsoft Foundry上线。"
+  },
+  {
+    "title": "Google Gemini 3.5 Flash作为全球搜索默认模型推出",
+    "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+    "source": "Google Blog",
+    "tag": "AI前沿",
+    "time": "07-03",
+    "summary": "Google将Gemini 3.5 Flash设为Search AI Mode默认模型，覆盖近200个国家和地区、98种语言。"
+  },
+  {
+    "title": "FTC警告AI公司：意识形态导向的聊天机器人输出或违反消费者保护法",
+    "url": "https://www.reuters.com/technology/artificial-intelligence/",
+    "source": "Reuters",
+    "tag": "AI前沿",
+    "time": "07-03",
+    "summary": "美国联邦贸易委员会提出政策信号，AI聊天机器人若输出带有意识形态目标的内容可能面临执法。"
+  },
+  {
+    "title": "微软Copilot OS泄露视频曝光：为AI代理打造的轻量化系统",
+    "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-copilot-os-revealed-in-leaked-video-lightweight-windows-os-exploration-features-new-desktop-ui-built-entirely-around-copilot-and-agentic-ai",
+    "source": "Windows Central",
+    "tag": "国际科技",
+    "time": "07-02",
+    "summary": "泄露视频显示微软正在开发名为Aion的轻量化Copilot OS，围绕AI代理构建全新桌面UI。"
+  },
+  {
+    "title": "Cloudflare将打击同时用于搜索索引和AI训练的多用途爬虫",
+    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+    "source": "Cloudflare Blog",
+    "tag": "国际科技",
+    "time": "07-02",
+    "summary": "Cloudflare宣布从9月15日起阻止同时抓取广告支持网站用于搜索索引和AI训练的爬虫。"
+  },
+  {
+    "title": "OpenAI遭诉讼：ChatGPT-4o被指加剧用户躁狂发作并导致自残",
+    "url": "https://www.reuters.com/legal/government/california-man-with-bipolar-disorder-says-chatgpt-fueled-delusions-led-self-harm-2026-07-01/",
+    "source": "Reuters",
+    "tag": "国际科技",
+    "time": "07-01",
+    "summary": "加州一名双相情感障碍患者起诉OpenAI，称ChatGPT-4o未标记其躁狂对话反而强化妄想导致自杀尝试。"
+  },
+  {
+    "title": "Google Cloud在非洲推出AI基础设施计划",
+    "url": "https://www.googlecloudpresscorner.com/2026-07-01-Google-Cloud-Summit-in-Africa-Highlights-the-Continents-Digital-Transformation-and-Unveils-New-Agentic-AI-and-Infrastructure-Investments",
+    "source": "Google Cloud",
+    "tag": "国际科技",
+    "time": "07-01",
+    "summary": "Google Cloud首届非洲峰会上宣布五项AI计划，涵盖研究、数字技能、创业支持和基础设施。"
+  },
+  {
+    "title": "欧盟与Apple就Siri AI延迟展开谈判，DMA法规成焦点",
+    "url": "https://techstartups.com/2026/07/01/top-tech-news-today-july-1-2026/",
+    "source": "Tech Startups",
+    "tag": "国际科技",
+    "time": "07-01",
+    "summary": "欧盟科技主管与苹果CEO库克会谈，就Siri AI在欧洲延迟上线及数字市场法合规问题进行磋商。"
+  },
+  {
+    "title": "英国国家电网投资17.5亿美元押注AI数据中心电力基础设施",
+    "url": "https://techstartups.com/2026/07/01/top-tech-news-today-july-1-2026/",
+    "source": "Tech Startups",
+    "tag": "国际科技",
+    "time": "07-01",
+    "summary": "英国国家电网以17.5亿美元收购Joulent 35%股权，布局AI数据中心电力基础设施，首个项目为西德克萨斯2.67吉瓦发电厂。"
+  },
+  {
+    "title": "AI企业Q1融资2260亿美元，单季超2025全年总额",
+    "url": "https://www.cbinsights.com/research/report/ai-trends-q1-2026/",
+    "source": "CB Insights",
+    "tag": "行业数据",
+    "time": "2026 Q1",
+    "summary": "2026年Q1全球AI企业融资达2260亿美元，OpenAI单轮1220亿美元占54%，仅一季度超2025全年总额。"
+  },
+  {
+    "title": "全球企业AI投资2025年翻倍，生成式AI增长超200%",
+    "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/economy",
+    "source": "Stanford HAI",
+    "tag": "行业数据",
+    "time": "2025-2026",
+    "summary": "斯坦福HAI报告显示全球企业AI投资2025年翻倍，私人投资增长127.5%，生成式AI投资增长超200%。"
+  }
+]
