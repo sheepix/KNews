@@ -1,0 +1,138 @@
+[
+  {
+    "title": "OpenAI预览下一代模型GPT-5.6 Sol",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "source": "OpenAI",
+    "tag": "AI前沿",
+    "time": "06-26",
+    "summary": "OpenAI发布GPT-5.6 Sol预览版，定位下一代旗舰模型，展示在推理和编程任务上的显著性能提升。"
+  },
+  {
+    "title": "OpenAI与博通联合推出LLM专用推理芯片Jalapeño",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+    "source": "OpenAI",
+    "tag": "AI前沿",
+    "time": "06-24",
+    "summary": "OpenAI与Broadcom合作推出专为大型语言模型推理优化的定制芯片Jalapeño，旨在降低推理成本并提升效率。"
+  },
+  {
+    "title": "OpenAI发布GeneBench-Pro基因研究基准测试",
+    "url": "https://openai.com/index/introducing-genebench-pro/",
+    "source": "OpenAI",
+    "tag": "AI前沿",
+    "time": "06-30",
+    "summary": "OpenAI推出GeneBench-Pro，专为评估AI模型在基因序列分析、蛋白质预测等生命科学任务上的表现而设计。"
+  },
+  {
+    "title": "OpenAI发布GPT-5.6预览版安全系统卡",
+    "url": "https://deploymentsafety.openai.com/gpt-5-6-preview",
+    "source": "OpenAI",
+    "tag": "AI前沿",
+    "time": "06-26",
+    "summary": "OpenAI公开GPT-5.6 Preview系统卡，详细披露模型安全评估、风险缓解措施和红队测试结果。"
+  },
+  {
+    "title": "Anthropic Fable 5全球恢复上线",
+    "url": "https://www.anthropic.com/news",
+    "source": "Anthropic",
+    "tag": "AI前沿",
+    "time": "07-01",
+    "summary": "Anthropic Fable 5在经历政府暂停后于7月1日重新在全球AWS、Google Cloud和Azure平台上线。"
+  },
+  {
+    "title": "Anthropic联合亚马逊、微软等提出越狱攻击严重程度评分框架",
+    "url": "https://www.anthropic.com/news",
+    "source": "Anthropic",
+    "tag": "AI前沿",
+    "time": "06-30",
+    "summary": "Anthropic与Glasswing联盟合作伙伴共同提出行业统一的AI模型越狱攻击严重程度评分标准框架。"
+  },
+  {
+    "title": "Meta与EssilorLuxottica联合发布Meta Glasses智能眼镜",
+    "url": "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/",
+    "source": "Meta",
+    "tag": "国际科技",
+    "time": "06-23",
+    "summary": "Meta与EssilorLuxottica推出Meta Glasses，提供26种款式、多种颜色和镜片选择，打造时尚AI眼镜产品线。"
+  },
+  {
+    "title": "Threads月活用户突破5亿",
+    "url": "https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/",
+    "source": "Meta",
+    "tag": "国际科技",
+    "time": "06-16",
+    "summary": "Meta宣布Threads月活跃用户达到5亿里程碑，并推出新的社区功能庆祝这一成就。"
+  },
+  {
+    "title": "WhatsApp推出用户名功能，无需分享手机号即可连接",
+    "url": "https://about.fb.com/news/2026/06/its-time-to-reserve-your-whatsapp-username/",
+    "source": "Meta",
+    "tag": "国际科技",
+    "time": "06-29",
+    "summary": "WhatsApp正式上线用户名功能，用户可以通过自定义用户名与他人连接，无需暴露个人手机号码。"
+  },
+  {
+    "title": "Louis Rossmann起诉三星SSD保修欺诈",
+    "url": "https://www.theverge.com/tech",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "07-03",
+    "summary": "知名维修权益倡导者Louis Rossmann起诉三星，指控其在990 Pro SSD保修过程中存在欺诈行为，拒绝更换故障产品。"
+  },
+  {
+    "title": "索尼预告新一代RX10超级变焦相机，时隔九年首次更新",
+    "url": "https://www.theverge.com/tech",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "07-03",
+    "summary": "索尼宣布将于7月9日发布新款RX10系列相机，这是自2017年RX10 IV以来该系列首次更新。"
+  },
+  {
+    "title": "索尼WH-1000XM6推送低延迟蓝牙游戏音频固件更新",
+    "url": "https://www.theverge.com/tech",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "07-03",
+    "summary": "索尼为WH-1000XM6耳机发布新固件，新增支持低延迟蓝牙游戏音频协议GMAP，提升游戏和影音体验。"
+  },
+  {
+    "title": "苏富比拍卖黄仁勋签名Tom Ford皮夹克，估价4-6万美元",
+    "url": "https://www.theverge.com/tech",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "07-03",
+    "summary": "苏富比将拍卖NVIDIA CEO黄仁勋在2023年台北活动中穿着的签名Tom Ford皮夹克，预计成交价4万至6万美元。"
+  },
+  {
+    "title": "AI推理基础设施公司Baseten完成15亿美元F轮融资，估值130亿美元",
+    "url": "https://aifundingtracker.com/",
+    "source": "AI Funding Tracker",
+    "tag": "行业数据",
+    "time": "06-22",
+    "summary": "Baseten完成15亿美元Series F融资，估值达130亿美元，年收入增长约20倍，日处理超10亿次推理请求。"
+  },
+  {
+    "title": "AI数据安全公司Cyera完成6亿美元融资，估值飙升至120亿美元",
+    "url": "https://aifundingtracker.com/",
+    "source": "AI Funding Tracker",
+    "tag": "行业数据",
+    "time": "06-10",
+    "summary": "Cyera在18个月内估值从30亿美元飙升至120亿美元，ARR突破1.5亿美元，成为AI数据安全领域独角兽。"
+  },
+  {
+    "title": "脑启发AI初创公司Flourish完成5亿美元种子融资",
+    "url": "https://aifundingtracker.com/",
+    "source": "AI Funding Tracker",
+    "tag": "行业数据",
+    "time": "06-03",
+    "summary": "纽约初创公司Flourish获5亿美元种子融资，由贝索斯、Lux Capital和GV投资，致力于开发受大脑架构启发的AI模型。"
+  },
+  {
+    "title": "AI音乐生成公司Suno完成4亿美元D轮融资，估值54亿美元",
+    "url": "https://aifundingtracker.com/",
+    "source": "AI Funding Tracker",
+    "tag": "行业数据",
+    "time": "06-03",
+    "summary": "Suno以54亿美元估值完成4亿美元D轮融资，尽管面临多家唱片公司关于训练数据版权的诉讼。"
+  }
+]
