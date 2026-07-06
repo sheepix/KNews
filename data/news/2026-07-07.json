@@ -1,0 +1,107 @@
+[
+  {
+    "title": "腾讯混元3（Hy3）正式版上线，Agent和编程能力显著提升",
+    "url": "https://www.aitntnews.com/newDetail.html?newId=26935",
+    "source": "AITNT",
+    "tag": "国内科技",
+    "summary": "腾讯混元3正式版上线，WorkBuddy办公任务成功率从72%升至90%，整体表现接近GLM 5.2等旗舰模型，API定价输入1元、输出4元/百万tokens。"
+  },
+  {
+    "title": "OpenSquilla 0.4.0发布，引入红绿回归证据链自我验证机制",
+    "url": "https://www.aitntnews.com/newDetail.html?newId=26934",
+    "source": "AITNT",
+    "tag": "AI前沿",
+    "summary": "OpenSquilla定位Token-Efficient AI Agent，引入红绿回归证据链自我验证机制，内置SquillaRouter智能路由按难度分配模型，综合成本可降60%到80%。"
+  },
+  {
+    "title": "Gemini 3.5 Pro绝密泄露，前端生成能力赶超Fable 5",
+    "url": "https://www.aitntnews.com/newDetail.html?newId=26933",
+    "source": "AITNT",
+    "tag": "AI前沿",
+    "summary": "谷歌Gemini 3.5 Pro泄露，前端生成能力跃升，设计品味、UI完成度、SVG生成显著优于Fable 5，采用全新底座重训，将于7月17日发布。"
+  },
+  {
+    "title": "阿里云领投生数科技5亿美元，创通用世界模型国内最大单笔融资",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "行业数据",
+    "summary": "阿里云领投通用世界模型企业生数科技新一轮5亿美金融资，资金将用于核心模型研发与产业化落地，公司已启动股份制改造拟赴港IPO。"
+  },
+  {
+    "title": "Wafer用AMD MI355X运行GLM 5.2，单节点吞吐达2626 tok/s",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "国际科技",
+    "summary": "推理优化公司Wafer用AMD MI355X运行开源模型GLM 5.2，单节点吞吐约为英伟达B200的八成，成本却不到其一半，SemiAnalysis显示AMD每百万token成本已反超英伟达四成。"
+  },
+  {
+    "title": "Fable 5一次成型生成63个3D场景，Karpathy创造新词\"fablemaxxing\"",
+    "url": "https://www.aitntnews.com/newDetail.html?newId=26926",
+    "source": "AITNT",
+    "tag": "AI前沿",
+    "summary": "AI评测平台Arena.ai用Fable 5生成63个3D场景，包括1600行代码构建的水下曼哈顿、可漫游的梵高星空等，Andrej Karpathy惊叹并创造新词fablemaxxing。"
+  },
+  {
+    "title": "VISTA发布：首个Visual Spec-to-App Coding Agents持续评测基准",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "国际科技",
+    "summary": "University of Arizona、Zoom与Stony Brook University联合发布VISTA，首个面向Visual Spec-to-App Coding Agents的持续更新端到端评测基准，覆盖10类应用、128个页面。"
+  },
+  {
+    "title": "ICML 2026大奖公布，扩散模型包揽两篇杰出论文奖",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "AI前沿",
+    "summary": "ICML 2026扩散模型包揽两篇杰出论文奖，最佳立场论文指出AI对齐工具正被挪用为审查工具箱，DeepMind十年前的A3C算法获时间检验奖。"
+  },
+  {
+    "title": "星动纪元完成10亿元新一轮融资，两个月累计融资25亿元",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "行业数据",
+    "summary": "星动纪元由国务院国资委诚通基金领投，多家国资及产业资本参与，两个月内融资25亿元，为清华唯一持股具身企业，物流场景已与顺丰等合作实现规模化交付。"
+  },
+  {
+    "title": "Vercel推出vercel-labs/skills，AI智能体包管理器5个月获2.4万星标",
+    "url": "https://www.aitntnews.com/newDetail.html?newId=26906",
+    "source": "AITNT",
+    "tag": "AI前沿",
+    "summary": "Vercel推出skills项目，一行命令npx skills add即可为AI工具安装能力包，find-skills技能安装量达230万次，但Snyk审计发现36.82%存在安全缺陷。"
+  },
+  {
+    "title": "a16z合伙人：大模型缺乏网络效应，终将沦为管道设施",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "行业数据",
+    "summary": "a16z合伙人Evans指出大模型缺乏网络效应，编程是当前唯一真正实现PMF的场景，预测万亿美元资本投入将引发Token商品化，价值将向应用层转移。"
+  },
+  {
+    "title": "黑石QTS放弃全球最大智算中心园区项目，美国多州出台300余项限制法案",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "行业数据",
+    "summary": "黑石旗下QTS放弃原规划2200万平方英尺的智算中心项目，美国多州已出台300余项地方限制法案，其中275项于2026年集中推出，重点锁定高功耗AI算力集群。"
+  },
+  {
+    "title": "OpenAI和Anthropic面临新现实：用户从\"tokenmaxxing\"转向效率",
+    "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+    "source": "CNBC",
+    "tag": "AI前沿",
+    "summary": "企业开始控制AI支出，Uber等公司实施AI使用上限，Lindy等初创公司100%转向DeepSeek等开源模型，OpenAI和Anthropic即将IPO但面临增长放缓风险。"
+  },
+  {
+    "title": "MemoBench发布：首次评测视频生成模型的视觉记忆与状态推演能力",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "AI前沿",
+    "summary": "哈佛、MIT等机构联合提出世界模型评测基准MemoBench，首次针对动态环境下物体消失-重现的记忆能力进行测试，所有模型的物体重现得分均低于0.6。"
+  },
+  {
+    "title": "UC Berkeley首次打通从互联网视频到22自由度灵巧手真机部署的完整链路",
+    "url": "https://www.aitntnews.com/ainews/zh-CN",
+    "source": "AITNT",
+    "tag": "AI前沿",
+    "summary": "UC Berkeley发布Do as I Do，分两阶段实现从互联网单目RGB视频到22自由度灵巧手真机部署，将成功率从25%提升至71%，覆盖20类动作、生成500条轨迹。"
+  }
+]
