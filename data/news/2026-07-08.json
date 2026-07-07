@@ -1,0 +1,114 @@
+[
+  {
+    "title": "OpenAI首席未来学家Joshua Achiam宣布离职",
+    "url": "https://www.theverge.com/2026/7/7/tech/",
+    "source": "The Verge",
+    "tag": "AI前沿",
+    "time": "20:52",
+    "summary": "OpenAI首席未来学家Joshua Achiam在任职九年后宣布离职，他表示从外部也可以继续为AGI使命工作。"
+  },
+  {
+    "title": "OpenAI与Broadcom联合发布LLM优化推理芯片Jalapeno",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+    "source": "OpenAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "OpenAI与Broadcom合作推出专为大型语言模型推理优化的芯片Jalapeno，旨在提升AI计算效率。"
+  },
+  {
+    "title": "OpenAI预览下一代模型GPT-5.6 Sol",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "source": "OpenAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "OpenAI发布GPT-5.6 Sol预览版，这是继GPT-5之后的下一代模型，在推理和代码能力上有显著提升。"
+  },
+  {
+    "title": "微软Xbox裁员约25% Obsidian员工，Game Pass订阅数下滑至3000万",
+    "url": "https://www.theverge.com/2026/7/7/games/",
+    "source": "The Verge / WSJ",
+    "tag": "国际科技",
+    "time": "17:36",
+    "summary": "微软继续裁员游戏部门，Obsidian Entertainment约25%员工被裁，Xbox Game Pass订阅数从3400万降至3000万。"
+  },
+  {
+    "title": "Google Earth Pro桌面版将于2027年6月停止下载",
+    "url": "https://www.theverge.com/2026/7/7/tech/",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "20:52",
+    "summary": "Google宣布将于2027年6月25日起停止提供Google Earth Pro桌面应用下载，建议用户转用网页版。"
+  },
+  {
+    "title": "Notion推出全新AI Agents独立iOS应用",
+    "url": "https://9to5mac.com/2026/07/07/notion-just-launched-a-brand-new-iphone-app-called-agents/",
+    "source": "9to5Mac / The Verge",
+    "tag": "国际科技",
+    "time": "20:03",
+    "summary": "Notion发布专门的AI Agents iOS应用，支持ChatGPT、Gemini、Claude等多模型聊天和自定义智能体。"
+  },
+  {
+    "title": "福特Mustang Mach-E再次召回超4.2万辆",
+    "url": "https://electrek.co/2026/07/07/ford-recalling-over-42000-mustang-mach-e-evs/",
+    "source": "Electrek / The Verge",
+    "tag": "国际科技",
+    "time": "17:52",
+    "summary": "福特因差速器单元故障可能导致驱动力丧失，召回2021-2023年款Mustang Mach-E四驱版车型共4.2万辆。"
+  },
+  {
+    "title": "微软、OpenAI、Anthropic联合启动国家AI教学学院",
+    "url": "https://www.aicritique.org/us/2025/08/03/july-2025-ai-development-highlights/",
+    "source": "AI Critique / EqualAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "三家AI巨头与美国教师联合会合作，投入2300万美元为180万教育工作者提供免费AI培训。"
+  },
+  {
+    "title": "内存成本飙升导致低端智能手机市场萎缩22%",
+    "url": "https://omdia.tech.informa.com/blogs/2026/july/global-smartphones-priced-below-400-dollars-will-decline-by-22percent-as-memory-costs-soar",
+    "source": "Omdia / The Verge",
+    "tag": "行业数据",
+    "time": "17:57",
+    "summary": "Omdia报告显示内存芯片成本占低端手机成本一半以上，导致400美元以下智能手机销量预计下滑22%。"
+  },
+  {
+    "title": "谷歌Pixel 11或将涨价约100欧元并提前至8月发布",
+    "url": "https://9to5google.com/2026/07/07/pixel-11-price-128gb-release-date-leak/",
+    "source": "9to5Google / The Verge",
+    "tag": "国际科技",
+    "time": "14:47",
+    "summary": "Pixel 11全系预计涨价约100欧元，但基础版可能升级至256GB存储，发布时间或提前至8月。"
+  },
+  {
+    "title": "iPhone 18 Pro系列电池容量曝光：Pro Max达5567mAh",
+    "url": "https://www.macrumors.com/2026/07/06/iphone-18-pro-battery-capacities-revealed/",
+    "source": "MacRumors / The Verge",
+    "tag": "国际科技",
+    "time": "13:16",
+    "summary": "iPhone 18 Pro电池容量为4288mAh，Pro Max为5567mAh，后者较上代增加479mAh。"
+  },
+  {
+    "title": "Valve为Steam Machine发布Windows驱动程序",
+    "url": "https://www.windowscentral.com/gaming/pc-gaming/valve-releases-windows-pc-drivers-for-steam-machine",
+    "source": "Windows Central / The Verge",
+    "tag": "国际科技",
+    "time": "15:17",
+    "summary": "Valve为Steam Machine主机发布Windows驱动，用户可将Linux系统替换为Windows，但不支持双启动。"
+  },
+  {
+    "title": "Netflix第二季观众留存率显著下降引发行业关注",
+    "url": "https://www.theverge.com/streaming/961828/netflix-viewers-arent-sticking-around-for-season-2",
+    "source": "Bloomberg / The Verge",
+    "tag": "行业数据",
+    "time": "13:28",
+    "summary": "Bloomberg报告指出Netflix多部剧集第二季观众数量大幅下滑，反映流媒体内容留存挑战加剧。"
+  },
+  {
+    "title": "纽约法院系统禁止佩戴含摄像头智能眼镜入内",
+    "url": "https://www.theverge.com/2026/7/7/tech/",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "19:49",
+    "summary": "纽约州统一法院系统发布备忘录，7月20日起禁止任何含摄像头、麦克风等记录技术的头饰进入法院设施。"
+  }
+]
