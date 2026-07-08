@@ -1,0 +1,130 @@
+[
+  {
+    "title": "快手可灵AI完成近30亿美元融资，投后估值180亿美元",
+    "url": "https://www.news.cn/digital/20260703/bc3f78f1564842758c0cb82e9e4e8aa5/c.html",
+    "source": "新华网",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "快手旗下视频生成大模型可灵AI完成近30亿美元融资，由腾讯、阿里、百度等联合领投，投后估值达180亿美元。"
+  },
+  {
+    "title": "DeepSeek首轮融资超500亿元，打破零融资铁律",
+    "url": "https://cj.sina.com.cn/articles/view/7095179294/1a6e7d81e06802ly0q",
+    "source": "新浪财经",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "国产AI独角兽DeepSeek（深度求索）以超500亿元规模完成首轮融资，刷新国产大模型单笔融资纪录。"
+  },
+  {
+    "title": "德睿智药完成5200万美元B轮融资，专注AI驱动新药研发",
+    "url": "https://pitchhub.36kr.com/financing-flash",
+    "source": "36氪",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "AI驱动新药研发公司德睿智药宣布分阶段完成累计5200万美元B轮融资。"
+  },
+  {
+    "title": "OpenAI GPT-5.6系列获美国政府批准公开发布",
+    "url": "https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted",
+    "source": "Axios",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "特朗普政府批准OpenAI GPT-5.6模型套件公开发布，包括旗舰模型Sol、中端Terra和轻量Luna。"
+  },
+  {
+    "title": "Anthropic完成650亿美元融资，估值9650亿美元超越OpenAI",
+    "url": "https://thehill.com/policy/technology/5900111-anthropic-valuation-openai-race/",
+    "source": "The Hill",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Anthropic最新融资650亿美元，估值达9650亿美元，在AI独角兽上市竞赛中超越OpenAI。"
+  },
+  {
+    "title": "亚马逊推进Moonraker项目，Alexa进军AI智能体赛道",
+    "url": "https://www.businessinsider.com/amazon-moonraker-project-alexa-agentic-cost-2026-7",
+    "source": "Business Insider",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "亚马逊内部文件显示，Moonraker项目旨在让Alexa处理更复杂的多步骤任务，追赶Google和OpenAI的智能体布局。"
+  },
+  {
+    "title": "Google Gemini 3.5 Pro即将发布，支持200万token上下文",
+    "url": "https://www.techtimes.com/articles/317919/20260606/google-gemini-35-pro-nears-june-launch-2-million-token-context-deep-think-reasoning.htm",
+    "source": "Tech Times",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Google Gemini 3.5 Pro进入最后发布阶段，将提供200万token上下文窗口和Deep Think推理模式。"
+  },
+  {
+    "title": "OpenAI首席未来学家Joshua Achiam离职",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-chief-futurist-joshua-achiam-leaving",
+    "source": "The Verge",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "OpenAI首席未来学家Joshua Achiam在任职九年后离职，他表示AGI的未来取决于共同做出的选择。"
+  },
+  {
+    "title": "SpaceX以600亿美元收购Cursor，估值一度达2.9万亿美元",
+    "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "SpaceX宣布以600亿美元股票收购AI编程工具Cursor，股价飙升使估值一度达2.9万亿美元，超过亚马逊。"
+  },
+  {
+    "title": "PC出货量因AI军备竞赛导致内存短缺下降4.9%",
+    "url": "https://www.idc.com/resource-center/press-releases/2q26-pc-top5/",
+    "source": "IDC",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "全球PC出货量在连续九个季度增长后首次下降4.9%，AI芯片军备竞赛导致内存芯片严重短缺。"
+  },
+  {
+    "title": "Apple与Google、Nvidia合作开发最先进AI模型",
+    "url": "https://www.cnbc.com/2026/06/08/apple-google-nvidia-ai-chips.html",
+    "source": "CNBC",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Apple在WWDC 2026上宣布与Google和Nvidia合作开发Apple Foundation Model Cloud Pro，运行在Google云Nvidia GPU上。"
+  },
+  {
+    "title": "Google Photos推出AI Video Remix视频编辑功能",
+    "url": "https://www.theverge.com/tech/933552/google-gemini-ai-omni-flash-media-video-io-2026",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Google Photos推出基于Gemini Omni的Video Remix功能，支持AI视频重新打光、自定义背景和艺术风格转换。"
+  },
+  {
+    "title": "2026上半年中国AI融资突破3076亿元，占一级市场近半",
+    "url": "https://aiproducthub.cn/newsflash/2026-h1-china-ai-financing-307-billion-record/",
+    "source": "AI产品黄页",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "IT桔子报告显示，2026上半年中国AI创业公司融资总额达3076.82亿元，占同期一级市场总融资的48.6%。"
+  },
+  {
+    "title": "MGX（阿联酋）筹集490亿美元AI基金，投资OpenAI和Anthropic",
+    "url": "https://www.cnbc.com/2026/07/01/mgx-ai-fund-uae-49-billion.html",
+    "source": "CNBC",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "阿联酋MGX公司宣布筹集490亿美元AI投资基金，成为OpenAI、Anthropic和xAI的重要支持者。"
+  },
+  {
+    "title": "Microsoft裁员4800人，Xbox部门计划剥离四家工作室",
+    "url": "https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html",
+    "source": "CNBC",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "Microsoft宣布裁员约4800人，占员工总数2.1%，Xbox游戏部门计划将四家工作室剥离为独立公司。"
+  },
+  {
+    "title": "AI裁员潮持续加速，2026年已影响近15万名科技从业者",
+    "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "source": "TechCrunch",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "2026年至今科技行业已发生363起裁员，影响近15万人，AI被连续三月列为裁员首要原因，但批评者质疑这只是过度招聘的借口。"
+  }
+]
