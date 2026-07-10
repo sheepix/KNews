@@ -1,0 +1,142 @@
+[
+  {
+    "title": "OpenAI推出ChatGPT Work智能体，可持续数小时跟进任务",
+    "url": "https://www.36kr.com/newsflashes/3889047752866310",
+    "source": "36kr",
+    "tag": "AI前沿",
+    "summary": "OpenAI发布由GPT-5.6驱动的ChatGPT Work智能体，可跨应用持续执行数小时复杂任务并生成成品内容。"
+  },
+  {
+    "title": "Meta计划9月量产自研AI芯片Iris，降低对英伟达依赖",
+    "url": "https://www.theverge.com/tech/963510/meta-reportedly-plans-to-start-manufacturing-its-new-ai-chip-in-september",
+    "source": "The Verge",
+    "tag": "AI前沿",
+    "summary": "Meta计划9月量产代号Iris的第四代MTIA芯片，与博通、台积电合作，目标将计算能力翻倍至14吉瓦。"
+  },
+  {
+    "title": "扎克伯格为Meta付费AI工具制定激进价格策略",
+    "url": "https://www.36kr.com/newsflashes/3889012041480712",
+    "source": "36kr",
+    "tag": "AI前沿",
+    "summary": "Meta发布最先进模型Muse Spark 1.1并首次向开发者收费，扎克伯格称定价将极具竞争力。"
+  },
+  {
+    "title": "OpenAI应用负责人Fidji Simo因健康原因转任兼职顾问",
+    "url": "https://www.36kr.com/newsflashes/3889028174674432",
+    "source": "36kr",
+    "tag": "AI前沿",
+    "summary": "OpenAI应用业务负责人因长期慢性疾病恶化离任全职岗位，转任兼职顾问，仍将继续支持公司使命。"
+  },
+  {
+    "title": "OpenAI推出ChatGPT Sites，向建站平台领域扩张",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963571/is-openai-coming-for-squarespace-next",
+    "source": "The Verge",
+    "tag": "AI前沿",
+    "summary": "OpenAI推出ChatGPT Sites功能，可一键生成并托管网站，被视作向Squarespace等建站平台领域扩张。"
+  },
+  {
+    "title": "字节跳动发布多模态图像创作模型Seedream 5.0 Pro",
+    "url": "https://finance.sina.com.cn/tech/digi/2026-07-08/doc-inihceiu8052714.shtml",
+    "source": "新浪科技",
+    "tag": "AI前沿",
+    "summary": "字节发布Seedream 5.0 Pro，支持复杂信息可视化与交互式精准编辑，进一步扩展多模态创作能力。"
+  },
+  {
+    "title": "清华博士AI公司获数亿元融资，用AI重塑AI开发流程",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihewsv1419595.shtml",
+    "source": "新浪科技",
+    "tag": "AI前沿",
+    "summary": "清华博士创立的AI公司获数亿元融资，致力于用AI技术重构人工智能开发流程。"
+  },
+  {
+    "title": "Patreon与Cloudflare合作阻止AI爬虫抓取创作者内容",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963723/patreon-is-working-with-cloudflare-to-squash-ai-crawlers",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "summary": "Patreon宣布与Cloudflare合作，阻止AI爬虫抓取创作者内容用于模型训练，保护创作者权益。"
+  },
+  {
+    "title": "Netflix探索直播电视与第三方流媒体套餐捆绑",
+    "url": "https://www.36kr.com/newsflashes/3889022003428104",
+    "source": "36kr",
+    "tag": "国际科技",
+    "summary": "Netflix考虑增设全天候直播频道，并捆绑第三方流媒体订阅服务以提升用户活跃度、留住流失观众。"
+  },
+  {
+    "title": "蓝色起源寻求100亿美元外部融资，为公司史上首次",
+    "url": "https://finance.sina.com.cn/tech/digi/2026-07-09/doc-inihceir1466587.shtml",
+    "source": "新浪科技",
+    "tag": "国际科技",
+    "summary": "贝索斯旗下蓝色起源计划融资100亿美元，成立25年来首次引入外部投资，加速商业航天布局。"
+  },
+  {
+    "title": "2415万台式机采购大单揭晓：浪潮独揽1362万，华为第二、联想第三",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihfayz8604927.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "summary": "中央国家机关批量台式机采购结果公布，浪潮拿下1362万台最大份额，华为和联想分列二三。"
+  },
+  {
+    "title": "华为Pura80系列官方翻新版上架，最高便宜3700元",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihfayw7599503.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "summary": "华为官方翻新Pura 80 Pro/Pro+/Ultra上架，价格优势明显，最高较全新机便宜3700元。"
+  },
+  {
+    "title": "长鑫存储优先供应中国安卓手机内存，占比很快达50%",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihesky8279064.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "summary": "长鑫存储优先供应国产安卓机，内存搭载率已超30%，预计占比很快将达到50%。"
+  },
+  {
+    "title": "支付宝碰一下完成AI升级，用户已达4亿",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-08/doc-inihaxzw8059509.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "summary": "支付宝碰一下功能完成AI升级，用户规模突破4亿，持续拓展线下支付场景。"
+  },
+  {
+    "title": "比亚迪第1700万辆新能源汽车下线，海豹08登场",
+    "url": "https://finance.sina.com.cn/tech/digi/2026-07-08/doc-inihceir1465364.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "summary": "比亚迪宣布第1700万辆新能源车下线，并发布旗舰新车海豹08，继续领跑全球新能源市场。"
+  },
+  {
+    "title": "6月国内电视出货量环比回暖，达248.7万台",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihfayz8583232.shtml",
+    "source": "新浪科技",
+    "tag": "行业数据",
+    "summary": "洛图科技数据显示6月中国电视出货量达248.7万台，环比回暖，市场需求逐步恢复。"
+  },
+  {
+    "title": "IDC：PC大盘微降6.1%，一人公司逆势贡献160万台新需求",
+    "url": "https://finance.sina.com.cn/tech/digi/2026-07-09/doc-inihence7718223.shtml",
+    "source": "新浪科技",
+    "tag": "行业数据",
+    "summary": "IDC报告显示全球PC市场小幅下滑6.1%，但小型企业/个人工作室需求逆势增长显著。"
+  },
+  {
+    "title": "ASML年报：2025净销售额327亿欧元，中国贡献33%营收",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihceir1552464.shtml",
+    "source": "新浪科技",
+    "tag": "行业数据",
+    "summary": "ASML披露2025年净销售额327亿欧元，中国地区贡献33%营收，为其最大单一市场之一。"
+  },
+  {
+    "title": "大众汽车计划全球裁员10-12万人，关闭部分德国工厂",
+    "url": "https://www.36kr.com/newsflashes/3889033454156551",
+    "source": "36kr",
+    "tag": "行业数据",
+    "summary": "大众汽车集团计划全球裁员10至12万人，并关闭部分德国工厂，工会与政府均表示强烈反对。"
+  },
+  {
+    "title": "A股注册制改革驱动，超10家港股科创企业启动回A",
+    "url": "https://www.36kr.com/newsflashes/3889061995100936",
+    "source": "36kr",
+    "tag": "行业数据",
+    "summary": "在A股注册制包容性改革驱动下，越疆科技、智谱、MiniMax等超10家港股科创企业启动A股IPO申报。"
+  }
+]
