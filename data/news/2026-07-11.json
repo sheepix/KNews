@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Meta发布Muse Spark 1.1及首个付费API，进军Agentic AI",
+    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+    "source": "Meta AI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Meta推出Muse Spark 1.1，支持100万token上下文和Agentic任务，同时发布首个付费开发者API。"
+  },
+  {
+    "title": "OpenAI发布GPT-5.6三档模型：Sol、Terra、Luna",
+    "url": "https://techcrunch.com/2026/07/",
+    "source": "TechCrunch",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "GPT-5.6分为旗舰Sol、性价比Terra和快速Luna三档，Sol搭载Ultra子代理模式。"
+  },
+  {
+    "title": "SpaceXAI推出Grok 4.5，与Cursor合作训练编程Agent模型",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Grok 4.5采用1.5T参数MoE架构，基于Cursor真实交互数据训练，编程效率提升显著。"
+  },
+  {
+    "title": "Anthropic恢复Fable 5全球服务，新增网络安全分类器",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "因出口管制暂停19天后，Anthropic恢复Fable 5和Mythos 5全球访问，并加强安全防护措施。"
+  },
+  {
+    "title": "Anthropic发布Claude Sonnet 5，号称'最Agentic的Sonnet'",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Sonnet 5以接近Opus 4.8的性能和$2/$10的入门定价推出，但新tokenizer可能增加35%token消耗。"
+  },
+  {
+    "title": "OpenAI推出GPT-Live全双工语音，支持实时翻译和Hey Chat唤醒",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "GPT-Live可在说话同时监听并实时决策，支持9种重制语音和实时翻译，面向ChatGPT付费用户。"
+  },
+  {
+    "title": "美团披露LongCat-2.0：1.6T参数MoE，纯国产ASIC训练",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "LongCat-2.0完全使用中国ASIC芯片训练，无需NVIDIA硬件，在SWE-bench Pro上得分59.5。"
+  },
+  {
+    "title": "Mistral发布首款具身导航模型Robostral Navigate",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "8B参数机器人模型，通过单RGB摄像头和自然语言指令引导机器人导航，在R2R-CE基准上达到SOTA。"
+  },
+  {
+    "title": "Bluesky正式任命Toni Schneider为CEO，推进平台商业化",
+    "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Toni Schneider从临时CEO转正，Bluesky计划开发更小型社区和私密空间功能。"
+  },
+  {
+    "title": "Apple Intelligence智能家居功能需2TB iCloud+订阅",
+    "url": "https://www.macrumors.com/2026/07/06/ios-27-home-app-features-icloud/",
+    "source": "MacRumors",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "iOS 27中Apple Intelligence Home功能要求至少2TB iCloud+计划，引发用户对订阅门槛的讨论。"
+  },
+  {
+    "title": "Phoebe Gates购物应用Phia被曝劫持佣金争议",
+    "url": "https://www.theverge.com/tech",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Bloomberg测试发现Phia在结账时后台注入自己的推荐码，覆盖其他发布者的合法推荐来源。"
+  },
+  {
+    "title": "Insta360发布Luna相机3D打印模型，开放配件生态",
+    "url": "https://www.theverge.com/archives/tech/2026/7/1",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Insta360公开Luna相机的3D模型文件，允许用户自行3D打印配件，扩展相机生态。"
+  },
+  {
+    "title": "Bethesda工会将举行'Save Our Devs'抗议活动，反对Xbox裁员",
+    "url": "https://www.theverge.com/archives/tech/2026/7/1",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "OneBGS工会计划在7月15日举行多城市集会，抗议微软和ZeniMax裁员超过440个职位。"
+  },
+  {
+    "title": "2026上半年中国创投融资同比增长73.4%，美元占比翻倍",
+    "url": "https://zhuanlan.zhihu.com/p/2055742759949145605",
+    "source": "知乎/IT桔子",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "IT桔子报告显示2026上半年国内一级市场融资事件数量和金额大幅增长，美元融资占比显著提升。"
+  },
+  {
+    "title": "中国独角兽企业达517家，总估值约2.39万亿美元",
+    "url": "https://www.itjuzi.com/report/juzi",
+    "source": "IT桔子",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "截至2026年7月1日，中国独角兽企业数量及估值数据更新，上半年新上榜67家。"
+  },
+  {
+    "title": "全球AI基础设施债务融资超1070亿美元，美国科技巨头资本开支将破万亿",
+    "url": "https://www.navcn.cn/1480.html",
+    "source": "NavCN",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "摩根士丹利预测美国头部科技企业2026年资本开支达8050亿美元，2027年有望突破1.1万亿美元。"
+  },
+  {
+    "title": "Together AI完成8亿美元C轮融资，估值83亿美元",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "Aramco Ventures领投，NVIDIA等跟投，Together AI年化订单超10亿美元，计划五年扩容50倍基础设施。"
+  },
+  {
+    "title": "中国金融科技专利数量和质量均居全球首位",
+    "url": "https://scitech.people.com.cn/",
+    "source": "人民网科技",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "外媒报道中国金融科技专利在数量和质量上均领先全球，反映中国在该领域的技术积累。"
+  },
+  {
+    "title": "《智能网联汽车组合驾驶辅助系统安全要求》国标拟于2027年实施",
+    "url": "https://36kr.com/information/technology/",
+    "source": "36氪",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "GB 47955—2026强制性国家标准将'辅助'定位写入硬约束，计划于2027年1月1日起实施。"
+  },
+  {
+    "title": "PyTorch 2.13发布：Apple Silicon FlexAttention提速约12倍",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "PyTorch 2.13带来3328个提交，FlexAttention在Apple Silicon上实现约12倍加速，并支持确定性CUDA反向路径。"
+  }
+]
