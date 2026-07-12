@@ -1,0 +1,130 @@
+[
+  {
+    "title": "OpenAI发布GPT-5.6三档模型家族：Sol、Terra、Luna",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:00",
+    "summary": "OpenAI发布GPT-5.6作为三个层级：Sol（旗舰级，支持Ultra子代理模式）、Terra（约5.5级智能但成本减半）、Luna（轻量快速版），均基于约4T参数的Spud预训练。"
+  },
+  {
+    "title": "Meta发布Muse Spark 1.1及首个付费API",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:00",
+    "summary": "Meta推出Muse Spark 1.1，拥有100万token上下文窗口的代理模型，在MCP Atlas等多项基准测试中排名第一，并首次推出付费开发者API。"
+  },
+  {
+    "title": "Anthropic发布Sonnet 5并恢复Fable 5全球访问",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:00",
+    "summary": "Anthropic推出Sonnet 5，性能接近Opus 4.8但价格更低；同时Fable 5在美国出口管制解除后恢复全球访问。"
+  },
+  {
+    "title": "Google DeepMind发布OmniFlash：Omni系列首款any-to-any模型",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:00",
+    "summary": "Google DeepMind发布OmniFlash，可生成最长10秒视频，支持精确对话式多轮编辑，编辑Elo达1087，输出每秒0.10美元。"
+  },
+  {
+    "title": "Mistral发布首款具身导航模型Robostral Navigate",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:00",
+    "summary": "Mistral发布80亿参数的Robostral Navigate，通过单RGB摄像头和自然语言指令引导机器人导航，在R2R-CE基准上达到SOTA。"
+  },
+  {
+    "title": "SpaceXAI发布Grok 4.5：与Cursor合作训练的编程代理模型",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:00",
+    "summary": "SpaceXAI（xAI并入后）发布Grok 4.5，1.5T参数MoE，使用数万亿Cursor代理交互数据训练，Terminal-Bench 2.1达83.3%。"
+  },
+  {
+    "title": "美团开源LongCat-2.0：1.6万亿参数MoE，全链路国产算力训练",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "国内科技",
+    "time": "07:00",
+    "summary": "美团开源1.6T参数MoE大模型LongCat-2.0，全流程国产算力适配，SWE-bench Pro达59.5分，每百万token仅0.038美元。"
+  },
+  {
+    "title": "字节跳动发布Seedream 5.0 Pro图像设计工具",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "国内科技",
+    "time": "07:00",
+    "summary": "字节跳动发布Seedream 5.0 Pro，支持4K原生分辨率、智能图层分离、10+语言原生文本渲染，定位从图像生成器升级为设计工具。"
+  },
+  {
+    "title": "中国AI模型在美国企业中快速普及，OpenRouter占比超30%",
+    "url": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+    "source": "CNBC",
+    "tag": "国内科技",
+    "time": "07:00",
+    "summary": "中国AI模型（DeepSeek、Z.ai等）在美国企业中快速普及，OpenRouter上占比自2月起每周超30%，成本比美国模型低60%-90%。"
+  },
+  {
+    "title": "SK Hynix以265亿美元创下美国史上最大外资IPO",
+    "url": "https://techcrunch.com/2026/07/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "time": "07:00",
+    "summary": "韩国芯片制造商SK Hynix在美国IPO中筹集265亿美元，创下美国历史上最大规模的外国企业IPO纪录。"
+  },
+  {
+    "title": "欧盟新规将迫使下一代Apple Pencil采用可更换电池设计",
+    "url": "https://www.theverge.com/archives/tech/2026/7/1",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "07:00",
+    "summary": "Mark Gurman称下一代Apple Pencil和iPad Pro将更新设计，因欧盟2月生效的新规要求电池必须可用基础工具更换。"
+  },
+  {
+    "title": "Anthropic在Claude内部发现类似意识全局工作空间的J-space",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:00",
+    "summary": "Anthropic使用J-lens技术发现Claude内部约25个活跃概念的子空间，行为类似意识神经科学中的全局工作空间。"
+  },
+  {
+    "title": "2026上半年全球初创融资创纪录达5100亿美元",
+    "url": "https://inews.zoombangla.com/startup-funding-record-h1-2026-ai-boom/",
+    "source": "ZoomBangla/iNews",
+    "tag": "行业数据",
+    "time": "07:00",
+    "summary": "2026年上半年全球初创投资达创纪录的5100亿美元，超2025全年4400亿美元，其中超70%流向AI公司。"
+  },
+  {
+    "title": "Together AI完成8亿美元C轮融资，估值83亿美元",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "行业数据",
+    "time": "07:00",
+    "summary": "Together AI完成8亿美元C轮融资，由Aramco Ventures领投，年化预订额超10亿美元，计划五年内50倍基础设施增长。"
+  },
+  {
+    "title": "OpenAI和Anthropic上半年合计吸金2170亿美元，占风投总额43%",
+    "url": "https://inews.zoombangla.com/startup-funding-record-h1-2026-ai-boom/",
+    "source": "ZoomBangla/iNews",
+    "tag": "行业数据",
+    "time": "07:00",
+    "summary": "OpenAI和Anthropic在2026年上半年共吸引2170亿美元投资，占同期所有风险投资总额的43%。"
+  },
+  {
+    "title": "PyTorch 2.13发布：Apple Silicon上FlexAttention提速约12倍",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "国际科技",
+    "time": "07:00",
+    "summary": "PyTorch 2.13发布，3328次提交来自526位贡献者，FlexAttention在Apple Silicon上比SDPA快约12倍，新增确定性CUDA反向路径。"
+  }
+]
