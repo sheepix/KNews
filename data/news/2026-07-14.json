@@ -1,0 +1,154 @@
+[
+  {
+    "title": "全球首款大模型原生智能体手机登场，阶跃发布STEPX终端品牌",
+    "url": "https://finance.sina.com.cn/tech/it/2026-07-13/doc-inihspyr7428559.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "07:44",
+    "summary": "阶跃星辰发布STEPX终端品牌，推出全球首款大模型原生智能体手机，搭载自研Step系列大模型。"
+  },
+  {
+    "title": "消息称华为乾崑智驾ADS 5大概率本月底或下月初全量推送",
+    "url": "https://finance.sina.com.cn/tech/digi/2026-07-13/doc-inihsita5678580.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "07:38",
+    "summary": "华为乾崑智驾ADS 5预计将在7月底或8月初向用户全量推送，带来全新WEWA 2.0架构。"
+  },
+  {
+    "title": "AI 5秒挖出潜伏15年的漏洞，Google重奖61万元",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihsckv7471687.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "07:22",
+    "summary": "Google AI安全团队利用大模型在5秒内发现一处潜伏15年的软件漏洞，发放约61万元奖金。"
+  },
+  {
+    "title": "苹果起诉OpenAI内幕：前员工一句哈哈竟成窃密关键证据",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-13/doc-inihpchi4709336.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "06:15",
+    "summary": "彭博社揭秘苹果诉OpenAI案内幕，41页诉状显示OpenAI allegedly coached前员工躲避安全检查。"
+  },
+  {
+    "title": "全球首次！中国可复用火箭实现历史性突破，商业航天大涨",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-12/doc-inihpcha5994044.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "18:30",
+    "summary": "中国可复用火箭完成历史性突破，实现垂直起降回收，商业航天板块应声大涨。"
+  },
+  {
+    "title": "字节跳动联手努比亚，全球首款AI智能体手机首批总量达50万台",
+    "url": "https://finance.sina.com.cn/tech/discovery/2026-07-10/doc-inihifyc5251308.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "14:20",
+    "summary": "字节跳动与努比亚合作推出全球首款AI智能体手机，首批生产总量达50万台。"
+  },
+  {
+    "title": "OpenAI shuts down ChatGPT Atlas browser after less than a year",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "17:00",
+    "summary": "OpenAI宣布将于8月9日关闭发布不到一年的ChatGPT Atlas浏览器，功能将整合进ChatGPT Work。"
+  },
+  {
+    "title": "Meta's Muse Image model can pull other Instagram users into AI photos",
+    "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "15:30",
+    "summary": "Meta推出Muse Image生成模型，用户可在Meta AI中@提及他人账号，将其形象融入AI生成图片。"
+  },
+  {
+    "title": "Fidji Simo steps down from leading OpenAI's AGI work due to illness",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+    "source": "The Verge",
+    "tag": "国际科技",
+    "time": "14:00",
+    "summary": "OpenAI AGI负责人Fidji Simo因健康问题辞去全职职务，转为兼职顾问，Greg Brockman继续负责产品。"
+  },
+  {
+    "title": "OpenAI unveils GPT-5.6 model suite: Sol, Terra, Luna amid US regulatory drama",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+    "source": "The Verge",
+    "tag": "AI前沿",
+    "time": "12:00",
+    "summary": "OpenAI在特朗普政府审查后发布GPT-5.6系列模型，包含旗舰Sol、中档Terra和快速Luna三个版本。"
+  },
+  {
+    "title": "Meta launches Muse Spark 1.1 and its first paid developer API",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "10:00",
+    "summary": "Meta发布Muse Spark 1.1，具备100万token上下文和Agentic能力，同时推出首个付费开发者API。"
+  },
+  {
+    "title": "SpaceXAI launches Grok 4.5, a coding model trained with trillions of Cursor tokens",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "09:30",
+    "summary": "SpaceXAI发布Grok 4.5，1.5T参数MoE架构，使用数万亿Cursor代理交互数据训练，定价$2/$6每百万token。"
+  },
+  {
+    "title": "Anthropic restores Fable 5 globally after 19-day US export control pause",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "08:00",
+    "summary": "Anthropic在暂停19天后恢复Fable 5全球访问，新增网络安全分类器作为最强安全防护措施。"
+  },
+  {
+    "title": "Claude Sonnet 5 launched with near-Opus 4.8 performance at intro pricing",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:00",
+    "summary": "Anthropic发布Claude Sonnet 5，接近Opus 4.8性能，限时 introductory 定价$2/$10每百万token至8月31日。"
+  },
+  {
+    "title": "Meituan reveals LongCat-2.0, a 1.6T MoE trained entirely on Chinese ASICs",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "06:00",
+    "summary": "美团披露1.6万亿参数MoE模型LongCat-2.0，完全使用中国ASIC芯片训练，无NVIDIA硬件参与。"
+  },
+  {
+    "title": "Together AI raises $800M Series C at $8.3B valuation",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "行业数据",
+    "time": "11:00",
+    "summary": "Together AI完成8亿美元C轮融资，估值83亿美元，年化预订收入超10亿美元，Aramco Ventures领投。"
+  },
+  {
+    "title": "Big Tech Q1 2026: Microsoft Azure +40%, Meta revenue +33%",
+    "url": "https://valueaddvc.com/blog/big-tech-earnings-q1-2026-apple-microsoft-google-meta-amazon-nvidia-results",
+    "source": "ValueAdd VC",
+    "tag": "行业数据",
+    "time": "10:00",
+    "summary": "Q1 2026科技巨头财报显示AI投入转化为收入：Azure同比增长40%，AWS加速至28%，Meta营收增长33%。"
+  },
+  {
+    "title": "Q1 2026 shatters venture funding records with $300B into 6,000 startups",
+    "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+    "source": "Crunchbase News",
+    "tag": "行业数据",
+    "time": "09:00",
+    "summary": "2026年Q1全球风险投资达3000亿美元，投入6000家初创公司，同比增长超150%，AI计算驱动为主要因素。"
+  },
+  {
+    "title": "AI startups raised $202B in 2025, nearly half of all global VC",
+    "url": "https://www.secondtalent.com/resources/ai-startup-funding-investment/",
+    "source": "Second Talent",
+    "tag": "行业数据",
+    "time": "08:00",
+    "summary": "2025年AI初创公司融资约2020亿美元，占全球风险投资近一半，mega-round和估值持续创新高。"
+  }
+]
