@@ -1,0 +1,154 @@
+[
+  {
+    "title": "OpenAI发布GPT-5.6三模型家族：Sol/Terra/Luna",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:10",
+    "summary": "GPT-5.6推出Sol（旗舰）、Terra（半价同级）、Luna（快速版）三个版本，Sol首次在ARC-AGI-3上击败公开游戏。"
+  },
+  {
+    "title": "Anthropic发布Claude Sonnet 5，性能逼近Opus 4.8",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:15",
+    "summary": "Sonnet 5以$2/$10每百万token的 introductory 价格推出，编码基准63.2%，但新tokenizer可能多消耗35% token。"
+  },
+  {
+    "title": "Meta发布Muse Spark 1.1及首个付费API",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:20",
+    "summary": "Muse Spark 1.1支持100万token上下文，宣称在MCP Atlas等多项agent基准上排名第一，Meta首次推出付费开发者API。"
+  },
+  {
+    "title": "SpaceXAI（原xAI）发布Grok 4.5，1.5T参数MoE",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:25",
+    "summary": "Grok 4.5基于V9架构，使用Cursor真实交互数据训练，Terminal-Bench 2.1达83.3%，但自曝训练数据污染CursorBench分数。"
+  },
+  {
+    "title": "Google Gemini 3.5 Pro延迟至7月，市值蒸发$2250亿",
+    "url": "https://tech-insider.org/au/gemini-3-5-pro-delayed-july-2026/",
+    "source": "Tech Insider",
+    "tag": "AI前沿",
+    "time": "07:30",
+    "summary": "Google在十天内经历旗舰模型延迟、两位顶级研究员离职至OpenAI和Anthropic，以及单次交易日市值蒸发约$2250亿。"
+  },
+  {
+    "title": "Anthropic Fable 5恢复全球服务，出口管制解除",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:35",
+    "summary": "Fable 5在6月12日被暂停后于7月1日恢复全球访问，新增网络安全分类器作为最强防护措施，无需身份验证。"
+  },
+  {
+    "title": "美团披露LongCat-2.0：1.6T MoE，纯国产ASIC训练",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:40",
+    "summary": "LongCat-2.0是1.6万亿参数MoE，全程使用中国ASIC芯片无NVIDIA硬件训练，SWE-bench Pro达59.5分，$0.038/百万token。"
+  },
+  {
+    "title": "Cognition发布SWE-1.7，基于Kimi K2.7开源基座",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:45",
+    "summary": "SWE-1.7是Moonshot Kimi K2.7的RL微调版本，FrontierCode从30.1%提升至42.3%，Cerebras托管速度达1000 token/s。"
+  },
+  {
+    "title": "Reve 2.1图像生成模型登顶Text-to-Image Arena第二",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:50",
+    "summary": "Reve 2.1以1306分位列Text-to-Image Arena第二，采用分层架构，每个元素可独立编辑，图像围绕修改元素重建。"
+  },
+  {
+    "title": "ByteDance发布Seedream 5.0 Pro，企业级图像设计工具",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "07:55",
+    "summary": "Seedream 5.0 Pro支持交互式精确编辑、智能图层分离、10+语言原生文本渲染，4K分辨率，企业优先通过BytePlus API。"
+  },
+  {
+    "title": "SpaceX估值飙升至$2.6T，收购Cursor后超亚马逊",
+    "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "time": "08:00",
+    "summary": "SpaceX IPO后股价飙升，估值一度达$2.9T，以$600亿股票收购AI编程公司Cursor，成为第五大市值公司。"
+  },
+  {
+    "title": "AI裁员潮成火药桶：今年科技行业近15万人被裁",
+    "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "source": "TechCrunch",
+    "tag": "国际科技",
+    "time": "08:05",
+    "summary": "2026年科技行业已裁员近15万人，速度比去年快44%，AI连续三个月成为各行业裁员的首要原因，但质疑声日益高涨。"
+  },
+  {
+    "title": "OpenAI和Anthropic冲刺IPO，华尔街严阵以待",
+    "url": "https://www.cnn.com/2026/06/09/tech/openai-ipo-anthropic-wall-street",
+    "source": "CNN Business",
+    "tag": "国际科技",
+    "time": "08:10",
+    "summary": "Anthropic以约$9650亿估值完成$650亿融资并提交保密IPO文件，OpenAI紧随其后，AI公司私有估值面临公开市场检验。"
+  },
+  {
+    "title": "Together AI完成$8亿Series C，估值$83亿",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "行业数据",
+    "time": "08:15",
+    "summary": "Aramco Ventures领投，NVIDIA、Vista Equity等跟投，Together AI年预订额超$10亿，平台开源模型使用量同比增长三倍。"
+  },
+  {
+    "title": "SK Hynix纳斯达克上市首日涨13%，市值$1.27万亿",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-july-11-2026",
+    "source": "AI Tools Recap",
+    "tag": "行业数据",
+    "time": "08:20",
+    "summary": "SK Hynix以$168.01收盘，7倍超额认购，为Anthropic和OpenAI预计Q4的IPO铺平道路，标志AI基础设施股获市场认可。"
+  },
+  {
+    "title": "TSMC 6月营收创纪录，同比增长68%",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-july-15-2026",
+    "source": "AI Tools Recap",
+    "tag": "行业数据",
+    "time": "08:25",
+    "summary": "TSMC Q2营收$396亿，N3工艺全年产能售罄，AI芯片支出持续加速，显示AI基础设施投资需求强劲。"
+  },
+  {
+    "title": "2026上半年全球VC达$5100亿纪录，AI占43%",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-july-4-2026",
+    "source": "AI Tools Recap",
+    "tag": "行业数据",
+    "time": "08:30",
+    "summary": "OpenAI和Anthropic两家吸走全球上半年风险投资总额的43%，AI领域资本集中度创历史新高。"
+  },
+  {
+    "title": "中国考虑限制海外获取先进AI模型",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-july-13-2026",
+    "source": "AI Tools Recap",
+    "tag": "国内科技",
+    "time": "08:35",
+    "summary": "中国 reportedly 考虑限制海外访问其最先进AI模型，此举若实施将逆转DeepSeek、Qwen、GLM等推动的开放权重策略。"
+  },
+  {
+    "title": "Z.ai创始人发布开放AI备忘录，反对海外AI限制",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-july-15-2026",
+    "source": "AI Tools Recap",
+    "tag": "国内科技",
+    "time": "08:40",
+    "summary": "Z.ai创始人唐杰发表备忘录，主张AI应保持开放，是对中国讨论海外AI限制的最明确公开反对声音。"
+  }
+]
