@@ -1,0 +1,138 @@
+[
+  {
+    "title": "OpenAI发布GPT-5.6三模型家族：Sol、Terra、Luna",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "GPT-5.6推出旗舰Sol、性价比Terra和轻量Luna三档，Sol配备Ultra子代理模式，Terra以半价达到GPT-5.5水平。"
+  },
+  {
+    "title": "Meta发布Muse Spark 1.1及首个付费Model API",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "Muse Spark 1.1支持100万token上下文，在多项智能体基准测试中登顶，Meta首次推出付费开发者API。"
+  },
+  {
+    "title": "Anthropic恢复Fable 5全球服务，新增网络安全分类器",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "因出口管制暂停19天后，Fable 5与Mythos 5恢复全球访问，新增号称最强安全机制的网络安全分类器。"
+  },
+  {
+    "title": "xAI Grok CLI被曝静默上传用户完整代码库，引发信任危机",
+    "url": "https://iaipie.com/2026%E5%B9%B47%E6%9C%8816%E6%97%A5ai%E8%A1%8C%E4%B8%9A%E8%B5%84%E8%AE%AF%E9%80%9F%E8%A7%88/",
+    "source": "无矩AI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "安全研究者发现Grok CLI每轮任务前后将工作目录打包静默上传至xAI服务器，未告知用户且无关闭选项。"
+  },
+  {
+    "title": "DeepSeek启动新一轮融资，投前估值710亿美元，筹备2027年IPO",
+    "url": "https://iaipie.com/2026%E5%B9%B47%E6%9C%8816%E6%97%A5ai%E8%A1%8C%E4%B8%9A%E8%B5%84%E8%AE%AF%E9%80%9F%E8%A7%88/",
+    "source": "无矩AI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "DeepSeek V4上线仅一天即启动新轮融资，估值较首轮融资后上涨37%，最快年底递交A股上市申请。"
+  },
+  {
+    "title": "美团披露LongCat-2.0：1.6T MoE，完全基于国产ASIC训练",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "AI前沿",
+    "time": "",
+    "summary": "LongCat-2.0为1.6万亿参数MoE，训练全程未使用NVIDIA硬件，在SWE-bench Pro得分59.5，每百万token仅0.038美元。"
+  },
+  {
+    "title": "苹果Apple智能正式完成国内备案，iPhone端侧AI落地障碍扫除",
+    "url": "https://iaipie.com/2026%E5%B9%B47%E6%9C%8816%E6%97%A5ai%E8%A1%8C%E4%B8%9A%E8%B5%84%E8%AE%AF%E9%80%9F%E8%A7%88/",
+    "source": "无矩AI",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "中央网信办公告Apple智能等7款端侧AI服务完成备案，苹果将与阿里千问、百度AI合作落地中国市场。"
+  },
+  {
+    "title": "面壁智能半年融资超50亿元，估值突破200亿成端侧AI最大独角兽",
+    "url": "https://iaipie.com/2026%E5%B9%B47%E6%9C%8816%E6%97%A5ai%E8%A1%8C%E4%B8%9A%E8%B5%84%E8%AE%AF%E9%80%9F%E8%A7%88/",
+    "source": "无矩AI",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "面壁智能2026年上半年累计融资超50亿元，半年内完成三轮大规模融资，成为端侧智能领域估值最大的独角兽。"
+  },
+  {
+    "title": "比亚迪：截至2026年6月底智驾车型累计销量突破333万辆",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-16/doc-inihzfcy1400808.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "比亚迪智能驾驶车型累计出货量达333万辆，每日产生智能驾驶数据2.1亿公里。"
+  },
+  {
+    "title": "百度申请香港、纳斯达克双重主要上市",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-07-16/doc-inihyywc8071987.shtml",
+    "source": "新浪科技",
+    "tag": "国内科技",
+    "time": "",
+    "summary": "百度向香港联交所及纳斯达克提交双重主要上市申请，进一步拓宽国际融资渠道。"
+  },
+  {
+    "title": "IBM警告AI基础设施支出正在吞噬传统软件预算",
+    "url": "https://techstartups.com/2026/07/15/top-tech-news-today-july-15-2026-apple-asml-ibm-anthropic-meta-nvidia-openai-stripe-paypal-more/",
+    "source": "Tech Startups",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "IBM表示企业IT预算正从传统软件转向数据中心、GPU和AI基础设施，导致Q2营收不及预期。"
+  },
+  {
+    "title": "Nvidia收紧亚洲AI芯片销售管控，切断转售中国渠道",
+    "url": "https://techstartups.com/2026/07/15/top-tech-news-today-july-15-2026-apple-asml-ibm-anthropic-meta-nvidia-openai-stripe-paypal-more/",
+    "source": "Tech Startups",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Nvidia将亚洲授权买家名单削减超一半，对新加坡、马来西亚和日本实施白名单审查和现场审计。"
+  },
+  {
+    "title": "Stripe与Advent reportedly提交530亿美元收购PayPal要约",
+    "url": "https://techstartups.com/2026/07/15/top-tech-news-today-july-15-2026-apple-asml-ibm-anthropic-meta-nvidia-openai-stripe-paypal-more/",
+    "source": "Tech Startups",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Stripe与Advent International联合出价530亿美元收购PayPal，报价每股60.50美元，银行承诺约500亿美元融资。"
+  },
+  {
+    "title": "Meta撤回Instagram AI图像工具更新，用户强烈反对照片被用于AI训练",
+    "url": "https://techstartups.com/2026/07/15/top-tech-news-today-july-15-2026-apple-asml-ibm-anthropic-meta-nvidia-openai-stripe-paypal-more/",
+    "source": "Tech Startups",
+    "tag": "国际科技",
+    "time": "",
+    "summary": "Meta暂停允许AI广泛使用用户照片生成图像的更新，因隐私和深度伪造风险引发用户强烈反对。"
+  },
+  {
+    "title": "ASML上调2026全年展望，AI芯片需求推动半导体产能扩张",
+    "url": "https://techstartups.com/2026/07/15/top-tech-news-today-july-15-2026-apple-asml-ibm-anthropic-meta-nvidia-openai-stripe-paypal-more/",
+    "source": "Tech Startups",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "ASML第二季度业绩超预期，上调全年财务展望，计划增加EUV光刻机产能以满足AI处理器长期需求。"
+  },
+  {
+    "title": "Together AI完成8亿美元C轮融资，估值83亿美元",
+    "url": "https://thursdai.news/releases/2026-07",
+    "source": "ThursdAI",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "Aramco Ventures领投，Nvidia、Vista Equity和General Catalyst参投，Together AI年预定额超10亿美元，平台开源模型使用量同比增长三倍。"
+  },
+  {
+    "title": "上半年VC一半投向AI，30家公司融资超1700亿元",
+    "url": "https://m.36kr.com/p/3879665206407427",
+    "source": "36氪",
+    "tag": "行业数据",
+    "time": "",
+    "summary": "2026年上半年，中国风险投资约一半资金流向AI赛道，30家头部公司合计融资超1700亿元。"
+  }
+]
